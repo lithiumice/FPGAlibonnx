@@ -1,0 +1,5 @@
+D:/ProgramFiles/intelFPGA/18.1/hld/board/terasic/de1_soc/tests/DE1_libonnx/build_gcc_armlinux/CMakeFiles/edit_cache.dir
+D:/ProgramFiles/intelFPGA/18.1/hld/board/terasic/de1_soc/tests/DE1_libonnx/build_gcc_armlinux/CMakeFiles/rebuild_cache.dir
+D:/ProgramFiles/intelFPGA/18.1/hld/board/terasic/de1_soc/tests/DE1_libonnx/build_gcc_armlinux/src/CMakeFiles/libonnx.dir
+D:/ProgramFiles/intelFPGA/18.1/hld/board/terasic/de1_soc/tests/DE1_libonnx/build_gcc_armlinux/src/CMakeFiles/edit_cache.dir
+D:/ProgramFiles/intelFPGA/18.1/hld/board/terasic/de1_soc/tests/DE1_libonnx/build_gcc_armlinux/src/CMakeFiles/rebuild_cache.dir

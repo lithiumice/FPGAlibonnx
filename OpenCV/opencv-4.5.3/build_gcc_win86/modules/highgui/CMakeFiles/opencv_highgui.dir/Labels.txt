@@ -1,0 +1,23 @@
+# Target labels
+ Main
+ opencv_highgui
+ Module
+# Source files and their labels
+/mnt/d/ProgramFiles/intelFPGA/18.1/hld/board/terasic/de1_soc/tests/DE1_libonnx/OpenCV/opencv-4.5.3/modules/highgui/include/opencv2/highgui.hpp
+ Main
+ opencv_highgui
+ Module
+/mnt/d/ProgramFiles/intelFPGA/18.1/hld/board/terasic/de1_soc/tests/DE1_libonnx/OpenCV/opencv-4.5.3/modules/highgui/include/opencv2/highgui/highgui.hpp
+ Main
+ opencv_highgui
+ Module
+/mnt/d/ProgramFiles/intelFPGA/18.1/hld/board/terasic/de1_soc/tests/DE1_libonnx/OpenCV/opencv-4.5.3/modules/highgui/src/exif.cpp
+ Main
+ opencv_highgui
+ Module
+/mnt/d/ProgramFiles/intelFPGA/18.1/hld/board/terasic/de1_soc/tests/DE1_libonnx/OpenCV/opencv-4.5.3/modules/highgui/src/highgui.cpp
+ Main
+ opencv_highgui
+ Module
+/mnt/d/ProgramFiles/intelFPGA/18.1/hld/board/terasic/de1_soc/tests/DE1_libonnx/OpenCV/opencv-4.5.3/build_gcc_win86/cvconfig.h
+/mnt/d/ProgramFiles/intelFPGA/18.1/hld/board/terasic/de1_soc/tests/DE1_libonnx/OpenCV/opencv-4.5.3/build_gcc_win86/opencv2/opencv_modules.hpp

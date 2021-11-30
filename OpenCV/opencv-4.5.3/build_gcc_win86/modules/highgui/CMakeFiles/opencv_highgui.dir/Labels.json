@@ -1,0 +1,57 @@
+{
+	"sources" : 
+	[
+		{
+			"file" : "/mnt/d/ProgramFiles/intelFPGA/18.1/hld/board/terasic/de1_soc/tests/DE1_libonnx/OpenCV/opencv-4.5.3/modules/highgui/include/opencv2/highgui.hpp",
+			"labels" : 
+			[
+				"Main",
+				"opencv_highgui",
+				"Module"
+			]
+		},
+		{
+			"file" : "/mnt/d/ProgramFiles/intelFPGA/18.1/hld/board/terasic/de1_soc/tests/DE1_libonnx/OpenCV/opencv-4.5.3/modules/highgui/include/opencv2/highgui/highgui.hpp",
+			"labels" : 
+			[
+				"Main",
+				"opencv_highgui",
+				"Module"
+			]
+		},
+		{
+			"file" : "/mnt/d/ProgramFiles/intelFPGA/18.1/hld/board/terasic/de1_soc/tests/DE1_libonnx/OpenCV/opencv-4.5.3/modules/highgui/src/exif.cpp",
+			"labels" : 
+			[
+				"Main",
+				"opencv_highgui",
+				"Module"
+			]
+		},
+		{
+			"file" : "/mnt/d/ProgramFiles/intelFPGA/18.1/hld/board/terasic/de1_soc/tests/DE1_libonnx/OpenCV/opencv-4.5.3/modules/highgui/src/highgui.cpp",
+			"labels" : 
+			[
+				"Main",
+				"opencv_highgui",
+				"Module"
+			]
+		},
+		{
+			"file" : "/mnt/d/ProgramFiles/intelFPGA/18.1/hld/board/terasic/de1_soc/tests/DE1_libonnx/OpenCV/opencv-4.5.3/build_gcc_win86/cvconfig.h"
+		},
+		{
+			"file" : "/mnt/d/ProgramFiles/intelFPGA/18.1/hld/board/terasic/de1_soc/tests/DE1_libonnx/OpenCV/opencv-4.5.3/build_gcc_win86/opencv2/opencv_modules.hpp"
+		}
+	],
+	"target" : 
+	{
+		"labels" : 
+		[
+			"Main",
+			"opencv_highgui",
+			"Module"
+		],
+		"name" : "opencv_highgui"
+	}
+}

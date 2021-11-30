@@ -1,0 +1,2 @@
+"C:/Program Files (x86)/Dev-Cpp/MinGW64/bin/ar.exe" qc liblicvqr.a CMakeFiles/licvqr.dir/QRdec/li_qrcode.c.obj
+"C:/Program Files (x86)/Dev-Cpp/MinGW64/bin/ranlib.exe" liblicvqr.a

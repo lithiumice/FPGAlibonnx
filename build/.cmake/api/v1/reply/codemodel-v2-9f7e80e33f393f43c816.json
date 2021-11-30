@@ -1,0 +1,169 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"childIndexes" : 
+					[
+						1,
+						2
+					],
+					"hasInstallRule" : true,
+					"jsonFile" : "directory-.-DEBUG-d0094a50bb2071803777.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.10"
+					},
+					"projectIndex" : 0,
+					"source" : "."
+				},
+				{
+					"build" : "src",
+					"hasInstallRule" : true,
+					"jsonFile" : "directory-src-DEBUG-893c931a26a99e631d34.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.8"
+					},
+					"parentIndex" : 0,
+					"projectIndex" : 0,
+					"source" : "src",
+					"targetIndexes" : 
+					[
+						3
+					]
+				},
+				{
+					"build" : "examples",
+					"childIndexes" : 
+					[
+						3,
+						4,
+						5
+					],
+					"jsonFile" : "directory-examples-DEBUG-2e8964349ffea94e1580.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.1"
+					},
+					"parentIndex" : 0,
+					"projectIndex" : 0,
+					"source" : "examples"
+				},
+				{
+					"build" : "examples/hello",
+					"jsonFile" : "directory-examples.hello-DEBUG-637d7cc26accb5d48da1.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.10"
+					},
+					"parentIndex" : 2,
+					"projectIndex" : 0,
+					"source" : "examples/hello",
+					"targetIndexes" : 
+					[
+						1
+					]
+				},
+				{
+					"build" : "examples/mnist",
+					"jsonFile" : "directory-examples.mnist-DEBUG-8f2f5136b1d5d7a0fb27.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.10"
+					},
+					"parentIndex" : 2,
+					"projectIndex" : 0,
+					"source" : "examples/mnist",
+					"targetIndexes" : 
+					[
+						2
+					]
+				},
+				{
+					"build" : "examples/benchmark",
+					"jsonFile" : "directory-examples.benchmark-DEBUG-bcc8eaa08804ad1b3978.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.10"
+					},
+					"parentIndex" : 2,
+					"projectIndex" : 0,
+					"source" : "examples/benchmark",
+					"targetIndexes" : 
+					[
+						0
+					]
+				}
+			],
+			"name" : "DEBUG",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4,
+						5
+					],
+					"name" : "libonnx",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 5,
+					"id" : "benchmark::@a0d87477248e0e8cb3d7",
+					"jsonFile" : "target-benchmark-DEBUG-6a8028de17067a64b95c.json",
+					"name" : "benchmark",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 3,
+					"id" : "hello::@0ca29bb718b55d66006f",
+					"jsonFile" : "target-hello-DEBUG-eeaee698e750e505e20b.json",
+					"name" : "hello",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 4,
+					"id" : "mnist::@5a91b8422b42ea379d8b",
+					"jsonFile" : "target-mnist-DEBUG-df1f0a0ee8183d094c79.json",
+					"name" : "mnist",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 1,
+					"id" : "onnx::@145eef247bfb46b6828c",
+					"jsonFile" : "target-onnx-DEBUG-dae24ffe9c95658670f5.json",
+					"name" : "onnx",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "D:/ProgramFiles/intelFPGA/18.1/hld/board/terasic/de1_soc/tests/DE1_libonnx/build",
+		"source" : "D:/ProgramFiles/intelFPGA/18.1/hld/board/terasic/de1_soc/tests/DE1_libonnx"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 3
+	}
+}

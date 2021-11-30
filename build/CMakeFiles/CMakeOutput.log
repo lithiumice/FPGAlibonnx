@@ -1,0 +1,461 @@
+The system is: Windows - 10.0.19042 - AMD64
+Compiling the C compiler identification source file "CMakeCCompilerId.c" succeeded.
+Compiler: C:/Program Files (x86)/LLVM/bin/clang.exe 
+Build flags: 
+Id flags:  
+
+The output was:
+0
+
+
+Compilation of the C compiler identification source "CMakeCCompilerId.c" produced "a.out"
+
+The C compiler identification is Clang, found in "D:/ProgramFiles/intelFPGA/18.1/hld/board/terasic/de1_soc/tests/DE1_libonnx/build/CMakeFiles/3.21.3/CompilerIdC/a.out"
+
+Compiling the CXX compiler identification source file "CMakeCXXCompilerId.cpp" succeeded.
+Compiler: C:/Program Files (x86)/LLVM/bin/clang++.exe 
+Build flags: 
+Id flags:  
+
+The output was:
+0
+
+
+Compilation of the CXX compiler identification source "CMakeCXXCompilerId.cpp" produced "a.out"
+
+The CXX compiler identification is Clang, found in "D:/ProgramFiles/intelFPGA/18.1/hld/board/terasic/de1_soc/tests/DE1_libonnx/build/CMakeFiles/3.21.3/CompilerIdCXX/a.out"
+
+Detecting C compiler ABI info compiled with the following output:
+Change Dir: D:/ProgramFiles/intelFPGA/18.1/hld/board/terasic/de1_soc/tests/DE1_libonnx/build/CMakeFiles/CMakeTmp
+
+Run Build Command(s):C:/ProgramData/chocolatey/bin/make.exe -f Makefile cmTC_bfbc3/fast && C:/ProgramData/chocolatey/lib/make/tools/install/bin/make.exe  -f CMakeFiles/cmTC_bfbc3.dir/build.make CMakeFiles/cmTC_bfbc3.dir/build
+make[1]: Entering directory 'D:/ProgramFiles/intelFPGA/18.1/hld/board/terasic/de1_soc/tests/DE1_libonnx/build/CMakeFiles/CMakeTmp'
+Building C object CMakeFiles/cmTC_bfbc3.dir/CMakeCCompilerABI.c.obj
+"C:/Program Files (x86)/LLVM/bin/clang.exe"   -v -MD -MT CMakeFiles/cmTC_bfbc3.dir/CMakeCCompilerABI.c.obj -MF CMakeFiles/cmTC_bfbc3.dir/CMakeCCompilerABI.c.obj.d -o CMakeFiles/cmTC_bfbc3.dir/CMakeCCompilerABI.c.obj -c "C:/Program Files/CMake/share/cmake-3.21/Modules/CMakeCCompilerABI.c"
+clang version 3.4 (198054)
+Target: i686-pc-mingw32
+Thread model: posix
+Selected GCC installation: 
+ "C:\Program Files (x86)\LLVM\bin\clang.exe" -cc1 -triple i686-pc-mingw32 -S -disable-free -main-file-name CMakeCCompilerABI.c -mrelocation-model static -mdisable-fp-elim -fmath-errno -mconstructor-aliases -target-cpu pentium4 -v -coverage-file "C:\\Users\\LITHIU~1\\AppData\\Local\\Temp\\CMakeCCompilerABI-9bded4.s" -resource-dir "C:\\Program Files (x86)\\LLVM\\bin\\..\\lib\\clang\\3.4" -dependency-file CMakeFiles/cmTC_bfbc3.dir/CMakeCCompilerABI.c.obj.d -sys-header-deps -MT CMakeFiles/cmTC_bfbc3.dir/CMakeCCompilerABI.c.obj -fno-dwarf-directory-asm -fdebug-compilation-dir "D:\\ProgramFiles\\intelFPGA\\18.1\\hld\\board\\terasic\\de1_soc\\tests\\DE1_libonnx\\build\\CMakeFiles\\CMakeTmp" -ferror-limit 19 -fmessage-length 0 -mstackrealign -fno-use-cxa-atexit -fobjc-runtime=gcc -fdiagnostics-show-option -vectorize-slp -o "C:\\Users\\LITHIU~1\\AppData\\Local\\Temp\\CMakeCCompilerABI-9bded4.s" -x c C:/Program Files/CMake/share/cmake-3.21/Modules/CMakeCCompilerABI.c
+clang -cc1 version 3.4 based upon LLVM 3.4 default target i686-pc-mingw32
+ignoring nonexistent directory "/usr/local/include"
+ignoring nonexistent directory "C:\Program Files (x86)\LLVM\bin\..\lib\clang\3.4\../../../i686-w64-mingw32/include"
+ignoring nonexistent directory "C:\Program Files (x86)\LLVM\bin\..\lib\clang\3.4\../../../x86_64-w64-mingw32/include"
+ignoring nonexistent directory "/mingw/include"
+ignoring nonexistent directory "c:/mingw/include"
+ignoring nonexistent directory "/usr/include"
+#include "..." search starts here:
+#include <...> search starts here:
+ C:\Program Files (x86)\LLVM\bin\..\lib\clang\3.4\include
+ C:\Program Files (x86)\LLVM\bin\..\lib\clang\3.4\../../../include
+End of search list.
+ "C:\Program Files (x86)\Dev-Cpp\MinGW64\bin\gcc.exe" -v -MD -MT CMakeFiles/cmTC_bfbc3.dir/CMakeCCompilerABI.c.obj -MF CMakeFiles/cmTC_bfbc3.dir/CMakeCCompilerABI.c.obj.d -c -m32 -o CMakeFiles/cmTC_bfbc3.dir/CMakeCCompilerABI.c.obj -x assembler "C:\\Users\\LITHIU~1\\AppData\\Local\\Temp\\CMakeCCompilerABI-9bded4.s"
+Using built-in specs.
+COLLECT_GCC=C:\Program Files (x86)\Dev-Cpp\MinGW64\bin\gcc.exe
+Target: x86_64-w64-mingw32
+Configured with: ../../../src/gcc-4.9.2/configure --build=x86_64-w64-mingw32 --enable-targets=all --enable-languages=ada,c,c++,fortran,lto,objc,obj-c++ --enable-libgomp --enable-lto --enable-graphite --enable-cxx-flags=-DWINPTHREAD_STATIC --disable-build-with-cxx --disable-build-poststage1-with-cxx --enable-libstdcxx-debug --enable-threads=posix --enable-version-specific-runtime-libs --enable-fully-dynamic-string --enable-libstdcxx-threads --enable-libstdcxx-time --with-gnu-ld --disable-werror --disable-nls --disable-win32-registry --prefix=/mingw64tdm --with-local-prefix=/mingw64tdm --with-pkgversion=tdm64-1 --with-bugurl=http://tdm-gcc.tdragon.net/bugs
+Thread model: posix
+gcc version 4.9.2 (tdm64-1) 
+COLLECT_GCC_OPTIONS='-v' '-MD' '-MT' 'CMakeFiles/cmTC_bfbc3.dir/CMakeCCompilerABI.c.obj' '-MF' 'CMakeFiles/cmTC_bfbc3.dir/CMakeCCompilerABI.c.obj.d' '-c' '-m32' '-o' 'CMakeFiles/cmTC_bfbc3.dir/CMakeCCompilerABI.c.obj' '-mtune=generic' '-march=x86-64'
+ C:/Program Files (x86)/Dev-Cpp/MinGW64/bin/../lib/gcc/x86_64-w64-mingw32/4.9.2/../../../../x86_64-w64-mingw32/bin/as.exe -v --32 -o CMakeFiles/cmTC_bfbc3.dir/CMakeCCompilerABI.c.obj C:\Users\LITHIU~1\AppData\Local\Temp\CMakeCCompilerABI-9bded4.s
+GNU assembler version 2.24.51 (x86_64-w64-mingw32) using BFD version (GNU Binutils) 2.24.51.20140703
+COMPILER_PATH=C:/Program Files (x86)/Dev-Cpp/MinGW64/bin/../libexec/gcc/x86_64-w64-mingw32/4.9.2/;C:/Program Files (x86)/Dev-Cpp/MinGW64/bin/../libexec/gcc/;C:/Program Files (x86)/Dev-Cpp/MinGW64/bin/../lib/gcc/x86_64-w64-mingw32/4.9.2/../../../../x86_64-w64-mingw32/bin/
+LIBRARY_PATH=C:/Program Files (x86)/Dev-Cpp/MinGW64/bin/../lib/gcc/x86_64-w64-mingw32/4.9.2/32/;C:/Program Files (x86)/Dev-Cpp/MinGW64/bin/../lib/gcc/x86_64-w64-mingw32/4.9.2/../../../../x86_64-w64-mingw32/lib/../lib32/;C:/Program Files (x86)/Dev-Cpp/MinGW64/bin/../lib/gcc/x86_64-w64-mingw32/4.9.2/;C:/Program Files (x86)/Dev-Cpp/MinGW64/bin/../lib/gcc/;C:/Program Files (x86)/Dev-Cpp/MinGW64/bin/../lib/gcc/x86_64-w64-mingw32/4.9.2/../../../../x86_64-w64-mingw32/lib/;C:/Program Files (x86)/Dev-Cpp/MinGW64/bin/../lib/gcc/x86_64-w64-mingw32/4.9.2/../../../
+COLLECT_GCC_OPTIONS='-v' '-MD' '-MT' 'CMakeFiles/cmTC_bfbc3.dir/CMakeCCompilerABI.c.obj' '-MF' 'CMakeFiles/cmTC_bfbc3.dir/CMakeCCompilerABI.c.obj.d' '-c' '-m32' '-o' 'CMakeFiles/cmTC_bfbc3.dir/CMakeCCompilerABI.c.obj' '-mtune=generic' '-march=x86-64'
+Linking C executable cmTC_bfbc3.exe
+"C:/Program Files/CMake/bin/cmake.exe" -E rm -f CMakeFiles/cmTC_bfbc3.dir/objects.a
+"C:/Program Files (x86)/LLVM/bin/llvm-ar.exe" qc CMakeFiles/cmTC_bfbc3.dir/objects.a @CMakeFiles/cmTC_bfbc3.dir/objects1.rsp
+"C:/Program Files (x86)/LLVM/bin/clang.exe"  -v -Wl,--whole-archive CMakeFiles/cmTC_bfbc3.dir/objects.a -Wl,--no-whole-archive -o cmTC_bfbc3.exe -Wl,--out-implib,libcmTC_bfbc3.dll.a -Wl,--major-image-version,0,--minor-image-version,0 
+clang version 3.4 (198054)
+Target: i686-pc-mingw32
+Thread model: posix
+Selected GCC installation: 
+ "C:\Program Files (x86)\Dev-Cpp\MinGW64\bin\gcc.exe" -v -m32 -o cmTC_bfbc3.exe -Wl,--whole-archive CMakeFiles/cmTC_bfbc3.dir/objects.a -Wl,--no-whole-archive -Wl,--out-implib,libcmTC_bfbc3.dll.a -Wl,--major-image-version,0,--minor-image-version,0
+Using built-in specs.
+COLLECT_GCC=C:\Program Files (x86)\Dev-Cpp\MinGW64\bin\gcc.exe
+COLLECT_LTO_WRAPPER=C:/Program\ Files\ (x86)/Dev-Cpp/MinGW64/bin/../libexec/gcc/x86_64-w64-mingw32/4.9.2/lto-wrapper.exe
+Target: x86_64-w64-mingw32
+Configured with: ../../../src/gcc-4.9.2/configure --build=x86_64-w64-mingw32 --enable-targets=all --enable-languages=ada,c,c++,fortran,lto,objc,obj-c++ --enable-libgomp --enable-lto --enable-graphite --enable-cxx-flags=-DWINPTHREAD_STATIC --disable-build-with-cxx --disable-build-poststage1-with-cxx --enable-libstdcxx-debug --enable-threads=posix --enable-version-specific-runtime-libs --enable-fully-dynamic-string --enable-libstdcxx-threads --enable-libstdcxx-time --with-gnu-ld --disable-werror --disable-nls --disable-win32-registry --prefix=/mingw64tdm --with-local-prefix=/mingw64tdm --with-pkgversion=tdm64-1 --with-bugurl=http://tdm-gcc.tdragon.net/bugs
+Thread model: posix
+gcc version 4.9.2 (tdm64-1) 
+COMPILER_PATH=C:/Program Files (x86)/Dev-Cpp/MinGW64/bin/../libexec/gcc/x86_64-w64-mingw32/4.9.2/;C:/Program Files (x86)/Dev-Cpp/MinGW64/bin/../libexec/gcc/;C:/Program Files (x86)/Dev-Cpp/MinGW64/bin/../lib/gcc/x86_64-w64-mingw32/4.9.2/../../../../x86_64-w64-mingw32/bin/
+LIBRARY_PATH=C:/Program Files (x86)/Dev-Cpp/MinGW64/bin/../lib/gcc/x86_64-w64-mingw32/4.9.2/32/;C:/Program Files (x86)/Dev-Cpp/MinGW64/bin/../lib/gcc/x86_64-w64-mingw32/4.9.2/../../../../x86_64-w64-mingw32/lib/../lib32/;C:/Program Files (x86)/Dev-Cpp/MinGW64/bin/../lib/gcc/x86_64-w64-mingw32/4.9.2/;C:/Program Files (x86)/Dev-Cpp/MinGW64/bin/../lib/gcc/;C:/Program Files (x86)/Dev-Cpp/MinGW64/bin/../lib/gcc/x86_64-w64-mingw32/4.9.2/../../../../x86_64-w64-mingw32/lib/;C:/Program Files (x86)/Dev-Cpp/MinGW64/bin/../lib/gcc/x86_64-w64-mingw32/4.9.2/../../../
+COLLECT_GCC_OPTIONS='-v' '-m32' '-o' 'cmTC_bfbc3.exe' '-mtune=generic' '-march=x86-64'
+ C:/Program Files (x86)/Dev-Cpp/MinGW64/bin/../libexec/gcc/x86_64-w64-mingw32/4.9.2/collect2.exe -plugin C:/Program Files (x86)/Dev-Cpp/MinGW64/bin/../libexec/gcc/x86_64-w64-mingw32/4.9.2/liblto_plugin-0.dll -plugin-opt=C:/Program Files (x86)/Dev-Cpp/MinGW64/bin/../libexec/gcc/x86_64-w64-mingw32/4.9.2/lto-wrapper.exe -plugin-opt=-fresolution=C:\Users\LITHIU~1\AppData\Local\Temp\ccZGrYso.res -plugin-opt=-pass-through=-lmingw32 -plugin-opt=-pass-through=-lgcc -plugin-opt=-pass-through=-lmoldname -plugin-opt=-pass-through=-lmingwex -plugin-opt=-pass-through=-lmsvcrt -plugin-opt=-pass-through=-lpthread -plugin-opt=-pass-through=-ladvapi32 -plugin-opt=-pass-through=-lshell32 -plugin-opt=-pass-through=-luser32 -plugin-opt=-pass-through=-lkernel32 -plugin-opt=-pass-through=-lmingw32 -plugin-opt=-pass-through=-lgcc -plugin-opt=-pass-through=-lmoldname -plugin-opt=-pass-through=-lmingwex -plugin-opt=-pass-through=-lmsvcrt -m i386pe --exclude-libs=libpthread.a -Bdynamic -o cmTC_bfbc3.exe C:/Program Files (x86)/Dev-Cpp/MinGW64/bin/../lib/gcc/x86_64-w64-mingw32/4.9.2/../../../../x86_64-w64-mingw32/lib/../lib32/crt2.o C:/Program Files (x86)/Dev-Cpp/MinGW64/bin/../lib/gcc/x86_64-w64-mingw32/4.9.2/../../../../x86_64-w64-mingw32/lib/../lib32/crtbegin.o -LC:/Program Files (x86)/Dev-Cpp/MinGW64/bin/../lib/gcc/x86_64-w64-mingw32/4.9.2/32 -LC:/Program Files (x86)/Dev-Cpp/MinGW64/bin/../lib/gcc/x86_64-w64-mingw32/4.9.2/../../../../x86_64-w64-mingw32/lib/../lib32 -LC:/Program Files (x86)/Dev-Cpp/MinGW64/bin/../lib/gcc/x86_64-w64-mingw32/4.9.2 -LC:/Program Files (x86)/Dev-Cpp/MinGW64/bin/../lib/gcc -LC:/Program Files (x86)/Dev-Cpp/MinGW64/bin/../lib/gcc/x86_64-w64-mingw32/4.9.2/../../../../x86_64-w64-mingw32/lib -LC:/Program Files (x86)/Dev-Cpp/MinGW64/bin/../lib/gcc/x86_64-w64-mingw32/4.9.2/../../.. --whole-archive CMakeFiles/cmTC_bfbc3.dir/objects.a --no-whole-archive --out-implib libcmTC_bfbc3.dll.a --major-image-version 0 --minor-image-version 0 -lmingw32 -lgcc -lmoldname -lmingwex -lmsvcrt -lpthread -ladvapi32 -lshell32 -luser32 -lkernel32 -lmingw32 -lgcc -lmoldname -lmingwex -lmsvcrt C:/Program Files (x86)/Dev-Cpp/MinGW64/bin/../lib/gcc/x86_64-w64-mingw32/4.9.2/../../../../x86_64-w64-mingw32/lib/../lib32/crtend.o
+make[1]: Leaving directory 'D:/ProgramFiles/intelFPGA/18.1/hld/board/terasic/de1_soc/tests/DE1_libonnx/build/CMakeFiles/CMakeTmp'
+
+
+
+Parsed C implicit include dir info from above output: rv=done
+  found start of include info
+  found start of implicit include info
+    add: [C:/Program Files (x86)/LLVM/bin/../lib/clang/3.4/include]
+    add: [C:/Program Files (x86)/LLVM/bin/../lib/clang/3.4/../../../include]
+  end of search list found
+  collapse include dir [C:/Program Files (x86)/LLVM/bin/../lib/clang/3.4/include] ==> [C:/Program Files (x86)/LLVM/lib/clang/3.4/include]
+  collapse include dir [C:/Program Files (x86)/LLVM/bin/../lib/clang/3.4/../../../include] ==> [C:/Program Files (x86)/LLVM/include]
+  implicit include dirs: [C:/Program Files (x86)/LLVM/lib/clang/3.4/include;C:/Program Files (x86)/LLVM/include]
+
+
+Parsed C implicit link information from above output:
+  link line regex: [^( *|.*[/\])(ld\.exe|CMAKE_LINK_STARTFILE-NOTFOUND|([^/\]+-)?ld|collect2)[^/\]*( |$)]
+  ignore line: [Change Dir: D:/ProgramFiles/intelFPGA/18.1/hld/board/terasic/de1_soc/tests/DE1_libonnx/build/CMakeFiles/CMakeTmp]
+  ignore line: []
+  ignore line: [Run Build Command(s):C:/ProgramData/chocolatey/bin/make.exe -f Makefile cmTC_bfbc3/fast && C:/ProgramData/chocolatey/lib/make/tools/install/bin/make.exe  -f CMakeFiles/cmTC_bfbc3.dir/build.make CMakeFiles/cmTC_bfbc3.dir/build]
+  ignore line: [make[1]: Entering directory 'D:/ProgramFiles/intelFPGA/18.1/hld/board/terasic/de1_soc/tests/DE1_libonnx/build/CMakeFiles/CMakeTmp']
+  ignore line: [Building C object CMakeFiles/cmTC_bfbc3.dir/CMakeCCompilerABI.c.obj]
+  ignore line: ["C:/Program Files (x86)/LLVM/bin/clang.exe"   -v -MD -MT CMakeFiles/cmTC_bfbc3.dir/CMakeCCompilerABI.c.obj -MF CMakeFiles/cmTC_bfbc3.dir/CMakeCCompilerABI.c.obj.d -o CMakeFiles/cmTC_bfbc3.dir/CMakeCCompilerABI.c.obj -c "C:/Program Files/CMake/share/cmake-3.21/Modules/CMakeCCompilerABI.c"]
+  ignore line: [clang version 3.4 (198054)]
+  ignore line: [Target: i686-pc-mingw32]
+  ignore line: [Thread model: posix]
+  ignore line: [Selected GCC installation: ]
+  ignore line: [ "C:\Program Files (x86)\LLVM\bin\clang.exe" -cc1 -triple i686-pc-mingw32 -S -disable-free -main-file-name CMakeCCompilerABI.c -mrelocation-model static -mdisable-fp-elim -fmath-errno -mconstructor-aliases -target-cpu pentium4 -v -coverage-file "C:\\Users\\LITHIU~1\\AppData\\Local\\Temp\\CMakeCCompilerABI-9bded4.s" -resource-dir "C:\\Program Files (x86)\\LLVM\\bin\\..\\lib\\clang\\3.4" -dependency-file CMakeFiles/cmTC_bfbc3.dir/CMakeCCompilerABI.c.obj.d -sys-header-deps -MT CMakeFiles/cmTC_bfbc3.dir/CMakeCCompilerABI.c.obj -fno-dwarf-directory-asm -fdebug-compilation-dir "D:\\ProgramFiles\\intelFPGA\\18.1\\hld\\board\\terasic\\de1_soc\\tests\\DE1_libonnx\\build\\CMakeFiles\\CMakeTmp" -ferror-limit 19 -fmessage-length 0 -mstackrealign -fno-use-cxa-atexit -fobjc-runtime=gcc -fdiagnostics-show-option -vectorize-slp -o "C:\\Users\\LITHIU~1\\AppData\\Local\\Temp\\CMakeCCompilerABI-9bded4.s" -x c C:/Program Files/CMake/share/cmake-3.21/Modules/CMakeCCompilerABI.c]
+  ignore line: [clang -cc1 version 3.4 based upon LLVM 3.4 default target i686-pc-mingw32]
+  ignore line: [ignoring nonexistent directory "/usr/local/include"]
+  ignore line: [ignoring nonexistent directory "C:\Program Files (x86)\LLVM\bin\..\lib\clang\3.4\../../../i686-w64-mingw32/include"]
+  ignore line: [ignoring nonexistent directory "C:\Program Files (x86)\LLVM\bin\..\lib\clang\3.4\../../../x86_64-w64-mingw32/include"]
+  ignore line: [ignoring nonexistent directory "/mingw/include"]
+  ignore line: [ignoring nonexistent directory "c:/mingw/include"]
+  ignore line: [ignoring nonexistent directory "/usr/include"]
+  ignore line: [#include "..." search starts here:]
+  ignore line: [#include <...> search starts here:]
+  ignore line: [ C:\Program Files (x86)\LLVM\bin\..\lib\clang\3.4\include]
+  ignore line: [ C:\Program Files (x86)\LLVM\bin\..\lib\clang\3.4\../../../include]
+  ignore line: [End of search list.]
+  ignore line: [ "C:\Program Files (x86)\Dev-Cpp\MinGW64\bin\gcc.exe" -v -MD -MT CMakeFiles/cmTC_bfbc3.dir/CMakeCCompilerABI.c.obj -MF CMakeFiles/cmTC_bfbc3.dir/CMakeCCompilerABI.c.obj.d -c -m32 -o CMakeFiles/cmTC_bfbc3.dir/CMakeCCompilerABI.c.obj -x assembler "C:\\Users\\LITHIU~1\\AppData\\Local\\Temp\\CMakeCCompilerABI-9bded4.s"]
+  ignore line: [Using built-in specs.]
+  ignore line: [COLLECT_GCC=C:\Program Files (x86)\Dev-Cpp\MinGW64\bin\gcc.exe]
+  ignore line: [Target: x86_64-w64-mingw32]
+  ignore line: [Configured with: ../../../src/gcc-4.9.2/configure --build=x86_64-w64-mingw32 --enable-targets=all --enable-languages=ada,c,c++,fortran,lto,objc,obj-c++ --enable-libgomp --enable-lto --enable-graphite --enable-cxx-flags=-DWINPTHREAD_STATIC --disable-build-with-cxx --disable-build-poststage1-with-cxx --enable-libstdcxx-debug --enable-threads=posix --enable-version-specific-runtime-libs --enable-fully-dynamic-string --enable-libstdcxx-threads --enable-libstdcxx-time --with-gnu-ld --disable-werror --disable-nls --disable-win32-registry --prefix=/mingw64tdm --with-local-prefix=/mingw64tdm --with-pkgversion=tdm64-1 --with-bugurl=http://tdm-gcc.tdragon.net/bugs]
+  ignore line: [Thread model: posix]
+  ignore line: [gcc version 4.9.2 (tdm64-1) ]
+  ignore line: [COLLECT_GCC_OPTIONS='-v' '-MD' '-MT' 'CMakeFiles/cmTC_bfbc3.dir/CMakeCCompilerABI.c.obj' '-MF' 'CMakeFiles/cmTC_bfbc3.dir/CMakeCCompilerABI.c.obj.d' '-c' '-m32' '-o' 'CMakeFiles/cmTC_bfbc3.dir/CMakeCCompilerABI.c.obj' '-mtune=generic' '-march=x86-64']
+  ignore line: [ C:/Program Files (x86)/Dev-Cpp/MinGW64/bin/../lib/gcc/x86_64-w64-mingw32/4.9.2/../../../../x86_64-w64-mingw32/bin/as.exe -v --32 -o CMakeFiles/cmTC_bfbc3.dir/CMakeCCompilerABI.c.obj C:\Users\LITHIU~1\AppData\Local\Temp\CMakeCCompilerABI-9bded4.s]
+  ignore line: [GNU assembler version 2.24.51 (x86_64-w64-mingw32) using BFD version (GNU Binutils) 2.24.51.20140703]
+  ignore line: [COMPILER_PATH=C:/Program Files (x86)/Dev-Cpp/MinGW64/bin/../libexec/gcc/x86_64-w64-mingw32/4.9.2/]
+  ignore line: [C:/Program Files (x86)/Dev-Cpp/MinGW64/bin/../libexec/gcc/]
+  ignore line: [C:/Program Files (x86)/Dev-Cpp/MinGW64/bin/../lib/gcc/x86_64-w64-mingw32/4.9.2/../../../../x86_64-w64-mingw32/bin/]
+  ignore line: [LIBRARY_PATH=C:/Program Files (x86)/Dev-Cpp/MinGW64/bin/../lib/gcc/x86_64-w64-mingw32/4.9.2/32/]
+  ignore line: [C:/Program Files (x86)/Dev-Cpp/MinGW64/bin/../lib/gcc/x86_64-w64-mingw32/4.9.2/../../../../x86_64-w64-mingw32/lib/../lib32/]
+  ignore line: [C:/Program Files (x86)/Dev-Cpp/MinGW64/bin/../lib/gcc/x86_64-w64-mingw32/4.9.2/]
+  ignore line: [C:/Program Files (x86)/Dev-Cpp/MinGW64/bin/../lib/gcc/]
+  ignore line: [C:/Program Files (x86)/Dev-Cpp/MinGW64/bin/../lib/gcc/x86_64-w64-mingw32/4.9.2/../../../../x86_64-w64-mingw32/lib/]
+  ignore line: [C:/Program Files (x86)/Dev-Cpp/MinGW64/bin/../lib/gcc/x86_64-w64-mingw32/4.9.2/../../../]
+  ignore line: [COLLECT_GCC_OPTIONS='-v' '-MD' '-MT' 'CMakeFiles/cmTC_bfbc3.dir/CMakeCCompilerABI.c.obj' '-MF' 'CMakeFiles/cmTC_bfbc3.dir/CMakeCCompilerABI.c.obj.d' '-c' '-m32' '-o' 'CMakeFiles/cmTC_bfbc3.dir/CMakeCCompilerABI.c.obj' '-mtune=generic' '-march=x86-64']
+  ignore line: [Linking C executable cmTC_bfbc3.exe]
+  ignore line: ["C:/Program Files/CMake/bin/cmake.exe" -E rm -f CMakeFiles/cmTC_bfbc3.dir/objects.a]
+  ignore line: ["C:/Program Files (x86)/LLVM/bin/llvm-ar.exe" qc CMakeFiles/cmTC_bfbc3.dir/objects.a @CMakeFiles/cmTC_bfbc3.dir/objects1.rsp]
+  ignore line: ["C:/Program Files (x86)/LLVM/bin/clang.exe"  -v -Wl --whole-archive CMakeFiles/cmTC_bfbc3.dir/objects.a -Wl --no-whole-archive -o cmTC_bfbc3.exe -Wl --out-implib libcmTC_bfbc3.dll.a -Wl --major-image-version 0 --minor-image-version 0 ]
+  ignore line: [clang version 3.4 (198054)]
+  ignore line: [Target: i686-pc-mingw32]
+  ignore line: [Thread model: posix]
+  ignore line: [Selected GCC installation: ]
+  ignore line: [ "C:\Program Files (x86)\Dev-Cpp\MinGW64\bin\gcc.exe" -v -m32 -o cmTC_bfbc3.exe -Wl --whole-archive CMakeFiles/cmTC_bfbc3.dir/objects.a -Wl --no-whole-archive -Wl --out-implib libcmTC_bfbc3.dll.a -Wl --major-image-version 0 --minor-image-version 0]
+  ignore line: [Using built-in specs.]
+  ignore line: [COLLECT_GCC=C:\Program Files (x86)\Dev-Cpp\MinGW64\bin\gcc.exe]
+  ignore line: [COLLECT_LTO_WRAPPER=C:/Program\ Files\ (x86)/Dev-Cpp/MinGW64/bin/../libexec/gcc/x86_64-w64-mingw32/4.9.2/lto-wrapper.exe]
+  ignore line: [Target: x86_64-w64-mingw32]
+  ignore line: [Configured with: ../../../src/gcc-4.9.2/configure --build=x86_64-w64-mingw32 --enable-targets=all --enable-languages=ada,c,c++,fortran,lto,objc,obj-c++ --enable-libgomp --enable-lto --enable-graphite --enable-cxx-flags=-DWINPTHREAD_STATIC --disable-build-with-cxx --disable-build-poststage1-with-cxx --enable-libstdcxx-debug --enable-threads=posix --enable-version-specific-runtime-libs --enable-fully-dynamic-string --enable-libstdcxx-threads --enable-libstdcxx-time --with-gnu-ld --disable-werror --disable-nls --disable-win32-registry --prefix=/mingw64tdm --with-local-prefix=/mingw64tdm --with-pkgversion=tdm64-1 --with-bugurl=http://tdm-gcc.tdragon.net/bugs]
+  ignore line: [Thread model: posix]
+  ignore line: [gcc version 4.9.2 (tdm64-1) ]
+  ignore line: [COMPILER_PATH=C:/Program Files (x86)/Dev-Cpp/MinGW64/bin/../libexec/gcc/x86_64-w64-mingw32/4.9.2/]
+  ignore line: [C:/Program Files (x86)/Dev-Cpp/MinGW64/bin/../libexec/gcc/]
+  ignore line: [C:/Program Files (x86)/Dev-Cpp/MinGW64/bin/../lib/gcc/x86_64-w64-mingw32/4.9.2/../../../../x86_64-w64-mingw32/bin/]
+  ignore line: [LIBRARY_PATH=C:/Program Files (x86)/Dev-Cpp/MinGW64/bin/../lib/gcc/x86_64-w64-mingw32/4.9.2/32/]
+  ignore line: [C:/Program Files (x86)/Dev-Cpp/MinGW64/bin/../lib/gcc/x86_64-w64-mingw32/4.9.2/../../../../x86_64-w64-mingw32/lib/../lib32/]
+  ignore line: [C:/Program Files (x86)/Dev-Cpp/MinGW64/bin/../lib/gcc/x86_64-w64-mingw32/4.9.2/]
+  ignore line: [C:/Program Files (x86)/Dev-Cpp/MinGW64/bin/../lib/gcc/]
+  ignore line: [C:/Program Files (x86)/Dev-Cpp/MinGW64/bin/../lib/gcc/x86_64-w64-mingw32/4.9.2/../../../../x86_64-w64-mingw32/lib/]
+  ignore line: [C:/Program Files (x86)/Dev-Cpp/MinGW64/bin/../lib/gcc/x86_64-w64-mingw32/4.9.2/../../../]
+  ignore line: [COLLECT_GCC_OPTIONS='-v' '-m32' '-o' 'cmTC_bfbc3.exe' '-mtune=generic' '-march=x86-64']
+  ignore line: [ C:/Program Files (x86)/Dev-Cpp/MinGW64/bin/../libexec/gcc/x86_64-w64-mingw32/4.9.2/collect2.exe -plugin C:/Program Files (x86)/Dev-Cpp/MinGW64/bin/../libexec/gcc/x86_64-w64-mingw32/4.9.2/liblto_plugin-0.dll -plugin-opt=C:/Program Files (x86)/Dev-Cpp/MinGW64/bin/../libexec/gcc/x86_64-w64-mingw32/4.9.2/lto-wrapper.exe -plugin-opt=-fresolution=C:\Users\LITHIU~1\AppData\Local\Temp\ccZGrYso.res -plugin-opt=-pass-through=-lmingw32 -plugin-opt=-pass-through=-lgcc -plugin-opt=-pass-through=-lmoldname -plugin-opt=-pass-through=-lmingwex -plugin-opt=-pass-through=-lmsvcrt -plugin-opt=-pass-through=-lpthread -plugin-opt=-pass-through=-ladvapi32 -plugin-opt=-pass-through=-lshell32 -plugin-opt=-pass-through=-luser32 -plugin-opt=-pass-through=-lkernel32 -plugin-opt=-pass-through=-lmingw32 -plugin-opt=-pass-through=-lgcc -plugin-opt=-pass-through=-lmoldname -plugin-opt=-pass-through=-lmingwex -plugin-opt=-pass-through=-lmsvcrt -m i386pe --exclude-libs=libpthread.a -Bdynamic -o cmTC_bfbc3.exe C:/Program Files (x86)/Dev-Cpp/MinGW64/bin/../lib/gcc/x86_64-w64-mingw32/4.9.2/../../../../x86_64-w64-mingw32/lib/../lib32/crt2.o C:/Program Files (x86)/Dev-Cpp/MinGW64/bin/../lib/gcc/x86_64-w64-mingw32/4.9.2/../../../../x86_64-w64-mingw32/lib/../lib32/crtbegin.o -LC:/Program Files (x86)/Dev-Cpp/MinGW64/bin/../lib/gcc/x86_64-w64-mingw32/4.9.2/32 -LC:/Program Files (x86)/Dev-Cpp/MinGW64/bin/../lib/gcc/x86_64-w64-mingw32/4.9.2/../../../../x86_64-w64-mingw32/lib/../lib32 -LC:/Program Files (x86)/Dev-Cpp/MinGW64/bin/../lib/gcc/x86_64-w64-mingw32/4.9.2 -LC:/Program Files (x86)/Dev-Cpp/MinGW64/bin/../lib/gcc -LC:/Program Files (x86)/Dev-Cpp/MinGW64/bin/../lib/gcc/x86_64-w64-mingw32/4.9.2/../../../../x86_64-w64-mingw32/lib -LC:/Program Files (x86)/Dev-Cpp/MinGW64/bin/../lib/gcc/x86_64-w64-mingw32/4.9.2/../../.. --whole-archive CMakeFiles/cmTC_bfbc3.dir/objects.a --no-whole-archive --out-implib libcmTC_bfbc3.dll.a --major-image-version 0 --minor-image-version 0 -lmingw32 -lgcc -lmoldname -lmingwex -lmsvcrt -lpthread -ladvapi32 -lshell32 -luser32 -lkernel32 -lmingw32 -lgcc -lmoldname -lmingwex -lmsvcrt C:/Program Files (x86)/Dev-Cpp/MinGW64/bin/../lib/gcc/x86_64-w64-mingw32/4.9.2/../../../../x86_64-w64-mingw32/lib/../lib32/crtend.o]
+  ignore line: [make[1]: Leaving directory 'D:/ProgramFiles/intelFPGA/18.1/hld/board/terasic/de1_soc/tests/DE1_libonnx/build/CMakeFiles/CMakeTmp']
+  ignore line: []
+  ignore line: []
+  implicit libs: []
+  implicit objs: []
+  implicit dirs: []
+  implicit fwks: []
+
+
+Detecting CXX compiler ABI info compiled with the following output:
+Change Dir: D:/ProgramFiles/intelFPGA/18.1/hld/board/terasic/de1_soc/tests/DE1_libonnx/build/CMakeFiles/CMakeTmp
+
+Run Build Command(s):C:/ProgramData/chocolatey/bin/make.exe -f Makefile cmTC_794b9/fast && C:/ProgramData/chocolatey/lib/make/tools/install/bin/make.exe  -f CMakeFiles/cmTC_794b9.dir/build.make CMakeFiles/cmTC_794b9.dir/build
+make[1]: Entering directory 'D:/ProgramFiles/intelFPGA/18.1/hld/board/terasic/de1_soc/tests/DE1_libonnx/build/CMakeFiles/CMakeTmp'
+Building CXX object CMakeFiles/cmTC_794b9.dir/CMakeCXXCompilerABI.cpp.obj
+"C:/Program Files (x86)/LLVM/bin/clang++.exe"   -v -MD -MT CMakeFiles/cmTC_794b9.dir/CMakeCXXCompilerABI.cpp.obj -MF CMakeFiles/cmTC_794b9.dir/CMakeCXXCompilerABI.cpp.obj.d -o CMakeFiles/cmTC_794b9.dir/CMakeCXXCompilerABI.cpp.obj -c "C:/Program Files/CMake/share/cmake-3.21/Modules/CMakeCXXCompilerABI.cpp"
+clang version 3.4 (198054)
+Target: i686-pc-mingw32
+Thread model: posix
+Selected GCC installation: 
+ "C:\Program Files (x86)\LLVM\bin\clang++.exe" -cc1 -triple i686-pc-mingw32 -S -disable-free -main-file-name CMakeCXXCompilerABI.cpp -mrelocation-model static -mdisable-fp-elim -fmath-errno -mconstructor-aliases -target-cpu pentium4 -v -coverage-file "C:\\Users\\LITHIU~1\\AppData\\Local\\Temp\\CMakeCXXCompilerABI-09b81f.s" -resource-dir "C:\\Program Files (x86)\\LLVM\\bin\\..\\lib\\clang\\3.4" -dependency-file CMakeFiles/cmTC_794b9.dir/CMakeCXXCompilerABI.cpp.obj.d -sys-header-deps -MT CMakeFiles/cmTC_794b9.dir/CMakeCXXCompilerABI.cpp.obj -fdeprecated-macro -fno-dwarf-directory-asm -fdebug-compilation-dir "D:\\ProgramFiles\\intelFPGA\\18.1\\hld\\board\\terasic\\de1_soc\\tests\\DE1_libonnx\\build\\CMakeFiles\\CMakeTmp" -ferror-limit 19 -fmessage-length 0 -mstackrealign -fno-use-cxa-atexit -fobjc-runtime=gcc -fcxx-exceptions -fexceptions -fdiagnostics-show-option -vectorize-slp -o "C:\\Users\\LITHIU~1\\AppData\\Local\\Temp\\CMakeCXXCompilerABI-09b81f.s" -x c++ C:/Program Files/CMake/share/cmake-3.21/Modules/CMakeCXXCompilerABI.cpp
+clang -cc1 version 3.4 based upon LLVM 3.4 default target i686-pc-mingw32
+ignoring nonexistent directory "C:\Program Files (x86)\LLVM\bin\..\lib\clang\3.4/../../../include/c++/4.5.0"
+ignoring nonexistent directory "C:\Program Files (x86)\LLVM\bin\..\lib\clang\3.4/../../../include/c++/4.5.0/x86_64-w64-mingw32"
+ignoring nonexistent directory "C:\Program Files (x86)\LLVM\bin\..\lib\clang\3.4/../../../include/c++/4.5.0/i686-w64-mingw32"
+ignoring nonexistent directory "C:\Program Files (x86)\LLVM\bin\..\lib\clang\3.4/../../../include/c++/4.5.0/backward"
+ignoring nonexistent directory "C:\Program Files (x86)\LLVM\bin\..\lib\clang\3.4/../../../include/c++/4.5.1"
+ignoring nonexistent directory "C:\Program Files (x86)\LLVM\bin\..\lib\clang\3.4/../../../include/c++/4.5.1/x86_64-w64-mingw32"
+ignoring nonexistent directory "C:\Program Files (x86)\LLVM\bin\..\lib\clang\3.4/../../../include/c++/4.5.1/i686-w64-mingw32"
+ignoring nonexistent directory "C:\Program Files (x86)\LLVM\bin\..\lib\clang\3.4/../../../include/c++/4.5.1/backward"
+ignoring nonexistent directory "C:\Program Files (x86)\LLVM\bin\..\lib\clang\3.4/../../../include/c++/4.5.2"
+ignoring nonexistent directory "C:\Program Files (x86)\LLVM\bin\..\lib\clang\3.4/../../../include/c++/4.5.2/x86_64-w64-mingw32"
+ignoring nonexistent directory "C:\Program Files (x86)\LLVM\bin\..\lib\clang\3.4/../../../include/c++/4.5.2/i686-w64-mingw32"
+ignoring nonexistent directory "C:\Program Files (x86)\LLVM\bin\..\lib\clang\3.4/../../../include/c++/4.5.2/backward"
+ignoring nonexistent directory "C:\Program Files (x86)\LLVM\bin\..\lib\clang\3.4/../../../include/c++/4.5.3"
+ignoring nonexistent directory "C:\Program Files (x86)\LLVM\bin\..\lib\clang\3.4/../../../include/c++/4.5.3/x86_64-w64-mingw32"
+ignoring nonexistent directory "C:\Program Files (x86)\LLVM\bin\..\lib\clang\3.4/../../../include/c++/4.5.3/i686-w64-mingw32"
+ignoring nonexistent directory "C:\Program Files (x86)\LLVM\bin\..\lib\clang\3.4/../../../include/c++/4.5.3/backward"
+ignoring nonexistent directory "C:\Program Files (x86)\LLVM\bin\..\lib\clang\3.4/../../../include/c++/4.5.4"
+ignoring nonexistent directory "C:\Program Files (x86)\LLVM\bin\..\lib\clang\3.4/../../../include/c++/4.5.4/x86_64-w64-mingw32"
+ignoring nonexistent directory "C:\Program Files (x86)\LLVM\bin\..\lib\clang\3.4/../../../include/c++/4.5.4/i686-w64-mingw32"
+ignoring nonexistent directory "C:\Program Files (x86)\LLVM\bin\..\lib\clang\3.4/../../../include/c++/4.5.4/backward"
+ignoring nonexistent directory "C:\Program Files (x86)\LLVM\bin\..\lib\clang\3.4/../../../include/c++/4.6.0"
+ignoring nonexistent directory "C:\Program Files (x86)\LLVM\bin\..\lib\clang\3.4/../../../include/c++/4.6.0/x86_64-w64-mingw32"
+ignoring nonexistent directory "C:\Program Files (x86)\LLVM\bin\..\lib\clang\3.4/../../../include/c++/4.6.0/i686-w64-mingw32"
+ignoring nonexistent directory "C:\Program Files (x86)\LLVM\bin\..\lib\clang\3.4/../../../include/c++/4.6.0/backward"
+ignoring nonexistent directory "C:\Program Files (x86)\LLVM\bin\..\lib\clang\3.4/../../../include/c++/4.6.1"
+ignoring nonexistent directory "C:\Program Files (x86)\LLVM\bin\..\lib\clang\3.4/../../../include/c++/4.6.1/x86_64-w64-mingw32"
+ignoring nonexistent directory "C:\Program Files (x86)\LLVM\bin\..\lib\clang\3.4/../../../include/c++/4.6.1/i686-w64-mingw32"
+ignoring nonexistent directory "C:\Program Files (x86)\LLVM\bin\..\lib\clang\3.4/../../../include/c++/4.6.1/backward"
+ignoring nonexistent directory "C:\Program Files (x86)\LLVM\bin\..\lib\clang\3.4/../../../include/c++/4.6.2"
+ignoring nonexistent directory "C:\Program Files (x86)\LLVM\bin\..\lib\clang\3.4/../../../include/c++/4.6.2/x86_64-w64-mingw32"
+ignoring nonexistent directory "C:\Program Files (x86)\LLVM\bin\..\lib\clang\3.4/../../../include/c++/4.6.2/i686-w64-mingw32"
+ignoring nonexistent directory "C:\Program Files (x86)\LLVM\bin\..\lib\clang\3.4/../../../include/c++/4.6.2/backward"
+ignoring nonexistent directory "C:\Program Files (x86)\LLVM\bin\..\lib\clang\3.4/../../../include/c++/4.6.3"
+ignoring nonexistent directory "C:\Program Files (x86)\LLVM\bin\..\lib\clang\3.4/../../../include/c++/4.6.3/x86_64-w64-mingw32"
+ignoring nonexistent directory "C:\Program Files (x86)\LLVM\bin\..\lib\clang\3.4/../../../include/c++/4.6.3/i686-w64-mingw32"
+ignoring nonexistent directory "C:\Program Files (x86)\LLVM\bin\..\lib\clang\3.4/../../../include/c++/4.6.3/backward"
+ignoring nonexistent directory "C:\Program Files (x86)\LLVM\bin\..\lib\clang\3.4/../../../include/c++/4.7.0"
+ignoring nonexistent directory "C:\Program Files (x86)\LLVM\bin\..\lib\clang\3.4/../../../include/c++/4.7.0/x86_64-w64-mingw32"
+ignoring nonexistent directory "C:\Program Files (x86)\LLVM\bin\..\lib\clang\3.4/../../../include/c++/4.7.0/i686-w64-mingw32"
+ignoring nonexistent directory "C:\Program Files (x86)\LLVM\bin\..\lib\clang\3.4/../../../include/c++/4.7.0/backward"
+ignoring nonexistent directory "/mingw/lib/gcc/mingw32/4.5.2/include/c++"
+ignoring nonexistent directory "/mingw/lib/gcc/mingw32/4.5.2/include/c++/mingw32"
+ignoring nonexistent directory "/mingw/lib/gcc/mingw32/4.5.2/include/c++/backward"
+ignoring nonexistent directory "c:/MinGW/lib/gcc/mingw32/4.8.1/include/c++"
+ignoring nonexistent directory "c:/MinGW/lib/gcc/mingw32/4.8.1/include/c++/mingw32"
+ignoring nonexistent directory "c:/MinGW/lib/gcc/mingw32/4.8.1/include/c++/backward"
+ignoring nonexistent directory "c:/MinGW/lib/gcc/mingw32/4.6.2/include/c++"
+ignoring nonexistent directory "c:/MinGW/lib/gcc/mingw32/4.6.2/include/c++/mingw32"
+ignoring nonexistent directory "c:/MinGW/lib/gcc/mingw32/4.6.2/include/c++/backward"
+ignoring nonexistent directory "c:/MinGW/lib/gcc/mingw32/4.6.1/include/c++"
+ignoring nonexistent directory "c:/MinGW/lib/gcc/mingw32/4.6.1/include/c++/mingw32"
+ignoring nonexistent directory "c:/MinGW/lib/gcc/mingw32/4.6.1/include/c++/backward"
+ignoring nonexistent directory "c:/MinGW/lib/gcc/mingw32/4.5.2/include/c++"
+ignoring nonexistent directory "c:/MinGW/lib/gcc/mingw32/4.5.2/include/c++/mingw32"
+ignoring nonexistent directory "c:/MinGW/lib/gcc/mingw32/4.5.2/include/c++/backward"
+ignoring nonexistent directory "c:/MinGW/lib/gcc/mingw32/4.5.0/include/c++"
+ignoring nonexistent directory "c:/MinGW/lib/gcc/mingw32/4.5.0/include/c++/mingw32"
+ignoring nonexistent directory "c:/MinGW/lib/gcc/mingw32/4.5.0/include/c++/backward"
+ignoring nonexistent directory "c:/MinGW/lib/gcc/mingw32/4.4.0/include/c++"
+ignoring nonexistent directory "c:/MinGW/lib/gcc/mingw32/4.4.0/include/c++/mingw32"
+ignoring nonexistent directory "c:/MinGW/lib/gcc/mingw32/4.4.0/include/c++/backward"
+ignoring nonexistent directory "c:/MinGW/lib/gcc/mingw32/4.3.0/include/c++"
+ignoring nonexistent directory "c:/MinGW/lib/gcc/mingw32/4.3.0/include/c++/mingw32"
+ignoring nonexistent directory "c:/MinGW/lib/gcc/mingw32/4.3.0/include/c++/backward"
+ignoring nonexistent directory "/usr/local/include"
+ignoring nonexistent directory "C:\Program Files (x86)\LLVM\bin\..\lib\clang\3.4\../../../i686-w64-mingw32/include"
+ignoring nonexistent directory "C:\Program Files (x86)\LLVM\bin\..\lib\clang\3.4\../../../x86_64-w64-mingw32/include"
+ignoring nonexistent directory "/mingw/include"
+ignoring nonexistent directory "c:/mingw/include"
+ignoring nonexistent directory "/usr/include"
+#include "..." search starts here:
+#include <...> search starts here:
+ C:\Program Files (x86)\LLVM\bin\..\lib\clang\3.4\include
+ C:\Program Files (x86)\LLVM\bin\..\lib\clang\3.4\../../../include
+End of search list.
+ "C:\Program Files (x86)\Dev-Cpp\MinGW64\bin\g++.exe" -v -MD -MT CMakeFiles/cmTC_794b9.dir/CMakeCXXCompilerABI.cpp.obj -MF CMakeFiles/cmTC_794b9.dir/CMakeCXXCompilerABI.cpp.obj.d -c -m32 -o CMakeFiles/cmTC_794b9.dir/CMakeCXXCompilerABI.cpp.obj -x assembler "C:\\Users\\LITHIU~1\\AppData\\Local\\Temp\\CMakeCXXCompilerABI-09b81f.s"
+Using built-in specs.
+COLLECT_GCC=C:\Program Files (x86)\Dev-Cpp\MinGW64\bin\g++.exe
+Target: x86_64-w64-mingw32
+Configured with: ../../../src/gcc-4.9.2/configure --build=x86_64-w64-mingw32 --enable-targets=all --enable-languages=ada,c,c++,fortran,lto,objc,obj-c++ --enable-libgomp --enable-lto --enable-graphite --enable-cxx-flags=-DWINPTHREAD_STATIC --disable-build-with-cxx --disable-build-poststage1-with-cxx --enable-libstdcxx-debug --enable-threads=posix --enable-version-specific-runtime-libs --enable-fully-dynamic-string --enable-libstdcxx-threads --enable-libstdcxx-time --with-gnu-ld --disable-werror --disable-nls --disable-win32-registry --prefix=/mingw64tdm --with-local-prefix=/mingw64tdm --with-pkgversion=tdm64-1 --with-bugurl=http://tdm-gcc.tdragon.net/bugs
+Thread model: posix
+gcc version 4.9.2 (tdm64-1) 
+COLLECT_GCC_OPTIONS='-v' '-MD' '-MT' 'CMakeFiles/cmTC_794b9.dir/CMakeCXXCompilerABI.cpp.obj' '-MF' 'CMakeFiles/cmTC_794b9.dir/CMakeCXXCompilerABI.cpp.obj.d' '-c' '-m32' '-o' 'CMakeFiles/cmTC_794b9.dir/CMakeCXXCompilerABI.cpp.obj' '-mtune=generic' '-march=x86-64'
+ C:/Program Files (x86)/Dev-Cpp/MinGW64/bin/../lib/gcc/x86_64-w64-mingw32/4.9.2/../../../../x86_64-w64-mingw32/bin/as.exe -v --32 -o CMakeFiles/cmTC_794b9.dir/CMakeCXXCompilerABI.cpp.obj C:\Users\LITHIU~1\AppData\Local\Temp\CMakeCXXCompilerABI-09b81f.s
+GNU assembler version 2.24.51 (x86_64-w64-mingw32) using BFD version (GNU Binutils) 2.24.51.20140703
+COMPILER_PATH=C:/Program Files (x86)/Dev-Cpp/MinGW64/bin/../libexec/gcc/x86_64-w64-mingw32/4.9.2/;C:/Program Files (x86)/Dev-Cpp/MinGW64/bin/../libexec/gcc/;C:/Program Files (x86)/Dev-Cpp/MinGW64/bin/../lib/gcc/x86_64-w64-mingw32/4.9.2/../../../../x86_64-w64-mingw32/bin/
+LIBRARY_PATH=C:/Program Files (x86)/Dev-Cpp/MinGW64/bin/../lib/gcc/x86_64-w64-mingw32/4.9.2/32/;C:/Program Files (x86)/Dev-Cpp/MinGW64/bin/../lib/gcc/x86_64-w64-mingw32/4.9.2/../../../../x86_64-w64-mingw32/lib/../lib32/;C:/Program Files (x86)/Dev-Cpp/MinGW64/bin/../lib/gcc/x86_64-w64-mingw32/4.9.2/;C:/Program Files (x86)/Dev-Cpp/MinGW64/bin/../lib/gcc/;C:/Program Files (x86)/Dev-Cpp/MinGW64/bin/../lib/gcc/x86_64-w64-mingw32/4.9.2/../../../../x86_64-w64-mingw32/lib/;C:/Program Files (x86)/Dev-Cpp/MinGW64/bin/../lib/gcc/x86_64-w64-mingw32/4.9.2/../../../
+COLLECT_GCC_OPTIONS='-v' '-MD' '-MT' 'CMakeFiles/cmTC_794b9.dir/CMakeCXXCompilerABI.cpp.obj' '-MF' 'CMakeFiles/cmTC_794b9.dir/CMakeCXXCompilerABI.cpp.obj.d' '-c' '-m32' '-o' 'CMakeFiles/cmTC_794b9.dir/CMakeCXXCompilerABI.cpp.obj' '-mtune=generic' '-march=x86-64'
+Linking CXX executable cmTC_794b9.exe
+"C:/Program Files/CMake/bin/cmake.exe" -E rm -f CMakeFiles/cmTC_794b9.dir/objects.a
+"C:/Program Files (x86)/LLVM/bin/llvm-ar.exe" qc CMakeFiles/cmTC_794b9.dir/objects.a @CMakeFiles/cmTC_794b9.dir/objects1.rsp
+"C:/Program Files (x86)/LLVM/bin/clang++.exe"  -v -Wl,--whole-archive CMakeFiles/cmTC_794b9.dir/objects.a -Wl,--no-whole-archive -o cmTC_794b9.exe -Wl,--out-implib,libcmTC_794b9.dll.a -Wl,--major-image-version,0,--minor-image-version,0 
+clang version 3.4 (198054)
+Target: i686-pc-mingw32
+Thread model: posix
+Selected GCC installation: 
+ "C:\Program Files (x86)\Dev-Cpp\MinGW64\bin\g++.exe" -v -m32 -o cmTC_794b9.exe -Wl,--whole-archive CMakeFiles/cmTC_794b9.dir/objects.a -Wl,--no-whole-archive -Wl,--out-implib,libcmTC_794b9.dll.a -Wl,--major-image-version,0,--minor-image-version,0
+Using built-in specs.
+COLLECT_GCC=C:\Program Files (x86)\Dev-Cpp\MinGW64\bin\g++.exe
+COLLECT_LTO_WRAPPER=C:/Program\ Files\ (x86)/Dev-Cpp/MinGW64/bin/../libexec/gcc/x86_64-w64-mingw32/4.9.2/lto-wrapper.exe
+Target: x86_64-w64-mingw32
+Configured with: ../../../src/gcc-4.9.2/configure --build=x86_64-w64-mingw32 --enable-targets=all --enable-languages=ada,c,c++,fortran,lto,objc,obj-c++ --enable-libgomp --enable-lto --enable-graphite --enable-cxx-flags=-DWINPTHREAD_STATIC --disable-build-with-cxx --disable-build-poststage1-with-cxx --enable-libstdcxx-debug --enable-threads=posix --enable-version-specific-runtime-libs --enable-fully-dynamic-string --enable-libstdcxx-threads --enable-libstdcxx-time --with-gnu-ld --disable-werror --disable-nls --disable-win32-registry --prefix=/mingw64tdm --with-local-prefix=/mingw64tdm --with-pkgversion=tdm64-1 --with-bugurl=http://tdm-gcc.tdragon.net/bugs
+Thread model: posix
+gcc version 4.9.2 (tdm64-1) 
+COMPILER_PATH=C:/Program Files (x86)/Dev-Cpp/MinGW64/bin/../libexec/gcc/x86_64-w64-mingw32/4.9.2/;C:/Program Files (x86)/Dev-Cpp/MinGW64/bin/../libexec/gcc/;C:/Program Files (x86)/Dev-Cpp/MinGW64/bin/../lib/gcc/x86_64-w64-mingw32/4.9.2/../../../../x86_64-w64-mingw32/bin/
+LIBRARY_PATH=C:/Program Files (x86)/Dev-Cpp/MinGW64/bin/../lib/gcc/x86_64-w64-mingw32/4.9.2/32/;C:/Program Files (x86)/Dev-Cpp/MinGW64/bin/../lib/gcc/x86_64-w64-mingw32/4.9.2/../../../../x86_64-w64-mingw32/lib/../lib32/;C:/Program Files (x86)/Dev-Cpp/MinGW64/bin/../lib/gcc/x86_64-w64-mingw32/4.9.2/;C:/Program Files (x86)/Dev-Cpp/MinGW64/bin/../lib/gcc/;C:/Program Files (x86)/Dev-Cpp/MinGW64/bin/../lib/gcc/x86_64-w64-mingw32/4.9.2/../../../../x86_64-w64-mingw32/lib/;C:/Program Files (x86)/Dev-Cpp/MinGW64/bin/../lib/gcc/x86_64-w64-mingw32/4.9.2/../../../
+COLLECT_GCC_OPTIONS='-v' '-m32' '-o' 'cmTC_794b9.exe' '-mtune=generic' '-march=x86-64'
+ C:/Program Files (x86)/Dev-Cpp/MinGW64/bin/../libexec/gcc/x86_64-w64-mingw32/4.9.2/collect2.exe -plugin C:/Program Files (x86)/Dev-Cpp/MinGW64/bin/../libexec/gcc/x86_64-w64-mingw32/4.9.2/liblto_plugin-0.dll -plugin-opt=C:/Program Files (x86)/Dev-Cpp/MinGW64/bin/../libexec/gcc/x86_64-w64-mingw32/4.9.2/lto-wrapper.exe -plugin-opt=-fresolution=C:\Users\LITHIU~1\AppData\Local\Temp\cctDSDmj.res -plugin-opt=-pass-through=-lmingw32 -plugin-opt=-pass-through=-lgcc -plugin-opt=-pass-through=-lmoldname -plugin-opt=-pass-through=-lmingwex -plugin-opt=-pass-through=-lmsvcrt -plugin-opt=-pass-through=-lpthread -plugin-opt=-pass-through=-ladvapi32 -plugin-opt=-pass-through=-lshell32 -plugin-opt=-pass-through=-luser32 -plugin-opt=-pass-through=-lkernel32 -plugin-opt=-pass-through=-lmingw32 -plugin-opt=-pass-through=-lgcc -plugin-opt=-pass-through=-lmoldname -plugin-opt=-pass-through=-lmingwex -plugin-opt=-pass-through=-lmsvcrt -m i386pe --exclude-libs=libpthread.a -Bdynamic -o cmTC_794b9.exe C:/Program Files (x86)/Dev-Cpp/MinGW64/bin/../lib/gcc/x86_64-w64-mingw32/4.9.2/../../../../x86_64-w64-mingw32/lib/../lib32/crt2.o C:/Program Files (x86)/Dev-Cpp/MinGW64/bin/../lib/gcc/x86_64-w64-mingw32/4.9.2/../../../../x86_64-w64-mingw32/lib/../lib32/crtbegin.o -LC:/Program Files (x86)/Dev-Cpp/MinGW64/bin/../lib/gcc/x86_64-w64-mingw32/4.9.2/32 -LC:/Program Files (x86)/Dev-Cpp/MinGW64/bin/../lib/gcc/x86_64-w64-mingw32/4.9.2/../../../../x86_64-w64-mingw32/lib/../lib32 -LC:/Program Files (x86)/Dev-Cpp/MinGW64/bin/../lib/gcc/x86_64-w64-mingw32/4.9.2 -LC:/Program Files (x86)/Dev-Cpp/MinGW64/bin/../lib/gcc -LC:/Program Files (x86)/Dev-Cpp/MinGW64/bin/../lib/gcc/x86_64-w64-mingw32/4.9.2/../../../../x86_64-w64-mingw32/lib -LC:/Program Files (x86)/Dev-Cpp/MinGW64/bin/../lib/gcc/x86_64-w64-mingw32/4.9.2/../../.. --whole-archive CMakeFiles/cmTC_794b9.dir/objects.a --no-whole-archive --out-implib libcmTC_794b9.dll.a --major-image-version 0 --minor-image-version 0 -Bstatic -lstdc++ -Bdynamic -lmingw32 -lgcc -lmoldname -lmingwex -lmsvcrt -lpthread -ladvapi32 -lshell32 -luser32 -lkernel32 -lmingw32 -lgcc -lmoldname -lmingwex -lmsvcrt C:/Program Files (x86)/Dev-Cpp/MinGW64/bin/../lib/gcc/x86_64-w64-mingw32/4.9.2/../../../../x86_64-w64-mingw32/lib/../lib32/crtend.o
+make[1]: Leaving directory 'D:/ProgramFiles/intelFPGA/18.1/hld/board/terasic/de1_soc/tests/DE1_libonnx/build/CMakeFiles/CMakeTmp'
+
+
+
+Parsed CXX implicit include dir info from above output: rv=done
+  found start of include info
+  found start of implicit include info
+    add: [C:/Program Files (x86)/LLVM/bin/../lib/clang/3.4/include]
+    add: [C:/Program Files (x86)/LLVM/bin/../lib/clang/3.4/../../../include]
+  end of search list found
+  collapse include dir [C:/Program Files (x86)/LLVM/bin/../lib/clang/3.4/include] ==> [C:/Program Files (x86)/LLVM/lib/clang/3.4/include]
+  collapse include dir [C:/Program Files (x86)/LLVM/bin/../lib/clang/3.4/../../../include] ==> [C:/Program Files (x86)/LLVM/include]
+  implicit include dirs: [C:/Program Files (x86)/LLVM/lib/clang/3.4/include;C:/Program Files (x86)/LLVM/include]
+
+
+Parsed CXX implicit link information from above output:
+  link line regex: [^( *|.*[/\])(ld\.exe|CMAKE_LINK_STARTFILE-NOTFOUND|([^/\]+-)?ld|collect2)[^/\]*( |$)]
+  ignore line: [Change Dir: D:/ProgramFiles/intelFPGA/18.1/hld/board/terasic/de1_soc/tests/DE1_libonnx/build/CMakeFiles/CMakeTmp]
+  ignore line: []
+  ignore line: [Run Build Command(s):C:/ProgramData/chocolatey/bin/make.exe -f Makefile cmTC_794b9/fast && C:/ProgramData/chocolatey/lib/make/tools/install/bin/make.exe  -f CMakeFiles/cmTC_794b9.dir/build.make CMakeFiles/cmTC_794b9.dir/build]
+  ignore line: [make[1]: Entering directory 'D:/ProgramFiles/intelFPGA/18.1/hld/board/terasic/de1_soc/tests/DE1_libonnx/build/CMakeFiles/CMakeTmp']
+  ignore line: [Building CXX object CMakeFiles/cmTC_794b9.dir/CMakeCXXCompilerABI.cpp.obj]
+  ignore line: ["C:/Program Files (x86)/LLVM/bin/clang++.exe"   -v -MD -MT CMakeFiles/cmTC_794b9.dir/CMakeCXXCompilerABI.cpp.obj -MF CMakeFiles/cmTC_794b9.dir/CMakeCXXCompilerABI.cpp.obj.d -o CMakeFiles/cmTC_794b9.dir/CMakeCXXCompilerABI.cpp.obj -c "C:/Program Files/CMake/share/cmake-3.21/Modules/CMakeCXXCompilerABI.cpp"]
+  ignore line: [clang version 3.4 (198054)]
+  ignore line: [Target: i686-pc-mingw32]
+  ignore line: [Thread model: posix]
+  ignore line: [Selected GCC installation: ]
+  ignore line: [ "C:\Program Files (x86)\LLVM\bin\clang++.exe" -cc1 -triple i686-pc-mingw32 -S -disable-free -main-file-name CMakeCXXCompilerABI.cpp -mrelocation-model static -mdisable-fp-elim -fmath-errno -mconstructor-aliases -target-cpu pentium4 -v -coverage-file "C:\\Users\\LITHIU~1\\AppData\\Local\\Temp\\CMakeCXXCompilerABI-09b81f.s" -resource-dir "C:\\Program Files (x86)\\LLVM\\bin\\..\\lib\\clang\\3.4" -dependency-file CMakeFiles/cmTC_794b9.dir/CMakeCXXCompilerABI.cpp.obj.d -sys-header-deps -MT CMakeFiles/cmTC_794b9.dir/CMakeCXXCompilerABI.cpp.obj -fdeprecated-macro -fno-dwarf-directory-asm -fdebug-compilation-dir "D:\\ProgramFiles\\intelFPGA\\18.1\\hld\\board\\terasic\\de1_soc\\tests\\DE1_libonnx\\build\\CMakeFiles\\CMakeTmp" -ferror-limit 19 -fmessage-length 0 -mstackrealign -fno-use-cxa-atexit -fobjc-runtime=gcc -fcxx-exceptions -fexceptions -fdiagnostics-show-option -vectorize-slp -o "C:\\Users\\LITHIU~1\\AppData\\Local\\Temp\\CMakeCXXCompilerABI-09b81f.s" -x c++ C:/Program Files/CMake/share/cmake-3.21/Modules/CMakeCXXCompilerABI.cpp]
+  ignore line: [clang -cc1 version 3.4 based upon LLVM 3.4 default target i686-pc-mingw32]
+  ignore line: [ignoring nonexistent directory "C:\Program Files (x86)\LLVM\bin\..\lib\clang\3.4/../../../include/c++/4.5.0"]
+  ignore line: [ignoring nonexistent directory "C:\Program Files (x86)\LLVM\bin\..\lib\clang\3.4/../../../include/c++/4.5.0/x86_64-w64-mingw32"]
+  ignore line: [ignoring nonexistent directory "C:\Program Files (x86)\LLVM\bin\..\lib\clang\3.4/../../../include/c++/4.5.0/i686-w64-mingw32"]
+  ignore line: [ignoring nonexistent directory "C:\Program Files (x86)\LLVM\bin\..\lib\clang\3.4/../../../include/c++/4.5.0/backward"]
+  ignore line: [ignoring nonexistent directory "C:\Program Files (x86)\LLVM\bin\..\lib\clang\3.4/../../../include/c++/4.5.1"]
+  ignore line: [ignoring nonexistent directory "C:\Program Files (x86)\LLVM\bin\..\lib\clang\3.4/../../../include/c++/4.5.1/x86_64-w64-mingw32"]
+  ignore line: [ignoring nonexistent directory "C:\Program Files (x86)\LLVM\bin\..\lib\clang\3.4/../../../include/c++/4.5.1/i686-w64-mingw32"]
+  ignore line: [ignoring nonexistent directory "C:\Program Files (x86)\LLVM\bin\..\lib\clang\3.4/../../../include/c++/4.5.1/backward"]
+  ignore line: [ignoring nonexistent directory "C:\Program Files (x86)\LLVM\bin\..\lib\clang\3.4/../../../include/c++/4.5.2"]
+  ignore line: [ignoring nonexistent directory "C:\Program Files (x86)\LLVM\bin\..\lib\clang\3.4/../../../include/c++/4.5.2/x86_64-w64-mingw32"]
+  ignore line: [ignoring nonexistent directory "C:\Program Files (x86)\LLVM\bin\..\lib\clang\3.4/../../../include/c++/4.5.2/i686-w64-mingw32"]
+  ignore line: [ignoring nonexistent directory "C:\Program Files (x86)\LLVM\bin\..\lib\clang\3.4/../../../include/c++/4.5.2/backward"]
+  ignore line: [ignoring nonexistent directory "C:\Program Files (x86)\LLVM\bin\..\lib\clang\3.4/../../../include/c++/4.5.3"]
+  ignore line: [ignoring nonexistent directory "C:\Program Files (x86)\LLVM\bin\..\lib\clang\3.4/../../../include/c++/4.5.3/x86_64-w64-mingw32"]
+  ignore line: [ignoring nonexistent directory "C:\Program Files (x86)\LLVM\bin\..\lib\clang\3.4/../../../include/c++/4.5.3/i686-w64-mingw32"]
+  ignore line: [ignoring nonexistent directory "C:\Program Files (x86)\LLVM\bin\..\lib\clang\3.4/../../../include/c++/4.5.3/backward"]
+  ignore line: [ignoring nonexistent directory "C:\Program Files (x86)\LLVM\bin\..\lib\clang\3.4/../../../include/c++/4.5.4"]
+  ignore line: [ignoring nonexistent directory "C:\Program Files (x86)\LLVM\bin\..\lib\clang\3.4/../../../include/c++/4.5.4/x86_64-w64-mingw32"]
+  ignore line: [ignoring nonexistent directory "C:\Program Files (x86)\LLVM\bin\..\lib\clang\3.4/../../../include/c++/4.5.4/i686-w64-mingw32"]
+  ignore line: [ignoring nonexistent directory "C:\Program Files (x86)\LLVM\bin\..\lib\clang\3.4/../../../include/c++/4.5.4/backward"]
+  ignore line: [ignoring nonexistent directory "C:\Program Files (x86)\LLVM\bin\..\lib\clang\3.4/../../../include/c++/4.6.0"]
+  ignore line: [ignoring nonexistent directory "C:\Program Files (x86)\LLVM\bin\..\lib\clang\3.4/../../../include/c++/4.6.0/x86_64-w64-mingw32"]
+  ignore line: [ignoring nonexistent directory "C:\Program Files (x86)\LLVM\bin\..\lib\clang\3.4/../../../include/c++/4.6.0/i686-w64-mingw32"]
+  ignore line: [ignoring nonexistent directory "C:\Program Files (x86)\LLVM\bin\..\lib\clang\3.4/../../../include/c++/4.6.0/backward"]
+  ignore line: [ignoring nonexistent directory "C:\Program Files (x86)\LLVM\bin\..\lib\clang\3.4/../../../include/c++/4.6.1"]
+  ignore line: [ignoring nonexistent directory "C:\Program Files (x86)\LLVM\bin\..\lib\clang\3.4/../../../include/c++/4.6.1/x86_64-w64-mingw32"]
+  ignore line: [ignoring nonexistent directory "C:\Program Files (x86)\LLVM\bin\..\lib\clang\3.4/../../../include/c++/4.6.1/i686-w64-mingw32"]
+  ignore line: [ignoring nonexistent directory "C:\Program Files (x86)\LLVM\bin\..\lib\clang\3.4/../../../include/c++/4.6.1/backward"]
+  ignore line: [ignoring nonexistent directory "C:\Program Files (x86)\LLVM\bin\..\lib\clang\3.4/../../../include/c++/4.6.2"]
+  ignore line: [ignoring nonexistent directory "C:\Program Files (x86)\LLVM\bin\..\lib\clang\3.4/../../../include/c++/4.6.2/x86_64-w64-mingw32"]
+  ignore line: [ignoring nonexistent directory "C:\Program Files (x86)\LLVM\bin\..\lib\clang\3.4/../../../include/c++/4.6.2/i686-w64-mingw32"]
+  ignore line: [ignoring nonexistent directory "C:\Program Files (x86)\LLVM\bin\..\lib\clang\3.4/../../../include/c++/4.6.2/backward"]
+  ignore line: [ignoring nonexistent directory "C:\Program Files (x86)\LLVM\bin\..\lib\clang\3.4/../../../include/c++/4.6.3"]
+  ignore line: [ignoring nonexistent directory "C:\Program Files (x86)\LLVM\bin\..\lib\clang\3.4/../../../include/c++/4.6.3/x86_64-w64-mingw32"]
+  ignore line: [ignoring nonexistent directory "C:\Program Files (x86)\LLVM\bin\..\lib\clang\3.4/../../../include/c++/4.6.3/i686-w64-mingw32"]
+  ignore line: [ignoring nonexistent directory "C:\Program Files (x86)\LLVM\bin\..\lib\clang\3.4/../../../include/c++/4.6.3/backward"]
+  ignore line: [ignoring nonexistent directory "C:\Program Files (x86)\LLVM\bin\..\lib\clang\3.4/../../../include/c++/4.7.0"]
+  ignore line: [ignoring nonexistent directory "C:\Program Files (x86)\LLVM\bin\..\lib\clang\3.4/../../../include/c++/4.7.0/x86_64-w64-mingw32"]
+  ignore line: [ignoring nonexistent directory "C:\Program Files (x86)\LLVM\bin\..\lib\clang\3.4/../../../include/c++/4.7.0/i686-w64-mingw32"]
+  ignore line: [ignoring nonexistent directory "C:\Program Files (x86)\LLVM\bin\..\lib\clang\3.4/../../../include/c++/4.7.0/backward"]
+  ignore line: [ignoring nonexistent directory "/mingw/lib/gcc/mingw32/4.5.2/include/c++"]
+  ignore line: [ignoring nonexistent directory "/mingw/lib/gcc/mingw32/4.5.2/include/c++/mingw32"]
+  ignore line: [ignoring nonexistent directory "/mingw/lib/gcc/mingw32/4.5.2/include/c++/backward"]
+  ignore line: [ignoring nonexistent directory "c:/MinGW/lib/gcc/mingw32/4.8.1/include/c++"]
+  ignore line: [ignoring nonexistent directory "c:/MinGW/lib/gcc/mingw32/4.8.1/include/c++/mingw32"]
+  ignore line: [ignoring nonexistent directory "c:/MinGW/lib/gcc/mingw32/4.8.1/include/c++/backward"]
+  ignore line: [ignoring nonexistent directory "c:/MinGW/lib/gcc/mingw32/4.6.2/include/c++"]
+  ignore line: [ignoring nonexistent directory "c:/MinGW/lib/gcc/mingw32/4.6.2/include/c++/mingw32"]
+  ignore line: [ignoring nonexistent directory "c:/MinGW/lib/gcc/mingw32/4.6.2/include/c++/backward"]
+  ignore line: [ignoring nonexistent directory "c:/MinGW/lib/gcc/mingw32/4.6.1/include/c++"]
+  ignore line: [ignoring nonexistent directory "c:/MinGW/lib/gcc/mingw32/4.6.1/include/c++/mingw32"]
+  ignore line: [ignoring nonexistent directory "c:/MinGW/lib/gcc/mingw32/4.6.1/include/c++/backward"]
+  ignore line: [ignoring nonexistent directory "c:/MinGW/lib/gcc/mingw32/4.5.2/include/c++"]
+  ignore line: [ignoring nonexistent directory "c:/MinGW/lib/gcc/mingw32/4.5.2/include/c++/mingw32"]
+  ignore line: [ignoring nonexistent directory "c:/MinGW/lib/gcc/mingw32/4.5.2/include/c++/backward"]
+  ignore line: [ignoring nonexistent directory "c:/MinGW/lib/gcc/mingw32/4.5.0/include/c++"]
+  ignore line: [ignoring nonexistent directory "c:/MinGW/lib/gcc/mingw32/4.5.0/include/c++/mingw32"]
+  ignore line: [ignoring nonexistent directory "c:/MinGW/lib/gcc/mingw32/4.5.0/include/c++/backward"]
+  ignore line: [ignoring nonexistent directory "c:/MinGW/lib/gcc/mingw32/4.4.0/include/c++"]
+  ignore line: [ignoring nonexistent directory "c:/MinGW/lib/gcc/mingw32/4.4.0/include/c++/mingw32"]
+  ignore line: [ignoring nonexistent directory "c:/MinGW/lib/gcc/mingw32/4.4.0/include/c++/backward"]
+  ignore line: [ignoring nonexistent directory "c:/MinGW/lib/gcc/mingw32/4.3.0/include/c++"]
+  ignore line: [ignoring nonexistent directory "c:/MinGW/lib/gcc/mingw32/4.3.0/include/c++/mingw32"]
+  ignore line: [ignoring nonexistent directory "c:/MinGW/lib/gcc/mingw32/4.3.0/include/c++/backward"]
+  ignore line: [ignoring nonexistent directory "/usr/local/include"]
+  ignore line: [ignoring nonexistent directory "C:\Program Files (x86)\LLVM\bin\..\lib\clang\3.4\../../../i686-w64-mingw32/include"]
+  ignore line: [ignoring nonexistent directory "C:\Program Files (x86)\LLVM\bin\..\lib\clang\3.4\../../../x86_64-w64-mingw32/include"]
+  ignore line: [ignoring nonexistent directory "/mingw/include"]
+  ignore line: [ignoring nonexistent directory "c:/mingw/include"]
+  ignore line: [ignoring nonexistent directory "/usr/include"]
+  ignore line: [#include "..." search starts here:]
+  ignore line: [#include <...> search starts here:]
+  ignore line: [ C:\Program Files (x86)\LLVM\bin\..\lib\clang\3.4\include]
+  ignore line: [ C:\Program Files (x86)\LLVM\bin\..\lib\clang\3.4\../../../include]
+  ignore line: [End of search list.]
+  ignore line: [ "C:\Program Files (x86)\Dev-Cpp\MinGW64\bin\g++.exe" -v -MD -MT CMakeFiles/cmTC_794b9.dir/CMakeCXXCompilerABI.cpp.obj -MF CMakeFiles/cmTC_794b9.dir/CMakeCXXCompilerABI.cpp.obj.d -c -m32 -o CMakeFiles/cmTC_794b9.dir/CMakeCXXCompilerABI.cpp.obj -x assembler "C:\\Users\\LITHIU~1\\AppData\\Local\\Temp\\CMakeCXXCompilerABI-09b81f.s"]
+  ignore line: [Using built-in specs.]
+  ignore line: [COLLECT_GCC=C:\Program Files (x86)\Dev-Cpp\MinGW64\bin\g++.exe]
+  ignore line: [Target: x86_64-w64-mingw32]
+  ignore line: [Configured with: ../../../src/gcc-4.9.2/configure --build=x86_64-w64-mingw32 --enable-targets=all --enable-languages=ada,c,c++,fortran,lto,objc,obj-c++ --enable-libgomp --enable-lto --enable-graphite --enable-cxx-flags=-DWINPTHREAD_STATIC --disable-build-with-cxx --disable-build-poststage1-with-cxx --enable-libstdcxx-debug --enable-threads=posix --enable-version-specific-runtime-libs --enable-fully-dynamic-string --enable-libstdcxx-threads --enable-libstdcxx-time --with-gnu-ld --disable-werror --disable-nls --disable-win32-registry --prefix=/mingw64tdm --with-local-prefix=/mingw64tdm --with-pkgversion=tdm64-1 --with-bugurl=http://tdm-gcc.tdragon.net/bugs]
+  ignore line: [Thread model: posix]
+  ignore line: [gcc version 4.9.2 (tdm64-1) ]
+  ignore line: [COLLECT_GCC_OPTIONS='-v' '-MD' '-MT' 'CMakeFiles/cmTC_794b9.dir/CMakeCXXCompilerABI.cpp.obj' '-MF' 'CMakeFiles/cmTC_794b9.dir/CMakeCXXCompilerABI.cpp.obj.d' '-c' '-m32' '-o' 'CMakeFiles/cmTC_794b9.dir/CMakeCXXCompilerABI.cpp.obj' '-mtune=generic' '-march=x86-64']
+  ignore line: [ C:/Program Files (x86)/Dev-Cpp/MinGW64/bin/../lib/gcc/x86_64-w64-mingw32/4.9.2/../../../../x86_64-w64-mingw32/bin/as.exe -v --32 -o CMakeFiles/cmTC_794b9.dir/CMakeCXXCompilerABI.cpp.obj C:\Users\LITHIU~1\AppData\Local\Temp\CMakeCXXCompilerABI-09b81f.s]
+  ignore line: [GNU assembler version 2.24.51 (x86_64-w64-mingw32) using BFD version (GNU Binutils) 2.24.51.20140703]
+  ignore line: [COMPILER_PATH=C:/Program Files (x86)/Dev-Cpp/MinGW64/bin/../libexec/gcc/x86_64-w64-mingw32/4.9.2/]
+  ignore line: [C:/Program Files (x86)/Dev-Cpp/MinGW64/bin/../libexec/gcc/]
+  ignore line: [C:/Program Files (x86)/Dev-Cpp/MinGW64/bin/../lib/gcc/x86_64-w64-mingw32/4.9.2/../../../../x86_64-w64-mingw32/bin/]
+  ignore line: [LIBRARY_PATH=C:/Program Files (x86)/Dev-Cpp/MinGW64/bin/../lib/gcc/x86_64-w64-mingw32/4.9.2/32/]
+  ignore line: [C:/Program Files (x86)/Dev-Cpp/MinGW64/bin/../lib/gcc/x86_64-w64-mingw32/4.9.2/../../../../x86_64-w64-mingw32/lib/../lib32/]
+  ignore line: [C:/Program Files (x86)/Dev-Cpp/MinGW64/bin/../lib/gcc/x86_64-w64-mingw32/4.9.2/]
+  ignore line: [C:/Program Files (x86)/Dev-Cpp/MinGW64/bin/../lib/gcc/]
+  ignore line: [C:/Program Files (x86)/Dev-Cpp/MinGW64/bin/../lib/gcc/x86_64-w64-mingw32/4.9.2/../../../../x86_64-w64-mingw32/lib/]
+  ignore line: [C:/Program Files (x86)/Dev-Cpp/MinGW64/bin/../lib/gcc/x86_64-w64-mingw32/4.9.2/../../../]
+  ignore line: [COLLECT_GCC_OPTIONS='-v' '-MD' '-MT' 'CMakeFiles/cmTC_794b9.dir/CMakeCXXCompilerABI.cpp.obj' '-MF' 'CMakeFiles/cmTC_794b9.dir/CMakeCXXCompilerABI.cpp.obj.d' '-c' '-m32' '-o' 'CMakeFiles/cmTC_794b9.dir/CMakeCXXCompilerABI.cpp.obj' '-mtune=generic' '-march=x86-64']
+  ignore line: [Linking CXX executable cmTC_794b9.exe]
+  ignore line: ["C:/Program Files/CMake/bin/cmake.exe" -E rm -f CMakeFiles/cmTC_794b9.dir/objects.a]
+  ignore line: ["C:/Program Files (x86)/LLVM/bin/llvm-ar.exe" qc CMakeFiles/cmTC_794b9.dir/objects.a @CMakeFiles/cmTC_794b9.dir/objects1.rsp]
+  ignore line: ["C:/Program Files (x86)/LLVM/bin/clang++.exe"  -v -Wl --whole-archive CMakeFiles/cmTC_794b9.dir/objects.a -Wl --no-whole-archive -o cmTC_794b9.exe -Wl --out-implib libcmTC_794b9.dll.a -Wl --major-image-version 0 --minor-image-version 0 ]
+  ignore line: [clang version 3.4 (198054)]
+  ignore line: [Target: i686-pc-mingw32]
+  ignore line: [Thread model: posix]
+  ignore line: [Selected GCC installation: ]
+  ignore line: [ "C:\Program Files (x86)\Dev-Cpp\MinGW64\bin\g++.exe" -v -m32 -o cmTC_794b9.exe -Wl --whole-archive CMakeFiles/cmTC_794b9.dir/objects.a -Wl --no-whole-archive -Wl --out-implib libcmTC_794b9.dll.a -Wl --major-image-version 0 --minor-image-version 0]
+  ignore line: [Using built-in specs.]
+  ignore line: [COLLECT_GCC=C:\Program Files (x86)\Dev-Cpp\MinGW64\bin\g++.exe]
+  ignore line: [COLLECT_LTO_WRAPPER=C:/Program\ Files\ (x86)/Dev-Cpp/MinGW64/bin/../libexec/gcc/x86_64-w64-mingw32/4.9.2/lto-wrapper.exe]
+  ignore line: [Target: x86_64-w64-mingw32]
+  ignore line: [Configured with: ../../../src/gcc-4.9.2/configure --build=x86_64-w64-mingw32 --enable-targets=all --enable-languages=ada,c,c++,fortran,lto,objc,obj-c++ --enable-libgomp --enable-lto --enable-graphite --enable-cxx-flags=-DWINPTHREAD_STATIC --disable-build-with-cxx --disable-build-poststage1-with-cxx --enable-libstdcxx-debug --enable-threads=posix --enable-version-specific-runtime-libs --enable-fully-dynamic-string --enable-libstdcxx-threads --enable-libstdcxx-time --with-gnu-ld --disable-werror --disable-nls --disable-win32-registry --prefix=/mingw64tdm --with-local-prefix=/mingw64tdm --with-pkgversion=tdm64-1 --with-bugurl=http://tdm-gcc.tdragon.net/bugs]
+  ignore line: [Thread model: posix]
+  ignore line: [gcc version 4.9.2 (tdm64-1) ]
+  ignore line: [COMPILER_PATH=C:/Program Files (x86)/Dev-Cpp/MinGW64/bin/../libexec/gcc/x86_64-w64-mingw32/4.9.2/]
+  ignore line: [C:/Program Files (x86)/Dev-Cpp/MinGW64/bin/../libexec/gcc/]
+  ignore line: [C:/Program Files (x86)/Dev-Cpp/MinGW64/bin/../lib/gcc/x86_64-w64-mingw32/4.9.2/../../../../x86_64-w64-mingw32/bin/]
+  ignore line: [LIBRARY_PATH=C:/Program Files (x86)/Dev-Cpp/MinGW64/bin/../lib/gcc/x86_64-w64-mingw32/4.9.2/32/]
+  ignore line: [C:/Program Files (x86)/Dev-Cpp/MinGW64/bin/../lib/gcc/x86_64-w64-mingw32/4.9.2/../../../../x86_64-w64-mingw32/lib/../lib32/]
+  ignore line: [C:/Program Files (x86)/Dev-Cpp/MinGW64/bin/../lib/gcc/x86_64-w64-mingw32/4.9.2/]
+  ignore line: [C:/Program Files (x86)/Dev-Cpp/MinGW64/bin/../lib/gcc/]
+  ignore line: [C:/Program Files (x86)/Dev-Cpp/MinGW64/bin/../lib/gcc/x86_64-w64-mingw32/4.9.2/../../../../x86_64-w64-mingw32/lib/]
+  ignore line: [C:/Program Files (x86)/Dev-Cpp/MinGW64/bin/../lib/gcc/x86_64-w64-mingw32/4.9.2/../../../]
+  ignore line: [COLLECT_GCC_OPTIONS='-v' '-m32' '-o' 'cmTC_794b9.exe' '-mtune=generic' '-march=x86-64']
+  ignore line: [ C:/Program Files (x86)/Dev-Cpp/MinGW64/bin/../libexec/gcc/x86_64-w64-mingw32/4.9.2/collect2.exe -plugin C:/Program Files (x86)/Dev-Cpp/MinGW64/bin/../libexec/gcc/x86_64-w64-mingw32/4.9.2/liblto_plugin-0.dll -plugin-opt=C:/Program Files (x86)/Dev-Cpp/MinGW64/bin/../libexec/gcc/x86_64-w64-mingw32/4.9.2/lto-wrapper.exe -plugin-opt=-fresolution=C:\Users\LITHIU~1\AppData\Local\Temp\cctDSDmj.res -plugin-opt=-pass-through=-lmingw32 -plugin-opt=-pass-through=-lgcc -plugin-opt=-pass-through=-lmoldname -plugin-opt=-pass-through=-lmingwex -plugin-opt=-pass-through=-lmsvcrt -plugin-opt=-pass-through=-lpthread -plugin-opt=-pass-through=-ladvapi32 -plugin-opt=-pass-through=-lshell32 -plugin-opt=-pass-through=-luser32 -plugin-opt=-pass-through=-lkernel32 -plugin-opt=-pass-through=-lmingw32 -plugin-opt=-pass-through=-lgcc -plugin-opt=-pass-through=-lmoldname -plugin-opt=-pass-through=-lmingwex -plugin-opt=-pass-through=-lmsvcrt -m i386pe --exclude-libs=libpthread.a -Bdynamic -o cmTC_794b9.exe C:/Program Files (x86)/Dev-Cpp/MinGW64/bin/../lib/gcc/x86_64-w64-mingw32/4.9.2/../../../../x86_64-w64-mingw32/lib/../lib32/crt2.o C:/Program Files (x86)/Dev-Cpp/MinGW64/bin/../lib/gcc/x86_64-w64-mingw32/4.9.2/../../../../x86_64-w64-mingw32/lib/../lib32/crtbegin.o -LC:/Program Files (x86)/Dev-Cpp/MinGW64/bin/../lib/gcc/x86_64-w64-mingw32/4.9.2/32 -LC:/Program Files (x86)/Dev-Cpp/MinGW64/bin/../lib/gcc/x86_64-w64-mingw32/4.9.2/../../../../x86_64-w64-mingw32/lib/../lib32 -LC:/Program Files (x86)/Dev-Cpp/MinGW64/bin/../lib/gcc/x86_64-w64-mingw32/4.9.2 -LC:/Program Files (x86)/Dev-Cpp/MinGW64/bin/../lib/gcc -LC:/Program Files (x86)/Dev-Cpp/MinGW64/bin/../lib/gcc/x86_64-w64-mingw32/4.9.2/../../../../x86_64-w64-mingw32/lib -LC:/Program Files (x86)/Dev-Cpp/MinGW64/bin/../lib/gcc/x86_64-w64-mingw32/4.9.2/../../.. --whole-archive CMakeFiles/cmTC_794b9.dir/objects.a --no-whole-archive --out-implib libcmTC_794b9.dll.a --major-image-version 0 --minor-image-version 0 -Bstatic -lstdc++ -Bdynamic -lmingw32 -lgcc -lmoldname -lmingwex -lmsvcrt -lpthread -ladvapi32 -lshell32 -luser32 -lkernel32 -lmingw32 -lgcc -lmoldname -lmingwex -lmsvcrt C:/Program Files (x86)/Dev-Cpp/MinGW64/bin/../lib/gcc/x86_64-w64-mingw32/4.9.2/../../../../x86_64-w64-mingw32/lib/../lib32/crtend.o]
+  ignore line: [make[1]: Leaving directory 'D:/ProgramFiles/intelFPGA/18.1/hld/board/terasic/de1_soc/tests/DE1_libonnx/build/CMakeFiles/CMakeTmp']
+  ignore line: []
+  ignore line: []
+  implicit libs: []
+  implicit objs: []
+  implicit dirs: []
+  implicit fwks: []
+
+

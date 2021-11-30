@@ -1,0 +1,2 @@
+/usr/bin/ar qc ../../lib/libopencv_highgui.a  CMakeFiles/opencv_highgui.dir/src/exif.cpp.o CMakeFiles/opencv_highgui.dir/src/highgui.cpp.o
+/usr/bin/ranlib ../../lib/libopencv_highgui.a

@@ -1,0 +1,1 @@
+/usr/bin/cc  -g -ggdb -Wall -O3 -std=gnu99 -g   CMakeFiles/mnist.dir/SDL2_framerate.c.o CMakeFiles/mnist.dir/SDL2_gfxPrimitives.c.o CMakeFiles/mnist.dir/SDL2_imageFilter.c.o CMakeFiles/mnist.dir/SDL2_rotozoom.c.o CMakeFiles/mnist.dir/main.c.o  -o mnist ../../src/libonnx.a -lSDL2 -lSDL2main -lSDL2_gfx -lm 

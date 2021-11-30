@@ -1,0 +1,882 @@
+[
+{
+  "directory": "D:/ProgramFiles/intelFPGA/18.1/hld/board/terasic/de1_soc/tests/DE1_libonnx/build/src",
+  "command": "\"C:/Program Files (x86)/LLVM/bin/clang.exe\"  @CMakeFiles/onnx.dir/includes_C.rsp  -g -ggdb -Wall -O3 -std=gnu99 -g -std=gnu99 -o CMakeFiles/onnx.dir/hmap.c.obj -c D:/ProgramFiles/intelFPGA/18.1/hld/board/terasic/de1_soc/tests/DE1_libonnx/src/hmap.c",
+  "file": "D:/ProgramFiles/intelFPGA/18.1/hld/board/terasic/de1_soc/tests/DE1_libonnx/src/hmap.c"
+},
+{
+  "directory": "D:/ProgramFiles/intelFPGA/18.1/hld/board/terasic/de1_soc/tests/DE1_libonnx/build/src",
+  "command": "\"C:/Program Files (x86)/LLVM/bin/clang.exe\"  @CMakeFiles/onnx.dir/includes_C.rsp  -g -ggdb -Wall -O3 -std=gnu99 -g -std=gnu99 -o CMakeFiles/onnx.dir/onnx.c.obj -c D:/ProgramFiles/intelFPGA/18.1/hld/board/terasic/de1_soc/tests/DE1_libonnx/src/onnx.c",
+  "file": "D:/ProgramFiles/intelFPGA/18.1/hld/board/terasic/de1_soc/tests/DE1_libonnx/src/onnx.c"
+},
+{
+  "directory": "D:/ProgramFiles/intelFPGA/18.1/hld/board/terasic/de1_soc/tests/DE1_libonnx/build/src",
+  "command": "\"C:/Program Files (x86)/LLVM/bin/clang.exe\"  @CMakeFiles/onnx.dir/includes_C.rsp  -g -ggdb -Wall -O3 -std=gnu99 -g -std=gnu99 -o CMakeFiles/onnx.dir/onnx.proto3.pb-c.c.obj -c D:/ProgramFiles/intelFPGA/18.1/hld/board/terasic/de1_soc/tests/DE1_libonnx/src/onnx.proto3.pb-c.c",
+  "file": "D:/ProgramFiles/intelFPGA/18.1/hld/board/terasic/de1_soc/tests/DE1_libonnx/src/onnx.proto3.pb-c.c"
+},
+{
+  "directory": "D:/ProgramFiles/intelFPGA/18.1/hld/board/terasic/de1_soc/tests/DE1_libonnx/build/src",
+  "command": "\"C:/Program Files (x86)/LLVM/bin/clang.exe\"  @CMakeFiles/onnx.dir/includes_C.rsp  -g -ggdb -Wall -O3 -std=gnu99 -g -std=gnu99 -o CMakeFiles/onnx.dir/protobuf-c.c.obj -c D:/ProgramFiles/intelFPGA/18.1/hld/board/terasic/de1_soc/tests/DE1_libonnx/src/protobuf-c.c",
+  "file": "D:/ProgramFiles/intelFPGA/18.1/hld/board/terasic/de1_soc/tests/DE1_libonnx/src/protobuf-c.c"
+},
+{
+  "directory": "D:/ProgramFiles/intelFPGA/18.1/hld/board/terasic/de1_soc/tests/DE1_libonnx/build/src",
+  "command": "\"C:/Program Files (x86)/LLVM/bin/clang.exe\"  @CMakeFiles/onnx.dir/includes_C.rsp  -g -ggdb -Wall -O3 -std=gnu99 -g -std=gnu99 -o CMakeFiles/onnx.dir/default/Abs.c.obj -c D:/ProgramFiles/intelFPGA/18.1/hld/board/terasic/de1_soc/tests/DE1_libonnx/src/default/Abs.c",
+  "file": "D:/ProgramFiles/intelFPGA/18.1/hld/board/terasic/de1_soc/tests/DE1_libonnx/src/default/Abs.c"
+},
+{
+  "directory": "D:/ProgramFiles/intelFPGA/18.1/hld/board/terasic/de1_soc/tests/DE1_libonnx/build/src",
+  "command": "\"C:/Program Files (x86)/LLVM/bin/clang.exe\"  @CMakeFiles/onnx.dir/includes_C.rsp  -g -ggdb -Wall -O3 -std=gnu99 -g -std=gnu99 -o CMakeFiles/onnx.dir/default/Acos.c.obj -c D:/ProgramFiles/intelFPGA/18.1/hld/board/terasic/de1_soc/tests/DE1_libonnx/src/default/Acos.c",
+  "file": "D:/ProgramFiles/intelFPGA/18.1/hld/board/terasic/de1_soc/tests/DE1_libonnx/src/default/Acos.c"
+},
+{
+  "directory": "D:/ProgramFiles/intelFPGA/18.1/hld/board/terasic/de1_soc/tests/DE1_libonnx/build/src",
+  "command": "\"C:/Program Files (x86)/LLVM/bin/clang.exe\"  @CMakeFiles/onnx.dir/includes_C.rsp  -g -ggdb -Wall -O3 -std=gnu99 -g -std=gnu99 -o CMakeFiles/onnx.dir/default/Acosh.c.obj -c D:/ProgramFiles/intelFPGA/18.1/hld/board/terasic/de1_soc/tests/DE1_libonnx/src/default/Acosh.c",
+  "file": "D:/ProgramFiles/intelFPGA/18.1/hld/board/terasic/de1_soc/tests/DE1_libonnx/src/default/Acosh.c"
+},
+{
+  "directory": "D:/ProgramFiles/intelFPGA/18.1/hld/board/terasic/de1_soc/tests/DE1_libonnx/build/src",
+  "command": "\"C:/Program Files (x86)/LLVM/bin/clang.exe\"  @CMakeFiles/onnx.dir/includes_C.rsp  -g -ggdb -Wall -O3 -std=gnu99 -g -std=gnu99 -o CMakeFiles/onnx.dir/default/Add.c.obj -c D:/ProgramFiles/intelFPGA/18.1/hld/board/terasic/de1_soc/tests/DE1_libonnx/src/default/Add.c",
+  "file": "D:/ProgramFiles/intelFPGA/18.1/hld/board/terasic/de1_soc/tests/DE1_libonnx/src/default/Add.c"
+},
+{
+  "directory": "D:/ProgramFiles/intelFPGA/18.1/hld/board/terasic/de1_soc/tests/DE1_libonnx/build/src",
+  "command": "\"C:/Program Files (x86)/LLVM/bin/clang.exe\"  @CMakeFiles/onnx.dir/includes_C.rsp  -g -ggdb -Wall -O3 -std=gnu99 -g -std=gnu99 -o CMakeFiles/onnx.dir/default/And.c.obj -c D:/ProgramFiles/intelFPGA/18.1/hld/board/terasic/de1_soc/tests/DE1_libonnx/src/default/And.c",
+  "file": "D:/ProgramFiles/intelFPGA/18.1/hld/board/terasic/de1_soc/tests/DE1_libonnx/src/default/And.c"
+},
+{
+  "directory": "D:/ProgramFiles/intelFPGA/18.1/hld/board/terasic/de1_soc/tests/DE1_libonnx/build/src",
+  "command": "\"C:/Program Files (x86)/LLVM/bin/clang.exe\"  @CMakeFiles/onnx.dir/includes_C.rsp  -g -ggdb -Wall -O3 -std=gnu99 -g -std=gnu99 -o CMakeFiles/onnx.dir/default/ArgMax.c.obj -c D:/ProgramFiles/intelFPGA/18.1/hld/board/terasic/de1_soc/tests/DE1_libonnx/src/default/ArgMax.c",
+  "file": "D:/ProgramFiles/intelFPGA/18.1/hld/board/terasic/de1_soc/tests/DE1_libonnx/src/default/ArgMax.c"
+},
+{
+  "directory": "D:/ProgramFiles/intelFPGA/18.1/hld/board/terasic/de1_soc/tests/DE1_libonnx/build/src",
+  "command": "\"C:/Program Files (x86)/LLVM/bin/clang.exe\"  @CMakeFiles/onnx.dir/includes_C.rsp  -g -ggdb -Wall -O3 -std=gnu99 -g -std=gnu99 -o CMakeFiles/onnx.dir/default/ArgMin.c.obj -c D:/ProgramFiles/intelFPGA/18.1/hld/board/terasic/de1_soc/tests/DE1_libonnx/src/default/ArgMin.c",
+  "file": "D:/ProgramFiles/intelFPGA/18.1/hld/board/terasic/de1_soc/tests/DE1_libonnx/src/default/ArgMin.c"
+},
+{
+  "directory": "D:/ProgramFiles/intelFPGA/18.1/hld/board/terasic/de1_soc/tests/DE1_libonnx/build/src",
+  "command": "\"C:/Program Files (x86)/LLVM/bin/clang.exe\"  @CMakeFiles/onnx.dir/includes_C.rsp  -g -ggdb -Wall -O3 -std=gnu99 -g -std=gnu99 -o CMakeFiles/onnx.dir/default/Asin.c.obj -c D:/ProgramFiles/intelFPGA/18.1/hld/board/terasic/de1_soc/tests/DE1_libonnx/src/default/Asin.c",
+  "file": "D:/ProgramFiles/intelFPGA/18.1/hld/board/terasic/de1_soc/tests/DE1_libonnx/src/default/Asin.c"
+},
+{
+  "directory": "D:/ProgramFiles/intelFPGA/18.1/hld/board/terasic/de1_soc/tests/DE1_libonnx/build/src",
+  "command": "\"C:/Program Files (x86)/LLVM/bin/clang.exe\"  @CMakeFiles/onnx.dir/includes_C.rsp  -g -ggdb -Wall -O3 -std=gnu99 -g -std=gnu99 -o CMakeFiles/onnx.dir/default/Asinh.c.obj -c D:/ProgramFiles/intelFPGA/18.1/hld/board/terasic/de1_soc/tests/DE1_libonnx/src/default/Asinh.c",
+  "file": "D:/ProgramFiles/intelFPGA/18.1/hld/board/terasic/de1_soc/tests/DE1_libonnx/src/default/Asinh.c"
+},
+{
+  "directory": "D:/ProgramFiles/intelFPGA/18.1/hld/board/terasic/de1_soc/tests/DE1_libonnx/build/src",
+  "command": "\"C:/Program Files (x86)/LLVM/bin/clang.exe\"  @CMakeFiles/onnx.dir/includes_C.rsp  -g -ggdb -Wall -O3 -std=gnu99 -g -std=gnu99 -o CMakeFiles/onnx.dir/default/Atan.c.obj -c D:/ProgramFiles/intelFPGA/18.1/hld/board/terasic/de1_soc/tests/DE1_libonnx/src/default/Atan.c",
+  "file": "D:/ProgramFiles/intelFPGA/18.1/hld/board/terasic/de1_soc/tests/DE1_libonnx/src/default/Atan.c"
+},
+{
+  "directory": "D:/ProgramFiles/intelFPGA/18.1/hld/board/terasic/de1_soc/tests/DE1_libonnx/build/src",
+  "command": "\"C:/Program Files (x86)/LLVM/bin/clang.exe\"  @CMakeFiles/onnx.dir/includes_C.rsp  -g -ggdb -Wall -O3 -std=gnu99 -g -std=gnu99 -o CMakeFiles/onnx.dir/default/Atanh.c.obj -c D:/ProgramFiles/intelFPGA/18.1/hld/board/terasic/de1_soc/tests/DE1_libonnx/src/default/Atanh.c",
+  "file": "D:/ProgramFiles/intelFPGA/18.1/hld/board/terasic/de1_soc/tests/DE1_libonnx/src/default/Atanh.c"
+},
+{
+  "directory": "D:/ProgramFiles/intelFPGA/18.1/hld/board/terasic/de1_soc/tests/DE1_libonnx/build/src",
+  "command": "\"C:/Program Files (x86)/LLVM/bin/clang.exe\"  @CMakeFiles/onnx.dir/includes_C.rsp  -g -ggdb -Wall -O3 -std=gnu99 -g -std=gnu99 -o CMakeFiles/onnx.dir/default/AveragePool.c.obj -c D:/ProgramFiles/intelFPGA/18.1/hld/board/terasic/de1_soc/tests/DE1_libonnx/src/default/AveragePool.c",
+  "file": "D:/ProgramFiles/intelFPGA/18.1/hld/board/terasic/de1_soc/tests/DE1_libonnx/src/default/AveragePool.c"
+},
+{
+  "directory": "D:/ProgramFiles/intelFPGA/18.1/hld/board/terasic/de1_soc/tests/DE1_libonnx/build/src",
+  "command": "\"C:/Program Files (x86)/LLVM/bin/clang.exe\"  @CMakeFiles/onnx.dir/includes_C.rsp  -g -ggdb -Wall -O3 -std=gnu99 -g -std=gnu99 -o CMakeFiles/onnx.dir/default/BatchNormalization.c.obj -c D:/ProgramFiles/intelFPGA/18.1/hld/board/terasic/de1_soc/tests/DE1_libonnx/src/default/BatchNormalization.c",
+  "file": "D:/ProgramFiles/intelFPGA/18.1/hld/board/terasic/de1_soc/tests/DE1_libonnx/src/default/BatchNormalization.c"
+},
+{
+  "directory": "D:/ProgramFiles/intelFPGA/18.1/hld/board/terasic/de1_soc/tests/DE1_libonnx/build/src",
+  "command": "\"C:/Program Files (x86)/LLVM/bin/clang.exe\"  @CMakeFiles/onnx.dir/includes_C.rsp  -g -ggdb -Wall -O3 -std=gnu99 -g -std=gnu99 -o CMakeFiles/onnx.dir/default/BitShift.c.obj -c D:/ProgramFiles/intelFPGA/18.1/hld/board/terasic/de1_soc/tests/DE1_libonnx/src/default/BitShift.c",
+  "file": "D:/ProgramFiles/intelFPGA/18.1/hld/board/terasic/de1_soc/tests/DE1_libonnx/src/default/BitShift.c"
+},
+{
+  "directory": "D:/ProgramFiles/intelFPGA/18.1/hld/board/terasic/de1_soc/tests/DE1_libonnx/build/src",
+  "command": "\"C:/Program Files (x86)/LLVM/bin/clang.exe\"  @CMakeFiles/onnx.dir/includes_C.rsp  -g -ggdb -Wall -O3 -std=gnu99 -g -std=gnu99 -o CMakeFiles/onnx.dir/default/Cast.c.obj -c D:/ProgramFiles/intelFPGA/18.1/hld/board/terasic/de1_soc/tests/DE1_libonnx/src/default/Cast.c",
+  "file": "D:/ProgramFiles/intelFPGA/18.1/hld/board/terasic/de1_soc/tests/DE1_libonnx/src/default/Cast.c"
+},
+{
+  "directory": "D:/ProgramFiles/intelFPGA/18.1/hld/board/terasic/de1_soc/tests/DE1_libonnx/build/src",
+  "command": "\"C:/Program Files (x86)/LLVM/bin/clang.exe\"  @CMakeFiles/onnx.dir/includes_C.rsp  -g -ggdb -Wall -O3 -std=gnu99 -g -std=gnu99 -o CMakeFiles/onnx.dir/default/Ceil.c.obj -c D:/ProgramFiles/intelFPGA/18.1/hld/board/terasic/de1_soc/tests/DE1_libonnx/src/default/Ceil.c",
+  "file": "D:/ProgramFiles/intelFPGA/18.1/hld/board/terasic/de1_soc/tests/DE1_libonnx/src/default/Ceil.c"
+},
+{
+  "directory": "D:/ProgramFiles/intelFPGA/18.1/hld/board/terasic/de1_soc/tests/DE1_libonnx/build/src",
+  "command": "\"C:/Program Files (x86)/LLVM/bin/clang.exe\"  @CMakeFiles/onnx.dir/includes_C.rsp  -g -ggdb -Wall -O3 -std=gnu99 -g -std=gnu99 -o CMakeFiles/onnx.dir/default/Celu.c.obj -c D:/ProgramFiles/intelFPGA/18.1/hld/board/terasic/de1_soc/tests/DE1_libonnx/src/default/Celu.c",
+  "file": "D:/ProgramFiles/intelFPGA/18.1/hld/board/terasic/de1_soc/tests/DE1_libonnx/src/default/Celu.c"
+},
+{
+  "directory": "D:/ProgramFiles/intelFPGA/18.1/hld/board/terasic/de1_soc/tests/DE1_libonnx/build/src",
+  "command": "\"C:/Program Files (x86)/LLVM/bin/clang.exe\"  @CMakeFiles/onnx.dir/includes_C.rsp  -g -ggdb -Wall -O3 -std=gnu99 -g -std=gnu99 -o CMakeFiles/onnx.dir/default/Clip.c.obj -c D:/ProgramFiles/intelFPGA/18.1/hld/board/terasic/de1_soc/tests/DE1_libonnx/src/default/Clip.c",
+  "file": "D:/ProgramFiles/intelFPGA/18.1/hld/board/terasic/de1_soc/tests/DE1_libonnx/src/default/Clip.c"
+},
+{
+  "directory": "D:/ProgramFiles/intelFPGA/18.1/hld/board/terasic/de1_soc/tests/DE1_libonnx/build/src",
+  "command": "\"C:/Program Files (x86)/LLVM/bin/clang.exe\"  @CMakeFiles/onnx.dir/includes_C.rsp  -g -ggdb -Wall -O3 -std=gnu99 -g -std=gnu99 -o CMakeFiles/onnx.dir/default/Compress.c.obj -c D:/ProgramFiles/intelFPGA/18.1/hld/board/terasic/de1_soc/tests/DE1_libonnx/src/default/Compress.c",
+  "file": "D:/ProgramFiles/intelFPGA/18.1/hld/board/terasic/de1_soc/tests/DE1_libonnx/src/default/Compress.c"
+},
+{
+  "directory": "D:/ProgramFiles/intelFPGA/18.1/hld/board/terasic/de1_soc/tests/DE1_libonnx/build/src",
+  "command": "\"C:/Program Files (x86)/LLVM/bin/clang.exe\"  @CMakeFiles/onnx.dir/includes_C.rsp  -g -ggdb -Wall -O3 -std=gnu99 -g -std=gnu99 -o CMakeFiles/onnx.dir/default/Concat.c.obj -c D:/ProgramFiles/intelFPGA/18.1/hld/board/terasic/de1_soc/tests/DE1_libonnx/src/default/Concat.c",
+  "file": "D:/ProgramFiles/intelFPGA/18.1/hld/board/terasic/de1_soc/tests/DE1_libonnx/src/default/Concat.c"
+},
+{
+  "directory": "D:/ProgramFiles/intelFPGA/18.1/hld/board/terasic/de1_soc/tests/DE1_libonnx/build/src",
+  "command": "\"C:/Program Files (x86)/LLVM/bin/clang.exe\"  @CMakeFiles/onnx.dir/includes_C.rsp  -g -ggdb -Wall -O3 -std=gnu99 -g -std=gnu99 -o CMakeFiles/onnx.dir/default/ConcatFromSequence.c.obj -c D:/ProgramFiles/intelFPGA/18.1/hld/board/terasic/de1_soc/tests/DE1_libonnx/src/default/ConcatFromSequence.c",
+  "file": "D:/ProgramFiles/intelFPGA/18.1/hld/board/terasic/de1_soc/tests/DE1_libonnx/src/default/ConcatFromSequence.c"
+},
+{
+  "directory": "D:/ProgramFiles/intelFPGA/18.1/hld/board/terasic/de1_soc/tests/DE1_libonnx/build/src",
+  "command": "\"C:/Program Files (x86)/LLVM/bin/clang.exe\"  @CMakeFiles/onnx.dir/includes_C.rsp  -g -ggdb -Wall -O3 -std=gnu99 -g -std=gnu99 -o CMakeFiles/onnx.dir/default/Constant.c.obj -c D:/ProgramFiles/intelFPGA/18.1/hld/board/terasic/de1_soc/tests/DE1_libonnx/src/default/Constant.c",
+  "file": "D:/ProgramFiles/intelFPGA/18.1/hld/board/terasic/de1_soc/tests/DE1_libonnx/src/default/Constant.c"
+},
+{
+  "directory": "D:/ProgramFiles/intelFPGA/18.1/hld/board/terasic/de1_soc/tests/DE1_libonnx/build/src",
+  "command": "\"C:/Program Files (x86)/LLVM/bin/clang.exe\"  @CMakeFiles/onnx.dir/includes_C.rsp  -g -ggdb -Wall -O3 -std=gnu99 -g -std=gnu99 -o CMakeFiles/onnx.dir/default/ConstantOfShape.c.obj -c D:/ProgramFiles/intelFPGA/18.1/hld/board/terasic/de1_soc/tests/DE1_libonnx/src/default/ConstantOfShape.c",
+  "file": "D:/ProgramFiles/intelFPGA/18.1/hld/board/terasic/de1_soc/tests/DE1_libonnx/src/default/ConstantOfShape.c"
+},
+{
+  "directory": "D:/ProgramFiles/intelFPGA/18.1/hld/board/terasic/de1_soc/tests/DE1_libonnx/build/src",
+  "command": "\"C:/Program Files (x86)/LLVM/bin/clang.exe\"  @CMakeFiles/onnx.dir/includes_C.rsp  -g -ggdb -Wall -O3 -std=gnu99 -g -std=gnu99 -o CMakeFiles/onnx.dir/default/Conv.c.obj -c D:/ProgramFiles/intelFPGA/18.1/hld/board/terasic/de1_soc/tests/DE1_libonnx/src/default/Conv.c",
+  "file": "D:/ProgramFiles/intelFPGA/18.1/hld/board/terasic/de1_soc/tests/DE1_libonnx/src/default/Conv.c"
+},
+{
+  "directory": "D:/ProgramFiles/intelFPGA/18.1/hld/board/terasic/de1_soc/tests/DE1_libonnx/build/src",
+  "command": "\"C:/Program Files (x86)/LLVM/bin/clang.exe\"  @CMakeFiles/onnx.dir/includes_C.rsp  -g -ggdb -Wall -O3 -std=gnu99 -g -std=gnu99 -o CMakeFiles/onnx.dir/default/ConvInteger.c.obj -c D:/ProgramFiles/intelFPGA/18.1/hld/board/terasic/de1_soc/tests/DE1_libonnx/src/default/ConvInteger.c",
+  "file": "D:/ProgramFiles/intelFPGA/18.1/hld/board/terasic/de1_soc/tests/DE1_libonnx/src/default/ConvInteger.c"
+},
+{
+  "directory": "D:/ProgramFiles/intelFPGA/18.1/hld/board/terasic/de1_soc/tests/DE1_libonnx/build/src",
+  "command": "\"C:/Program Files (x86)/LLVM/bin/clang.exe\"  @CMakeFiles/onnx.dir/includes_C.rsp  -g -ggdb -Wall -O3 -std=gnu99 -g -std=gnu99 -o CMakeFiles/onnx.dir/default/ConvTranspose.c.obj -c D:/ProgramFiles/intelFPGA/18.1/hld/board/terasic/de1_soc/tests/DE1_libonnx/src/default/ConvTranspose.c",
+  "file": "D:/ProgramFiles/intelFPGA/18.1/hld/board/terasic/de1_soc/tests/DE1_libonnx/src/default/ConvTranspose.c"
+},
+{
+  "directory": "D:/ProgramFiles/intelFPGA/18.1/hld/board/terasic/de1_soc/tests/DE1_libonnx/build/src",
+  "command": "\"C:/Program Files (x86)/LLVM/bin/clang.exe\"  @CMakeFiles/onnx.dir/includes_C.rsp  -g -ggdb -Wall -O3 -std=gnu99 -g -std=gnu99 -o CMakeFiles/onnx.dir/default/Cos.c.obj -c D:/ProgramFiles/intelFPGA/18.1/hld/board/terasic/de1_soc/tests/DE1_libonnx/src/default/Cos.c",
+  "file": "D:/ProgramFiles/intelFPGA/18.1/hld/board/terasic/de1_soc/tests/DE1_libonnx/src/default/Cos.c"
+},
+{
+  "directory": "D:/ProgramFiles/intelFPGA/18.1/hld/board/terasic/de1_soc/tests/DE1_libonnx/build/src",
+  "command": "\"C:/Program Files (x86)/LLVM/bin/clang.exe\"  @CMakeFiles/onnx.dir/includes_C.rsp  -g -ggdb -Wall -O3 -std=gnu99 -g -std=gnu99 -o CMakeFiles/onnx.dir/default/Cosh.c.obj -c D:/ProgramFiles/intelFPGA/18.1/hld/board/terasic/de1_soc/tests/DE1_libonnx/src/default/Cosh.c",
+  "file": "D:/ProgramFiles/intelFPGA/18.1/hld/board/terasic/de1_soc/tests/DE1_libonnx/src/default/Cosh.c"
+},
+{
+  "directory": "D:/ProgramFiles/intelFPGA/18.1/hld/board/terasic/de1_soc/tests/DE1_libonnx/build/src",
+  "command": "\"C:/Program Files (x86)/LLVM/bin/clang.exe\"  @CMakeFiles/onnx.dir/includes_C.rsp  -g -ggdb -Wall -O3 -std=gnu99 -g -std=gnu99 -o CMakeFiles/onnx.dir/default/CumSum.c.obj -c D:/ProgramFiles/intelFPGA/18.1/hld/board/terasic/de1_soc/tests/DE1_libonnx/src/default/CumSum.c",
+  "file": "D:/ProgramFiles/intelFPGA/18.1/hld/board/terasic/de1_soc/tests/DE1_libonnx/src/default/CumSum.c"
+},
+{
+  "directory": "D:/ProgramFiles/intelFPGA/18.1/hld/board/terasic/de1_soc/tests/DE1_libonnx/build/src",
+  "command": "\"C:/Program Files (x86)/LLVM/bin/clang.exe\"  @CMakeFiles/onnx.dir/includes_C.rsp  -g -ggdb -Wall -O3 -std=gnu99 -g -std=gnu99 -o CMakeFiles/onnx.dir/default/DepthToSpace.c.obj -c D:/ProgramFiles/intelFPGA/18.1/hld/board/terasic/de1_soc/tests/DE1_libonnx/src/default/DepthToSpace.c",
+  "file": "D:/ProgramFiles/intelFPGA/18.1/hld/board/terasic/de1_soc/tests/DE1_libonnx/src/default/DepthToSpace.c"
+},
+{
+  "directory": "D:/ProgramFiles/intelFPGA/18.1/hld/board/terasic/de1_soc/tests/DE1_libonnx/build/src",
+  "command": "\"C:/Program Files (x86)/LLVM/bin/clang.exe\"  @CMakeFiles/onnx.dir/includes_C.rsp  -g -ggdb -Wall -O3 -std=gnu99 -g -std=gnu99 -o CMakeFiles/onnx.dir/default/DequantizeLinear.c.obj -c D:/ProgramFiles/intelFPGA/18.1/hld/board/terasic/de1_soc/tests/DE1_libonnx/src/default/DequantizeLinear.c",
+  "file": "D:/ProgramFiles/intelFPGA/18.1/hld/board/terasic/de1_soc/tests/DE1_libonnx/src/default/DequantizeLinear.c"
+},
+{
+  "directory": "D:/ProgramFiles/intelFPGA/18.1/hld/board/terasic/de1_soc/tests/DE1_libonnx/build/src",
+  "command": "\"C:/Program Files (x86)/LLVM/bin/clang.exe\"  @CMakeFiles/onnx.dir/includes_C.rsp  -g -ggdb -Wall -O3 -std=gnu99 -g -std=gnu99 -o CMakeFiles/onnx.dir/default/Det.c.obj -c D:/ProgramFiles/intelFPGA/18.1/hld/board/terasic/de1_soc/tests/DE1_libonnx/src/default/Det.c",
+  "file": "D:/ProgramFiles/intelFPGA/18.1/hld/board/terasic/de1_soc/tests/DE1_libonnx/src/default/Det.c"
+},
+{
+  "directory": "D:/ProgramFiles/intelFPGA/18.1/hld/board/terasic/de1_soc/tests/DE1_libonnx/build/src",
+  "command": "\"C:/Program Files (x86)/LLVM/bin/clang.exe\"  @CMakeFiles/onnx.dir/includes_C.rsp  -g -ggdb -Wall -O3 -std=gnu99 -g -std=gnu99 -o CMakeFiles/onnx.dir/default/Div.c.obj -c D:/ProgramFiles/intelFPGA/18.1/hld/board/terasic/de1_soc/tests/DE1_libonnx/src/default/Div.c",
+  "file": "D:/ProgramFiles/intelFPGA/18.1/hld/board/terasic/de1_soc/tests/DE1_libonnx/src/default/Div.c"
+},
+{
+  "directory": "D:/ProgramFiles/intelFPGA/18.1/hld/board/terasic/de1_soc/tests/DE1_libonnx/build/src",
+  "command": "\"C:/Program Files (x86)/LLVM/bin/clang.exe\"  @CMakeFiles/onnx.dir/includes_C.rsp  -g -ggdb -Wall -O3 -std=gnu99 -g -std=gnu99 -o CMakeFiles/onnx.dir/default/Dropout.c.obj -c D:/ProgramFiles/intelFPGA/18.1/hld/board/terasic/de1_soc/tests/DE1_libonnx/src/default/Dropout.c",
+  "file": "D:/ProgramFiles/intelFPGA/18.1/hld/board/terasic/de1_soc/tests/DE1_libonnx/src/default/Dropout.c"
+},
+{
+  "directory": "D:/ProgramFiles/intelFPGA/18.1/hld/board/terasic/de1_soc/tests/DE1_libonnx/build/src",
+  "command": "\"C:/Program Files (x86)/LLVM/bin/clang.exe\"  @CMakeFiles/onnx.dir/includes_C.rsp  -g -ggdb -Wall -O3 -std=gnu99 -g -std=gnu99 -o CMakeFiles/onnx.dir/default/DynamicQuantizeLinear.c.obj -c D:/ProgramFiles/intelFPGA/18.1/hld/board/terasic/de1_soc/tests/DE1_libonnx/src/default/DynamicQuantizeLinear.c",
+  "file": "D:/ProgramFiles/intelFPGA/18.1/hld/board/terasic/de1_soc/tests/DE1_libonnx/src/default/DynamicQuantizeLinear.c"
+},
+{
+  "directory": "D:/ProgramFiles/intelFPGA/18.1/hld/board/terasic/de1_soc/tests/DE1_libonnx/build/src",
+  "command": "\"C:/Program Files (x86)/LLVM/bin/clang.exe\"  @CMakeFiles/onnx.dir/includes_C.rsp  -g -ggdb -Wall -O3 -std=gnu99 -g -std=gnu99 -o CMakeFiles/onnx.dir/default/Einsum.c.obj -c D:/ProgramFiles/intelFPGA/18.1/hld/board/terasic/de1_soc/tests/DE1_libonnx/src/default/Einsum.c",
+  "file": "D:/ProgramFiles/intelFPGA/18.1/hld/board/terasic/de1_soc/tests/DE1_libonnx/src/default/Einsum.c"
+},
+{
+  "directory": "D:/ProgramFiles/intelFPGA/18.1/hld/board/terasic/de1_soc/tests/DE1_libonnx/build/src",
+  "command": "\"C:/Program Files (x86)/LLVM/bin/clang.exe\"  @CMakeFiles/onnx.dir/includes_C.rsp  -g -ggdb -Wall -O3 -std=gnu99 -g -std=gnu99 -o CMakeFiles/onnx.dir/default/Elu.c.obj -c D:/ProgramFiles/intelFPGA/18.1/hld/board/terasic/de1_soc/tests/DE1_libonnx/src/default/Elu.c",
+  "file": "D:/ProgramFiles/intelFPGA/18.1/hld/board/terasic/de1_soc/tests/DE1_libonnx/src/default/Elu.c"
+},
+{
+  "directory": "D:/ProgramFiles/intelFPGA/18.1/hld/board/terasic/de1_soc/tests/DE1_libonnx/build/src",
+  "command": "\"C:/Program Files (x86)/LLVM/bin/clang.exe\"  @CMakeFiles/onnx.dir/includes_C.rsp  -g -ggdb -Wall -O3 -std=gnu99 -g -std=gnu99 -o CMakeFiles/onnx.dir/default/Equal.c.obj -c D:/ProgramFiles/intelFPGA/18.1/hld/board/terasic/de1_soc/tests/DE1_libonnx/src/default/Equal.c",
+  "file": "D:/ProgramFiles/intelFPGA/18.1/hld/board/terasic/de1_soc/tests/DE1_libonnx/src/default/Equal.c"
+},
+{
+  "directory": "D:/ProgramFiles/intelFPGA/18.1/hld/board/terasic/de1_soc/tests/DE1_libonnx/build/src",
+  "command": "\"C:/Program Files (x86)/LLVM/bin/clang.exe\"  @CMakeFiles/onnx.dir/includes_C.rsp  -g -ggdb -Wall -O3 -std=gnu99 -g -std=gnu99 -o CMakeFiles/onnx.dir/default/Erf.c.obj -c D:/ProgramFiles/intelFPGA/18.1/hld/board/terasic/de1_soc/tests/DE1_libonnx/src/default/Erf.c",
+  "file": "D:/ProgramFiles/intelFPGA/18.1/hld/board/terasic/de1_soc/tests/DE1_libonnx/src/default/Erf.c"
+},
+{
+  "directory": "D:/ProgramFiles/intelFPGA/18.1/hld/board/terasic/de1_soc/tests/DE1_libonnx/build/src",
+  "command": "\"C:/Program Files (x86)/LLVM/bin/clang.exe\"  @CMakeFiles/onnx.dir/includes_C.rsp  -g -ggdb -Wall -O3 -std=gnu99 -g -std=gnu99 -o CMakeFiles/onnx.dir/default/Exp.c.obj -c D:/ProgramFiles/intelFPGA/18.1/hld/board/terasic/de1_soc/tests/DE1_libonnx/src/default/Exp.c",
+  "file": "D:/ProgramFiles/intelFPGA/18.1/hld/board/terasic/de1_soc/tests/DE1_libonnx/src/default/Exp.c"
+},
+{
+  "directory": "D:/ProgramFiles/intelFPGA/18.1/hld/board/terasic/de1_soc/tests/DE1_libonnx/build/src",
+  "command": "\"C:/Program Files (x86)/LLVM/bin/clang.exe\"  @CMakeFiles/onnx.dir/includes_C.rsp  -g -ggdb -Wall -O3 -std=gnu99 -g -std=gnu99 -o CMakeFiles/onnx.dir/default/Expand.c.obj -c D:/ProgramFiles/intelFPGA/18.1/hld/board/terasic/de1_soc/tests/DE1_libonnx/src/default/Expand.c",
+  "file": "D:/ProgramFiles/intelFPGA/18.1/hld/board/terasic/de1_soc/tests/DE1_libonnx/src/default/Expand.c"
+},
+{
+  "directory": "D:/ProgramFiles/intelFPGA/18.1/hld/board/terasic/de1_soc/tests/DE1_libonnx/build/src",
+  "command": "\"C:/Program Files (x86)/LLVM/bin/clang.exe\"  @CMakeFiles/onnx.dir/includes_C.rsp  -g -ggdb -Wall -O3 -std=gnu99 -g -std=gnu99 -o CMakeFiles/onnx.dir/default/EyeLike.c.obj -c D:/ProgramFiles/intelFPGA/18.1/hld/board/terasic/de1_soc/tests/DE1_libonnx/src/default/EyeLike.c",
+  "file": "D:/ProgramFiles/intelFPGA/18.1/hld/board/terasic/de1_soc/tests/DE1_libonnx/src/default/EyeLike.c"
+},
+{
+  "directory": "D:/ProgramFiles/intelFPGA/18.1/hld/board/terasic/de1_soc/tests/DE1_libonnx/build/src",
+  "command": "\"C:/Program Files (x86)/LLVM/bin/clang.exe\"  @CMakeFiles/onnx.dir/includes_C.rsp  -g -ggdb -Wall -O3 -std=gnu99 -g -std=gnu99 -o CMakeFiles/onnx.dir/default/Flatten.c.obj -c D:/ProgramFiles/intelFPGA/18.1/hld/board/terasic/de1_soc/tests/DE1_libonnx/src/default/Flatten.c",
+  "file": "D:/ProgramFiles/intelFPGA/18.1/hld/board/terasic/de1_soc/tests/DE1_libonnx/src/default/Flatten.c"
+},
+{
+  "directory": "D:/ProgramFiles/intelFPGA/18.1/hld/board/terasic/de1_soc/tests/DE1_libonnx/build/src",
+  "command": "\"C:/Program Files (x86)/LLVM/bin/clang.exe\"  @CMakeFiles/onnx.dir/includes_C.rsp  -g -ggdb -Wall -O3 -std=gnu99 -g -std=gnu99 -o CMakeFiles/onnx.dir/default/Floor.c.obj -c D:/ProgramFiles/intelFPGA/18.1/hld/board/terasic/de1_soc/tests/DE1_libonnx/src/default/Floor.c",
+  "file": "D:/ProgramFiles/intelFPGA/18.1/hld/board/terasic/de1_soc/tests/DE1_libonnx/src/default/Floor.c"
+},
+{
+  "directory": "D:/ProgramFiles/intelFPGA/18.1/hld/board/terasic/de1_soc/tests/DE1_libonnx/build/src",
+  "command": "\"C:/Program Files (x86)/LLVM/bin/clang.exe\"  @CMakeFiles/onnx.dir/includes_C.rsp  -g -ggdb -Wall -O3 -std=gnu99 -g -std=gnu99 -o CMakeFiles/onnx.dir/default/GRU.c.obj -c D:/ProgramFiles/intelFPGA/18.1/hld/board/terasic/de1_soc/tests/DE1_libonnx/src/default/GRU.c",
+  "file": "D:/ProgramFiles/intelFPGA/18.1/hld/board/terasic/de1_soc/tests/DE1_libonnx/src/default/GRU.c"
+},
+{
+  "directory": "D:/ProgramFiles/intelFPGA/18.1/hld/board/terasic/de1_soc/tests/DE1_libonnx/build/src",
+  "command": "\"C:/Program Files (x86)/LLVM/bin/clang.exe\"  @CMakeFiles/onnx.dir/includes_C.rsp  -g -ggdb -Wall -O3 -std=gnu99 -g -std=gnu99 -o CMakeFiles/onnx.dir/default/Gather.c.obj -c D:/ProgramFiles/intelFPGA/18.1/hld/board/terasic/de1_soc/tests/DE1_libonnx/src/default/Gather.c",
+  "file": "D:/ProgramFiles/intelFPGA/18.1/hld/board/terasic/de1_soc/tests/DE1_libonnx/src/default/Gather.c"
+},
+{
+  "directory": "D:/ProgramFiles/intelFPGA/18.1/hld/board/terasic/de1_soc/tests/DE1_libonnx/build/src",
+  "command": "\"C:/Program Files (x86)/LLVM/bin/clang.exe\"  @CMakeFiles/onnx.dir/includes_C.rsp  -g -ggdb -Wall -O3 -std=gnu99 -g -std=gnu99 -o CMakeFiles/onnx.dir/default/GatherElements.c.obj -c D:/ProgramFiles/intelFPGA/18.1/hld/board/terasic/de1_soc/tests/DE1_libonnx/src/default/GatherElements.c",
+  "file": "D:/ProgramFiles/intelFPGA/18.1/hld/board/terasic/de1_soc/tests/DE1_libonnx/src/default/GatherElements.c"
+},
+{
+  "directory": "D:/ProgramFiles/intelFPGA/18.1/hld/board/terasic/de1_soc/tests/DE1_libonnx/build/src",
+  "command": "\"C:/Program Files (x86)/LLVM/bin/clang.exe\"  @CMakeFiles/onnx.dir/includes_C.rsp  -g -ggdb -Wall -O3 -std=gnu99 -g -std=gnu99 -o CMakeFiles/onnx.dir/default/GatherND.c.obj -c D:/ProgramFiles/intelFPGA/18.1/hld/board/terasic/de1_soc/tests/DE1_libonnx/src/default/GatherND.c",
+  "file": "D:/ProgramFiles/intelFPGA/18.1/hld/board/terasic/de1_soc/tests/DE1_libonnx/src/default/GatherND.c"
+},
+{
+  "directory": "D:/ProgramFiles/intelFPGA/18.1/hld/board/terasic/de1_soc/tests/DE1_libonnx/build/src",
+  "command": "\"C:/Program Files (x86)/LLVM/bin/clang.exe\"  @CMakeFiles/onnx.dir/includes_C.rsp  -g -ggdb -Wall -O3 -std=gnu99 -g -std=gnu99 -o CMakeFiles/onnx.dir/default/Gemm.c.obj -c D:/ProgramFiles/intelFPGA/18.1/hld/board/terasic/de1_soc/tests/DE1_libonnx/src/default/Gemm.c",
+  "file": "D:/ProgramFiles/intelFPGA/18.1/hld/board/terasic/de1_soc/tests/DE1_libonnx/src/default/Gemm.c"
+},
+{
+  "directory": "D:/ProgramFiles/intelFPGA/18.1/hld/board/terasic/de1_soc/tests/DE1_libonnx/build/src",
+  "command": "\"C:/Program Files (x86)/LLVM/bin/clang.exe\"  @CMakeFiles/onnx.dir/includes_C.rsp  -g -ggdb -Wall -O3 -std=gnu99 -g -std=gnu99 -o CMakeFiles/onnx.dir/default/GlobalAveragePool.c.obj -c D:/ProgramFiles/intelFPGA/18.1/hld/board/terasic/de1_soc/tests/DE1_libonnx/src/default/GlobalAveragePool.c",
+  "file": "D:/ProgramFiles/intelFPGA/18.1/hld/board/terasic/de1_soc/tests/DE1_libonnx/src/default/GlobalAveragePool.c"
+},
+{
+  "directory": "D:/ProgramFiles/intelFPGA/18.1/hld/board/terasic/de1_soc/tests/DE1_libonnx/build/src",
+  "command": "\"C:/Program Files (x86)/LLVM/bin/clang.exe\"  @CMakeFiles/onnx.dir/includes_C.rsp  -g -ggdb -Wall -O3 -std=gnu99 -g -std=gnu99 -o CMakeFiles/onnx.dir/default/GlobalLpPool.c.obj -c D:/ProgramFiles/intelFPGA/18.1/hld/board/terasic/de1_soc/tests/DE1_libonnx/src/default/GlobalLpPool.c",
+  "file": "D:/ProgramFiles/intelFPGA/18.1/hld/board/terasic/de1_soc/tests/DE1_libonnx/src/default/GlobalLpPool.c"
+},
+{
+  "directory": "D:/ProgramFiles/intelFPGA/18.1/hld/board/terasic/de1_soc/tests/DE1_libonnx/build/src",
+  "command": "\"C:/Program Files (x86)/LLVM/bin/clang.exe\"  @CMakeFiles/onnx.dir/includes_C.rsp  -g -ggdb -Wall -O3 -std=gnu99 -g -std=gnu99 -o CMakeFiles/onnx.dir/default/GlobalMaxPool.c.obj -c D:/ProgramFiles/intelFPGA/18.1/hld/board/terasic/de1_soc/tests/DE1_libonnx/src/default/GlobalMaxPool.c",
+  "file": "D:/ProgramFiles/intelFPGA/18.1/hld/board/terasic/de1_soc/tests/DE1_libonnx/src/default/GlobalMaxPool.c"
+},
+{
+  "directory": "D:/ProgramFiles/intelFPGA/18.1/hld/board/terasic/de1_soc/tests/DE1_libonnx/build/src",
+  "command": "\"C:/Program Files (x86)/LLVM/bin/clang.exe\"  @CMakeFiles/onnx.dir/includes_C.rsp  -g -ggdb -Wall -O3 -std=gnu99 -g -std=gnu99 -o CMakeFiles/onnx.dir/default/Greater.c.obj -c D:/ProgramFiles/intelFPGA/18.1/hld/board/terasic/de1_soc/tests/DE1_libonnx/src/default/Greater.c",
+  "file": "D:/ProgramFiles/intelFPGA/18.1/hld/board/terasic/de1_soc/tests/DE1_libonnx/src/default/Greater.c"
+},
+{
+  "directory": "D:/ProgramFiles/intelFPGA/18.1/hld/board/terasic/de1_soc/tests/DE1_libonnx/build/src",
+  "command": "\"C:/Program Files (x86)/LLVM/bin/clang.exe\"  @CMakeFiles/onnx.dir/includes_C.rsp  -g -ggdb -Wall -O3 -std=gnu99 -g -std=gnu99 -o CMakeFiles/onnx.dir/default/GreaterOrEqual.c.obj -c D:/ProgramFiles/intelFPGA/18.1/hld/board/terasic/de1_soc/tests/DE1_libonnx/src/default/GreaterOrEqual.c",
+  "file": "D:/ProgramFiles/intelFPGA/18.1/hld/board/terasic/de1_soc/tests/DE1_libonnx/src/default/GreaterOrEqual.c"
+},
+{
+  "directory": "D:/ProgramFiles/intelFPGA/18.1/hld/board/terasic/de1_soc/tests/DE1_libonnx/build/src",
+  "command": "\"C:/Program Files (x86)/LLVM/bin/clang.exe\"  @CMakeFiles/onnx.dir/includes_C.rsp  -g -ggdb -Wall -O3 -std=gnu99 -g -std=gnu99 -o CMakeFiles/onnx.dir/default/HardSigmoid.c.obj -c D:/ProgramFiles/intelFPGA/18.1/hld/board/terasic/de1_soc/tests/DE1_libonnx/src/default/HardSigmoid.c",
+  "file": "D:/ProgramFiles/intelFPGA/18.1/hld/board/terasic/de1_soc/tests/DE1_libonnx/src/default/HardSigmoid.c"
+},
+{
+  "directory": "D:/ProgramFiles/intelFPGA/18.1/hld/board/terasic/de1_soc/tests/DE1_libonnx/build/src",
+  "command": "\"C:/Program Files (x86)/LLVM/bin/clang.exe\"  @CMakeFiles/onnx.dir/includes_C.rsp  -g -ggdb -Wall -O3 -std=gnu99 -g -std=gnu99 -o CMakeFiles/onnx.dir/default/HardSwish.c.obj -c D:/ProgramFiles/intelFPGA/18.1/hld/board/terasic/de1_soc/tests/DE1_libonnx/src/default/HardSwish.c",
+  "file": "D:/ProgramFiles/intelFPGA/18.1/hld/board/terasic/de1_soc/tests/DE1_libonnx/src/default/HardSwish.c"
+},
+{
+  "directory": "D:/ProgramFiles/intelFPGA/18.1/hld/board/terasic/de1_soc/tests/DE1_libonnx/build/src",
+  "command": "\"C:/Program Files (x86)/LLVM/bin/clang.exe\"  @CMakeFiles/onnx.dir/includes_C.rsp  -g -ggdb -Wall -O3 -std=gnu99 -g -std=gnu99 -o CMakeFiles/onnx.dir/default/Hardmax.c.obj -c D:/ProgramFiles/intelFPGA/18.1/hld/board/terasic/de1_soc/tests/DE1_libonnx/src/default/Hardmax.c",
+  "file": "D:/ProgramFiles/intelFPGA/18.1/hld/board/terasic/de1_soc/tests/DE1_libonnx/src/default/Hardmax.c"
+},
+{
+  "directory": "D:/ProgramFiles/intelFPGA/18.1/hld/board/terasic/de1_soc/tests/DE1_libonnx/build/src",
+  "command": "\"C:/Program Files (x86)/LLVM/bin/clang.exe\"  @CMakeFiles/onnx.dir/includes_C.rsp  -g -ggdb -Wall -O3 -std=gnu99 -g -std=gnu99 -o CMakeFiles/onnx.dir/default/Identity.c.obj -c D:/ProgramFiles/intelFPGA/18.1/hld/board/terasic/de1_soc/tests/DE1_libonnx/src/default/Identity.c",
+  "file": "D:/ProgramFiles/intelFPGA/18.1/hld/board/terasic/de1_soc/tests/DE1_libonnx/src/default/Identity.c"
+},
+{
+  "directory": "D:/ProgramFiles/intelFPGA/18.1/hld/board/terasic/de1_soc/tests/DE1_libonnx/build/src",
+  "command": "\"C:/Program Files (x86)/LLVM/bin/clang.exe\"  @CMakeFiles/onnx.dir/includes_C.rsp  -g -ggdb -Wall -O3 -std=gnu99 -g -std=gnu99 -o CMakeFiles/onnx.dir/default/If.c.obj -c D:/ProgramFiles/intelFPGA/18.1/hld/board/terasic/de1_soc/tests/DE1_libonnx/src/default/If.c",
+  "file": "D:/ProgramFiles/intelFPGA/18.1/hld/board/terasic/de1_soc/tests/DE1_libonnx/src/default/If.c"
+},
+{
+  "directory": "D:/ProgramFiles/intelFPGA/18.1/hld/board/terasic/de1_soc/tests/DE1_libonnx/build/src",
+  "command": "\"C:/Program Files (x86)/LLVM/bin/clang.exe\"  @CMakeFiles/onnx.dir/includes_C.rsp  -g -ggdb -Wall -O3 -std=gnu99 -g -std=gnu99 -o CMakeFiles/onnx.dir/default/InstanceNormalization.c.obj -c D:/ProgramFiles/intelFPGA/18.1/hld/board/terasic/de1_soc/tests/DE1_libonnx/src/default/InstanceNormalization.c",
+  "file": "D:/ProgramFiles/intelFPGA/18.1/hld/board/terasic/de1_soc/tests/DE1_libonnx/src/default/InstanceNormalization.c"
+},
+{
+  "directory": "D:/ProgramFiles/intelFPGA/18.1/hld/board/terasic/de1_soc/tests/DE1_libonnx/build/src",
+  "command": "\"C:/Program Files (x86)/LLVM/bin/clang.exe\"  @CMakeFiles/onnx.dir/includes_C.rsp  -g -ggdb -Wall -O3 -std=gnu99 -g -std=gnu99 -o CMakeFiles/onnx.dir/default/IsInf.c.obj -c D:/ProgramFiles/intelFPGA/18.1/hld/board/terasic/de1_soc/tests/DE1_libonnx/src/default/IsInf.c",
+  "file": "D:/ProgramFiles/intelFPGA/18.1/hld/board/terasic/de1_soc/tests/DE1_libonnx/src/default/IsInf.c"
+},
+{
+  "directory": "D:/ProgramFiles/intelFPGA/18.1/hld/board/terasic/de1_soc/tests/DE1_libonnx/build/src",
+  "command": "\"C:/Program Files (x86)/LLVM/bin/clang.exe\"  @CMakeFiles/onnx.dir/includes_C.rsp  -g -ggdb -Wall -O3 -std=gnu99 -g -std=gnu99 -o CMakeFiles/onnx.dir/default/IsNaN.c.obj -c D:/ProgramFiles/intelFPGA/18.1/hld/board/terasic/de1_soc/tests/DE1_libonnx/src/default/IsNaN.c",
+  "file": "D:/ProgramFiles/intelFPGA/18.1/hld/board/terasic/de1_soc/tests/DE1_libonnx/src/default/IsNaN.c"
+},
+{
+  "directory": "D:/ProgramFiles/intelFPGA/18.1/hld/board/terasic/de1_soc/tests/DE1_libonnx/build/src",
+  "command": "\"C:/Program Files (x86)/LLVM/bin/clang.exe\"  @CMakeFiles/onnx.dir/includes_C.rsp  -g -ggdb -Wall -O3 -std=gnu99 -g -std=gnu99 -o CMakeFiles/onnx.dir/default/LRN.c.obj -c D:/ProgramFiles/intelFPGA/18.1/hld/board/terasic/de1_soc/tests/DE1_libonnx/src/default/LRN.c",
+  "file": "D:/ProgramFiles/intelFPGA/18.1/hld/board/terasic/de1_soc/tests/DE1_libonnx/src/default/LRN.c"
+},
+{
+  "directory": "D:/ProgramFiles/intelFPGA/18.1/hld/board/terasic/de1_soc/tests/DE1_libonnx/build/src",
+  "command": "\"C:/Program Files (x86)/LLVM/bin/clang.exe\"  @CMakeFiles/onnx.dir/includes_C.rsp  -g -ggdb -Wall -O3 -std=gnu99 -g -std=gnu99 -o CMakeFiles/onnx.dir/default/LSTM.c.obj -c D:/ProgramFiles/intelFPGA/18.1/hld/board/terasic/de1_soc/tests/DE1_libonnx/src/default/LSTM.c",
+  "file": "D:/ProgramFiles/intelFPGA/18.1/hld/board/terasic/de1_soc/tests/DE1_libonnx/src/default/LSTM.c"
+},
+{
+  "directory": "D:/ProgramFiles/intelFPGA/18.1/hld/board/terasic/de1_soc/tests/DE1_libonnx/build/src",
+  "command": "\"C:/Program Files (x86)/LLVM/bin/clang.exe\"  @CMakeFiles/onnx.dir/includes_C.rsp  -g -ggdb -Wall -O3 -std=gnu99 -g -std=gnu99 -o CMakeFiles/onnx.dir/default/LeakyRelu.c.obj -c D:/ProgramFiles/intelFPGA/18.1/hld/board/terasic/de1_soc/tests/DE1_libonnx/src/default/LeakyRelu.c",
+  "file": "D:/ProgramFiles/intelFPGA/18.1/hld/board/terasic/de1_soc/tests/DE1_libonnx/src/default/LeakyRelu.c"
+},
+{
+  "directory": "D:/ProgramFiles/intelFPGA/18.1/hld/board/terasic/de1_soc/tests/DE1_libonnx/build/src",
+  "command": "\"C:/Program Files (x86)/LLVM/bin/clang.exe\"  @CMakeFiles/onnx.dir/includes_C.rsp  -g -ggdb -Wall -O3 -std=gnu99 -g -std=gnu99 -o CMakeFiles/onnx.dir/default/Less.c.obj -c D:/ProgramFiles/intelFPGA/18.1/hld/board/terasic/de1_soc/tests/DE1_libonnx/src/default/Less.c",
+  "file": "D:/ProgramFiles/intelFPGA/18.1/hld/board/terasic/de1_soc/tests/DE1_libonnx/src/default/Less.c"
+},
+{
+  "directory": "D:/ProgramFiles/intelFPGA/18.1/hld/board/terasic/de1_soc/tests/DE1_libonnx/build/src",
+  "command": "\"C:/Program Files (x86)/LLVM/bin/clang.exe\"  @CMakeFiles/onnx.dir/includes_C.rsp  -g -ggdb -Wall -O3 -std=gnu99 -g -std=gnu99 -o CMakeFiles/onnx.dir/default/LessOrEqual.c.obj -c D:/ProgramFiles/intelFPGA/18.1/hld/board/terasic/de1_soc/tests/DE1_libonnx/src/default/LessOrEqual.c",
+  "file": "D:/ProgramFiles/intelFPGA/18.1/hld/board/terasic/de1_soc/tests/DE1_libonnx/src/default/LessOrEqual.c"
+},
+{
+  "directory": "D:/ProgramFiles/intelFPGA/18.1/hld/board/terasic/de1_soc/tests/DE1_libonnx/build/src",
+  "command": "\"C:/Program Files (x86)/LLVM/bin/clang.exe\"  @CMakeFiles/onnx.dir/includes_C.rsp  -g -ggdb -Wall -O3 -std=gnu99 -g -std=gnu99 -o CMakeFiles/onnx.dir/default/Log.c.obj -c D:/ProgramFiles/intelFPGA/18.1/hld/board/terasic/de1_soc/tests/DE1_libonnx/src/default/Log.c",
+  "file": "D:/ProgramFiles/intelFPGA/18.1/hld/board/terasic/de1_soc/tests/DE1_libonnx/src/default/Log.c"
+},
+{
+  "directory": "D:/ProgramFiles/intelFPGA/18.1/hld/board/terasic/de1_soc/tests/DE1_libonnx/build/src",
+  "command": "\"C:/Program Files (x86)/LLVM/bin/clang.exe\"  @CMakeFiles/onnx.dir/includes_C.rsp  -g -ggdb -Wall -O3 -std=gnu99 -g -std=gnu99 -o CMakeFiles/onnx.dir/default/LogSoftmax.c.obj -c D:/ProgramFiles/intelFPGA/18.1/hld/board/terasic/de1_soc/tests/DE1_libonnx/src/default/LogSoftmax.c",
+  "file": "D:/ProgramFiles/intelFPGA/18.1/hld/board/terasic/de1_soc/tests/DE1_libonnx/src/default/LogSoftmax.c"
+},
+{
+  "directory": "D:/ProgramFiles/intelFPGA/18.1/hld/board/terasic/de1_soc/tests/DE1_libonnx/build/src",
+  "command": "\"C:/Program Files (x86)/LLVM/bin/clang.exe\"  @CMakeFiles/onnx.dir/includes_C.rsp  -g -ggdb -Wall -O3 -std=gnu99 -g -std=gnu99 -o CMakeFiles/onnx.dir/default/Loop.c.obj -c D:/ProgramFiles/intelFPGA/18.1/hld/board/terasic/de1_soc/tests/DE1_libonnx/src/default/Loop.c",
+  "file": "D:/ProgramFiles/intelFPGA/18.1/hld/board/terasic/de1_soc/tests/DE1_libonnx/src/default/Loop.c"
+},
+{
+  "directory": "D:/ProgramFiles/intelFPGA/18.1/hld/board/terasic/de1_soc/tests/DE1_libonnx/build/src",
+  "command": "\"C:/Program Files (x86)/LLVM/bin/clang.exe\"  @CMakeFiles/onnx.dir/includes_C.rsp  -g -ggdb -Wall -O3 -std=gnu99 -g -std=gnu99 -o CMakeFiles/onnx.dir/default/LpNormalization.c.obj -c D:/ProgramFiles/intelFPGA/18.1/hld/board/terasic/de1_soc/tests/DE1_libonnx/src/default/LpNormalization.c",
+  "file": "D:/ProgramFiles/intelFPGA/18.1/hld/board/terasic/de1_soc/tests/DE1_libonnx/src/default/LpNormalization.c"
+},
+{
+  "directory": "D:/ProgramFiles/intelFPGA/18.1/hld/board/terasic/de1_soc/tests/DE1_libonnx/build/src",
+  "command": "\"C:/Program Files (x86)/LLVM/bin/clang.exe\"  @CMakeFiles/onnx.dir/includes_C.rsp  -g -ggdb -Wall -O3 -std=gnu99 -g -std=gnu99 -o CMakeFiles/onnx.dir/default/LpPool.c.obj -c D:/ProgramFiles/intelFPGA/18.1/hld/board/terasic/de1_soc/tests/DE1_libonnx/src/default/LpPool.c",
+  "file": "D:/ProgramFiles/intelFPGA/18.1/hld/board/terasic/de1_soc/tests/DE1_libonnx/src/default/LpPool.c"
+},
+{
+  "directory": "D:/ProgramFiles/intelFPGA/18.1/hld/board/terasic/de1_soc/tests/DE1_libonnx/build/src",
+  "command": "\"C:/Program Files (x86)/LLVM/bin/clang.exe\"  @CMakeFiles/onnx.dir/includes_C.rsp  -g -ggdb -Wall -O3 -std=gnu99 -g -std=gnu99 -o CMakeFiles/onnx.dir/default/MatMul.c.obj -c D:/ProgramFiles/intelFPGA/18.1/hld/board/terasic/de1_soc/tests/DE1_libonnx/src/default/MatMul.c",
+  "file": "D:/ProgramFiles/intelFPGA/18.1/hld/board/terasic/de1_soc/tests/DE1_libonnx/src/default/MatMul.c"
+},
+{
+  "directory": "D:/ProgramFiles/intelFPGA/18.1/hld/board/terasic/de1_soc/tests/DE1_libonnx/build/src",
+  "command": "\"C:/Program Files (x86)/LLVM/bin/clang.exe\"  @CMakeFiles/onnx.dir/includes_C.rsp  -g -ggdb -Wall -O3 -std=gnu99 -g -std=gnu99 -o CMakeFiles/onnx.dir/default/MatMulInteger.c.obj -c D:/ProgramFiles/intelFPGA/18.1/hld/board/terasic/de1_soc/tests/DE1_libonnx/src/default/MatMulInteger.c",
+  "file": "D:/ProgramFiles/intelFPGA/18.1/hld/board/terasic/de1_soc/tests/DE1_libonnx/src/default/MatMulInteger.c"
+},
+{
+  "directory": "D:/ProgramFiles/intelFPGA/18.1/hld/board/terasic/de1_soc/tests/DE1_libonnx/build/src",
+  "command": "\"C:/Program Files (x86)/LLVM/bin/clang.exe\"  @CMakeFiles/onnx.dir/includes_C.rsp  -g -ggdb -Wall -O3 -std=gnu99 -g -std=gnu99 -o CMakeFiles/onnx.dir/default/Max.c.obj -c D:/ProgramFiles/intelFPGA/18.1/hld/board/terasic/de1_soc/tests/DE1_libonnx/src/default/Max.c",
+  "file": "D:/ProgramFiles/intelFPGA/18.1/hld/board/terasic/de1_soc/tests/DE1_libonnx/src/default/Max.c"
+},
+{
+  "directory": "D:/ProgramFiles/intelFPGA/18.1/hld/board/terasic/de1_soc/tests/DE1_libonnx/build/src",
+  "command": "\"C:/Program Files (x86)/LLVM/bin/clang.exe\"  @CMakeFiles/onnx.dir/includes_C.rsp  -g -ggdb -Wall -O3 -std=gnu99 -g -std=gnu99 -o CMakeFiles/onnx.dir/default/MaxPool.c.obj -c D:/ProgramFiles/intelFPGA/18.1/hld/board/terasic/de1_soc/tests/DE1_libonnx/src/default/MaxPool.c",
+  "file": "D:/ProgramFiles/intelFPGA/18.1/hld/board/terasic/de1_soc/tests/DE1_libonnx/src/default/MaxPool.c"
+},
+{
+  "directory": "D:/ProgramFiles/intelFPGA/18.1/hld/board/terasic/de1_soc/tests/DE1_libonnx/build/src",
+  "command": "\"C:/Program Files (x86)/LLVM/bin/clang.exe\"  @CMakeFiles/onnx.dir/includes_C.rsp  -g -ggdb -Wall -O3 -std=gnu99 -g -std=gnu99 -o CMakeFiles/onnx.dir/default/MaxRoiPool.c.obj -c D:/ProgramFiles/intelFPGA/18.1/hld/board/terasic/de1_soc/tests/DE1_libonnx/src/default/MaxRoiPool.c",
+  "file": "D:/ProgramFiles/intelFPGA/18.1/hld/board/terasic/de1_soc/tests/DE1_libonnx/src/default/MaxRoiPool.c"
+},
+{
+  "directory": "D:/ProgramFiles/intelFPGA/18.1/hld/board/terasic/de1_soc/tests/DE1_libonnx/build/src",
+  "command": "\"C:/Program Files (x86)/LLVM/bin/clang.exe\"  @CMakeFiles/onnx.dir/includes_C.rsp  -g -ggdb -Wall -O3 -std=gnu99 -g -std=gnu99 -o CMakeFiles/onnx.dir/default/MaxUnpool.c.obj -c D:/ProgramFiles/intelFPGA/18.1/hld/board/terasic/de1_soc/tests/DE1_libonnx/src/default/MaxUnpool.c",
+  "file": "D:/ProgramFiles/intelFPGA/18.1/hld/board/terasic/de1_soc/tests/DE1_libonnx/src/default/MaxUnpool.c"
+},
+{
+  "directory": "D:/ProgramFiles/intelFPGA/18.1/hld/board/terasic/de1_soc/tests/DE1_libonnx/build/src",
+  "command": "\"C:/Program Files (x86)/LLVM/bin/clang.exe\"  @CMakeFiles/onnx.dir/includes_C.rsp  -g -ggdb -Wall -O3 -std=gnu99 -g -std=gnu99 -o CMakeFiles/onnx.dir/default/Mean.c.obj -c D:/ProgramFiles/intelFPGA/18.1/hld/board/terasic/de1_soc/tests/DE1_libonnx/src/default/Mean.c",
+  "file": "D:/ProgramFiles/intelFPGA/18.1/hld/board/terasic/de1_soc/tests/DE1_libonnx/src/default/Mean.c"
+},
+{
+  "directory": "D:/ProgramFiles/intelFPGA/18.1/hld/board/terasic/de1_soc/tests/DE1_libonnx/build/src",
+  "command": "\"C:/Program Files (x86)/LLVM/bin/clang.exe\"  @CMakeFiles/onnx.dir/includes_C.rsp  -g -ggdb -Wall -O3 -std=gnu99 -g -std=gnu99 -o CMakeFiles/onnx.dir/default/MeanVarianceNormalization.c.obj -c D:/ProgramFiles/intelFPGA/18.1/hld/board/terasic/de1_soc/tests/DE1_libonnx/src/default/MeanVarianceNormalization.c",
+  "file": "D:/ProgramFiles/intelFPGA/18.1/hld/board/terasic/de1_soc/tests/DE1_libonnx/src/default/MeanVarianceNormalization.c"
+},
+{
+  "directory": "D:/ProgramFiles/intelFPGA/18.1/hld/board/terasic/de1_soc/tests/DE1_libonnx/build/src",
+  "command": "\"C:/Program Files (x86)/LLVM/bin/clang.exe\"  @CMakeFiles/onnx.dir/includes_C.rsp  -g -ggdb -Wall -O3 -std=gnu99 -g -std=gnu99 -o CMakeFiles/onnx.dir/default/Min.c.obj -c D:/ProgramFiles/intelFPGA/18.1/hld/board/terasic/de1_soc/tests/DE1_libonnx/src/default/Min.c",
+  "file": "D:/ProgramFiles/intelFPGA/18.1/hld/board/terasic/de1_soc/tests/DE1_libonnx/src/default/Min.c"
+},
+{
+  "directory": "D:/ProgramFiles/intelFPGA/18.1/hld/board/terasic/de1_soc/tests/DE1_libonnx/build/src",
+  "command": "\"C:/Program Files (x86)/LLVM/bin/clang.exe\"  @CMakeFiles/onnx.dir/includes_C.rsp  -g -ggdb -Wall -O3 -std=gnu99 -g -std=gnu99 -o CMakeFiles/onnx.dir/default/Mod.c.obj -c D:/ProgramFiles/intelFPGA/18.1/hld/board/terasic/de1_soc/tests/DE1_libonnx/src/default/Mod.c",
+  "file": "D:/ProgramFiles/intelFPGA/18.1/hld/board/terasic/de1_soc/tests/DE1_libonnx/src/default/Mod.c"
+},
+{
+  "directory": "D:/ProgramFiles/intelFPGA/18.1/hld/board/terasic/de1_soc/tests/DE1_libonnx/build/src",
+  "command": "\"C:/Program Files (x86)/LLVM/bin/clang.exe\"  @CMakeFiles/onnx.dir/includes_C.rsp  -g -ggdb -Wall -O3 -std=gnu99 -g -std=gnu99 -o CMakeFiles/onnx.dir/default/Mul.c.obj -c D:/ProgramFiles/intelFPGA/18.1/hld/board/terasic/de1_soc/tests/DE1_libonnx/src/default/Mul.c",
+  "file": "D:/ProgramFiles/intelFPGA/18.1/hld/board/terasic/de1_soc/tests/DE1_libonnx/src/default/Mul.c"
+},
+{
+  "directory": "D:/ProgramFiles/intelFPGA/18.1/hld/board/terasic/de1_soc/tests/DE1_libonnx/build/src",
+  "command": "\"C:/Program Files (x86)/LLVM/bin/clang.exe\"  @CMakeFiles/onnx.dir/includes_C.rsp  -g -ggdb -Wall -O3 -std=gnu99 -g -std=gnu99 -o CMakeFiles/onnx.dir/default/Multinomial.c.obj -c D:/ProgramFiles/intelFPGA/18.1/hld/board/terasic/de1_soc/tests/DE1_libonnx/src/default/Multinomial.c",
+  "file": "D:/ProgramFiles/intelFPGA/18.1/hld/board/terasic/de1_soc/tests/DE1_libonnx/src/default/Multinomial.c"
+},
+{
+  "directory": "D:/ProgramFiles/intelFPGA/18.1/hld/board/terasic/de1_soc/tests/DE1_libonnx/build/src",
+  "command": "\"C:/Program Files (x86)/LLVM/bin/clang.exe\"  @CMakeFiles/onnx.dir/includes_C.rsp  -g -ggdb -Wall -O3 -std=gnu99 -g -std=gnu99 -o CMakeFiles/onnx.dir/default/Neg.c.obj -c D:/ProgramFiles/intelFPGA/18.1/hld/board/terasic/de1_soc/tests/DE1_libonnx/src/default/Neg.c",
+  "file": "D:/ProgramFiles/intelFPGA/18.1/hld/board/terasic/de1_soc/tests/DE1_libonnx/src/default/Neg.c"
+},
+{
+  "directory": "D:/ProgramFiles/intelFPGA/18.1/hld/board/terasic/de1_soc/tests/DE1_libonnx/build/src",
+  "command": "\"C:/Program Files (x86)/LLVM/bin/clang.exe\"  @CMakeFiles/onnx.dir/includes_C.rsp  -g -ggdb -Wall -O3 -std=gnu99 -g -std=gnu99 -o CMakeFiles/onnx.dir/default/NegativeLogLikelihoodLoss.c.obj -c D:/ProgramFiles/intelFPGA/18.1/hld/board/terasic/de1_soc/tests/DE1_libonnx/src/default/NegativeLogLikelihoodLoss.c",
+  "file": "D:/ProgramFiles/intelFPGA/18.1/hld/board/terasic/de1_soc/tests/DE1_libonnx/src/default/NegativeLogLikelihoodLoss.c"
+},
+{
+  "directory": "D:/ProgramFiles/intelFPGA/18.1/hld/board/terasic/de1_soc/tests/DE1_libonnx/build/src",
+  "command": "\"C:/Program Files (x86)/LLVM/bin/clang.exe\"  @CMakeFiles/onnx.dir/includes_C.rsp  -g -ggdb -Wall -O3 -std=gnu99 -g -std=gnu99 -o CMakeFiles/onnx.dir/default/NonMaxSuppression.c.obj -c D:/ProgramFiles/intelFPGA/18.1/hld/board/terasic/de1_soc/tests/DE1_libonnx/src/default/NonMaxSuppression.c",
+  "file": "D:/ProgramFiles/intelFPGA/18.1/hld/board/terasic/de1_soc/tests/DE1_libonnx/src/default/NonMaxSuppression.c"
+},
+{
+  "directory": "D:/ProgramFiles/intelFPGA/18.1/hld/board/terasic/de1_soc/tests/DE1_libonnx/build/src",
+  "command": "\"C:/Program Files (x86)/LLVM/bin/clang.exe\"  @CMakeFiles/onnx.dir/includes_C.rsp  -g -ggdb -Wall -O3 -std=gnu99 -g -std=gnu99 -o CMakeFiles/onnx.dir/default/NonZero.c.obj -c D:/ProgramFiles/intelFPGA/18.1/hld/board/terasic/de1_soc/tests/DE1_libonnx/src/default/NonZero.c",
+  "file": "D:/ProgramFiles/intelFPGA/18.1/hld/board/terasic/de1_soc/tests/DE1_libonnx/src/default/NonZero.c"
+},
+{
+  "directory": "D:/ProgramFiles/intelFPGA/18.1/hld/board/terasic/de1_soc/tests/DE1_libonnx/build/src",
+  "command": "\"C:/Program Files (x86)/LLVM/bin/clang.exe\"  @CMakeFiles/onnx.dir/includes_C.rsp  -g -ggdb -Wall -O3 -std=gnu99 -g -std=gnu99 -o CMakeFiles/onnx.dir/default/Not.c.obj -c D:/ProgramFiles/intelFPGA/18.1/hld/board/terasic/de1_soc/tests/DE1_libonnx/src/default/Not.c",
+  "file": "D:/ProgramFiles/intelFPGA/18.1/hld/board/terasic/de1_soc/tests/DE1_libonnx/src/default/Not.c"
+},
+{
+  "directory": "D:/ProgramFiles/intelFPGA/18.1/hld/board/terasic/de1_soc/tests/DE1_libonnx/build/src",
+  "command": "\"C:/Program Files (x86)/LLVM/bin/clang.exe\"  @CMakeFiles/onnx.dir/includes_C.rsp  -g -ggdb -Wall -O3 -std=gnu99 -g -std=gnu99 -o CMakeFiles/onnx.dir/default/OneHot.c.obj -c D:/ProgramFiles/intelFPGA/18.1/hld/board/terasic/de1_soc/tests/DE1_libonnx/src/default/OneHot.c",
+  "file": "D:/ProgramFiles/intelFPGA/18.1/hld/board/terasic/de1_soc/tests/DE1_libonnx/src/default/OneHot.c"
+},
+{
+  "directory": "D:/ProgramFiles/intelFPGA/18.1/hld/board/terasic/de1_soc/tests/DE1_libonnx/build/src",
+  "command": "\"C:/Program Files (x86)/LLVM/bin/clang.exe\"  @CMakeFiles/onnx.dir/includes_C.rsp  -g -ggdb -Wall -O3 -std=gnu99 -g -std=gnu99 -o CMakeFiles/onnx.dir/default/Or.c.obj -c D:/ProgramFiles/intelFPGA/18.1/hld/board/terasic/de1_soc/tests/DE1_libonnx/src/default/Or.c",
+  "file": "D:/ProgramFiles/intelFPGA/18.1/hld/board/terasic/de1_soc/tests/DE1_libonnx/src/default/Or.c"
+},
+{
+  "directory": "D:/ProgramFiles/intelFPGA/18.1/hld/board/terasic/de1_soc/tests/DE1_libonnx/build/src",
+  "command": "\"C:/Program Files (x86)/LLVM/bin/clang.exe\"  @CMakeFiles/onnx.dir/includes_C.rsp  -g -ggdb -Wall -O3 -std=gnu99 -g -std=gnu99 -o CMakeFiles/onnx.dir/default/PRelu.c.obj -c D:/ProgramFiles/intelFPGA/18.1/hld/board/terasic/de1_soc/tests/DE1_libonnx/src/default/PRelu.c",
+  "file": "D:/ProgramFiles/intelFPGA/18.1/hld/board/terasic/de1_soc/tests/DE1_libonnx/src/default/PRelu.c"
+},
+{
+  "directory": "D:/ProgramFiles/intelFPGA/18.1/hld/board/terasic/de1_soc/tests/DE1_libonnx/build/src",
+  "command": "\"C:/Program Files (x86)/LLVM/bin/clang.exe\"  @CMakeFiles/onnx.dir/includes_C.rsp  -g -ggdb -Wall -O3 -std=gnu99 -g -std=gnu99 -o CMakeFiles/onnx.dir/default/Pad.c.obj -c D:/ProgramFiles/intelFPGA/18.1/hld/board/terasic/de1_soc/tests/DE1_libonnx/src/default/Pad.c",
+  "file": "D:/ProgramFiles/intelFPGA/18.1/hld/board/terasic/de1_soc/tests/DE1_libonnx/src/default/Pad.c"
+},
+{
+  "directory": "D:/ProgramFiles/intelFPGA/18.1/hld/board/terasic/de1_soc/tests/DE1_libonnx/build/src",
+  "command": "\"C:/Program Files (x86)/LLVM/bin/clang.exe\"  @CMakeFiles/onnx.dir/includes_C.rsp  -g -ggdb -Wall -O3 -std=gnu99 -g -std=gnu99 -o CMakeFiles/onnx.dir/default/Pow.c.obj -c D:/ProgramFiles/intelFPGA/18.1/hld/board/terasic/de1_soc/tests/DE1_libonnx/src/default/Pow.c",
+  "file": "D:/ProgramFiles/intelFPGA/18.1/hld/board/terasic/de1_soc/tests/DE1_libonnx/src/default/Pow.c"
+},
+{
+  "directory": "D:/ProgramFiles/intelFPGA/18.1/hld/board/terasic/de1_soc/tests/DE1_libonnx/build/src",
+  "command": "\"C:/Program Files (x86)/LLVM/bin/clang.exe\"  @CMakeFiles/onnx.dir/includes_C.rsp  -g -ggdb -Wall -O3 -std=gnu99 -g -std=gnu99 -o CMakeFiles/onnx.dir/default/QLinearConv.c.obj -c D:/ProgramFiles/intelFPGA/18.1/hld/board/terasic/de1_soc/tests/DE1_libonnx/src/default/QLinearConv.c",
+  "file": "D:/ProgramFiles/intelFPGA/18.1/hld/board/terasic/de1_soc/tests/DE1_libonnx/src/default/QLinearConv.c"
+},
+{
+  "directory": "D:/ProgramFiles/intelFPGA/18.1/hld/board/terasic/de1_soc/tests/DE1_libonnx/build/src",
+  "command": "\"C:/Program Files (x86)/LLVM/bin/clang.exe\"  @CMakeFiles/onnx.dir/includes_C.rsp  -g -ggdb -Wall -O3 -std=gnu99 -g -std=gnu99 -o CMakeFiles/onnx.dir/default/QLinearMatMul.c.obj -c D:/ProgramFiles/intelFPGA/18.1/hld/board/terasic/de1_soc/tests/DE1_libonnx/src/default/QLinearMatMul.c",
+  "file": "D:/ProgramFiles/intelFPGA/18.1/hld/board/terasic/de1_soc/tests/DE1_libonnx/src/default/QLinearMatMul.c"
+},
+{
+  "directory": "D:/ProgramFiles/intelFPGA/18.1/hld/board/terasic/de1_soc/tests/DE1_libonnx/build/src",
+  "command": "\"C:/Program Files (x86)/LLVM/bin/clang.exe\"  @CMakeFiles/onnx.dir/includes_C.rsp  -g -ggdb -Wall -O3 -std=gnu99 -g -std=gnu99 -o CMakeFiles/onnx.dir/default/QuantizeLinear.c.obj -c D:/ProgramFiles/intelFPGA/18.1/hld/board/terasic/de1_soc/tests/DE1_libonnx/src/default/QuantizeLinear.c",
+  "file": "D:/ProgramFiles/intelFPGA/18.1/hld/board/terasic/de1_soc/tests/DE1_libonnx/src/default/QuantizeLinear.c"
+},
+{
+  "directory": "D:/ProgramFiles/intelFPGA/18.1/hld/board/terasic/de1_soc/tests/DE1_libonnx/build/src",
+  "command": "\"C:/Program Files (x86)/LLVM/bin/clang.exe\"  @CMakeFiles/onnx.dir/includes_C.rsp  -g -ggdb -Wall -O3 -std=gnu99 -g -std=gnu99 -o CMakeFiles/onnx.dir/default/RNN.c.obj -c D:/ProgramFiles/intelFPGA/18.1/hld/board/terasic/de1_soc/tests/DE1_libonnx/src/default/RNN.c",
+  "file": "D:/ProgramFiles/intelFPGA/18.1/hld/board/terasic/de1_soc/tests/DE1_libonnx/src/default/RNN.c"
+},
+{
+  "directory": "D:/ProgramFiles/intelFPGA/18.1/hld/board/terasic/de1_soc/tests/DE1_libonnx/build/src",
+  "command": "\"C:/Program Files (x86)/LLVM/bin/clang.exe\"  @CMakeFiles/onnx.dir/includes_C.rsp  -g -ggdb -Wall -O3 -std=gnu99 -g -std=gnu99 -o CMakeFiles/onnx.dir/default/RandomNormal.c.obj -c D:/ProgramFiles/intelFPGA/18.1/hld/board/terasic/de1_soc/tests/DE1_libonnx/src/default/RandomNormal.c",
+  "file": "D:/ProgramFiles/intelFPGA/18.1/hld/board/terasic/de1_soc/tests/DE1_libonnx/src/default/RandomNormal.c"
+},
+{
+  "directory": "D:/ProgramFiles/intelFPGA/18.1/hld/board/terasic/de1_soc/tests/DE1_libonnx/build/src",
+  "command": "\"C:/Program Files (x86)/LLVM/bin/clang.exe\"  @CMakeFiles/onnx.dir/includes_C.rsp  -g -ggdb -Wall -O3 -std=gnu99 -g -std=gnu99 -o CMakeFiles/onnx.dir/default/RandomNormalLike.c.obj -c D:/ProgramFiles/intelFPGA/18.1/hld/board/terasic/de1_soc/tests/DE1_libonnx/src/default/RandomNormalLike.c",
+  "file": "D:/ProgramFiles/intelFPGA/18.1/hld/board/terasic/de1_soc/tests/DE1_libonnx/src/default/RandomNormalLike.c"
+},
+{
+  "directory": "D:/ProgramFiles/intelFPGA/18.1/hld/board/terasic/de1_soc/tests/DE1_libonnx/build/src",
+  "command": "\"C:/Program Files (x86)/LLVM/bin/clang.exe\"  @CMakeFiles/onnx.dir/includes_C.rsp  -g -ggdb -Wall -O3 -std=gnu99 -g -std=gnu99 -o CMakeFiles/onnx.dir/default/RandomUniform.c.obj -c D:/ProgramFiles/intelFPGA/18.1/hld/board/terasic/de1_soc/tests/DE1_libonnx/src/default/RandomUniform.c",
+  "file": "D:/ProgramFiles/intelFPGA/18.1/hld/board/terasic/de1_soc/tests/DE1_libonnx/src/default/RandomUniform.c"
+},
+{
+  "directory": "D:/ProgramFiles/intelFPGA/18.1/hld/board/terasic/de1_soc/tests/DE1_libonnx/build/src",
+  "command": "\"C:/Program Files (x86)/LLVM/bin/clang.exe\"  @CMakeFiles/onnx.dir/includes_C.rsp  -g -ggdb -Wall -O3 -std=gnu99 -g -std=gnu99 -o CMakeFiles/onnx.dir/default/RandomUniformLike.c.obj -c D:/ProgramFiles/intelFPGA/18.1/hld/board/terasic/de1_soc/tests/DE1_libonnx/src/default/RandomUniformLike.c",
+  "file": "D:/ProgramFiles/intelFPGA/18.1/hld/board/terasic/de1_soc/tests/DE1_libonnx/src/default/RandomUniformLike.c"
+},
+{
+  "directory": "D:/ProgramFiles/intelFPGA/18.1/hld/board/terasic/de1_soc/tests/DE1_libonnx/build/src",
+  "command": "\"C:/Program Files (x86)/LLVM/bin/clang.exe\"  @CMakeFiles/onnx.dir/includes_C.rsp  -g -ggdb -Wall -O3 -std=gnu99 -g -std=gnu99 -o CMakeFiles/onnx.dir/default/Range.c.obj -c D:/ProgramFiles/intelFPGA/18.1/hld/board/terasic/de1_soc/tests/DE1_libonnx/src/default/Range.c",
+  "file": "D:/ProgramFiles/intelFPGA/18.1/hld/board/terasic/de1_soc/tests/DE1_libonnx/src/default/Range.c"
+},
+{
+  "directory": "D:/ProgramFiles/intelFPGA/18.1/hld/board/terasic/de1_soc/tests/DE1_libonnx/build/src",
+  "command": "\"C:/Program Files (x86)/LLVM/bin/clang.exe\"  @CMakeFiles/onnx.dir/includes_C.rsp  -g -ggdb -Wall -O3 -std=gnu99 -g -std=gnu99 -o CMakeFiles/onnx.dir/default/Reciprocal.c.obj -c D:/ProgramFiles/intelFPGA/18.1/hld/board/terasic/de1_soc/tests/DE1_libonnx/src/default/Reciprocal.c",
+  "file": "D:/ProgramFiles/intelFPGA/18.1/hld/board/terasic/de1_soc/tests/DE1_libonnx/src/default/Reciprocal.c"
+},
+{
+  "directory": "D:/ProgramFiles/intelFPGA/18.1/hld/board/terasic/de1_soc/tests/DE1_libonnx/build/src",
+  "command": "\"C:/Program Files (x86)/LLVM/bin/clang.exe\"  @CMakeFiles/onnx.dir/includes_C.rsp  -g -ggdb -Wall -O3 -std=gnu99 -g -std=gnu99 -o CMakeFiles/onnx.dir/default/ReduceL1.c.obj -c D:/ProgramFiles/intelFPGA/18.1/hld/board/terasic/de1_soc/tests/DE1_libonnx/src/default/ReduceL1.c",
+  "file": "D:/ProgramFiles/intelFPGA/18.1/hld/board/terasic/de1_soc/tests/DE1_libonnx/src/default/ReduceL1.c"
+},
+{
+  "directory": "D:/ProgramFiles/intelFPGA/18.1/hld/board/terasic/de1_soc/tests/DE1_libonnx/build/src",
+  "command": "\"C:/Program Files (x86)/LLVM/bin/clang.exe\"  @CMakeFiles/onnx.dir/includes_C.rsp  -g -ggdb -Wall -O3 -std=gnu99 -g -std=gnu99 -o CMakeFiles/onnx.dir/default/ReduceL2.c.obj -c D:/ProgramFiles/intelFPGA/18.1/hld/board/terasic/de1_soc/tests/DE1_libonnx/src/default/ReduceL2.c",
+  "file": "D:/ProgramFiles/intelFPGA/18.1/hld/board/terasic/de1_soc/tests/DE1_libonnx/src/default/ReduceL2.c"
+},
+{
+  "directory": "D:/ProgramFiles/intelFPGA/18.1/hld/board/terasic/de1_soc/tests/DE1_libonnx/build/src",
+  "command": "\"C:/Program Files (x86)/LLVM/bin/clang.exe\"  @CMakeFiles/onnx.dir/includes_C.rsp  -g -ggdb -Wall -O3 -std=gnu99 -g -std=gnu99 -o CMakeFiles/onnx.dir/default/ReduceLogSum.c.obj -c D:/ProgramFiles/intelFPGA/18.1/hld/board/terasic/de1_soc/tests/DE1_libonnx/src/default/ReduceLogSum.c",
+  "file": "D:/ProgramFiles/intelFPGA/18.1/hld/board/terasic/de1_soc/tests/DE1_libonnx/src/default/ReduceLogSum.c"
+},
+{
+  "directory": "D:/ProgramFiles/intelFPGA/18.1/hld/board/terasic/de1_soc/tests/DE1_libonnx/build/src",
+  "command": "\"C:/Program Files (x86)/LLVM/bin/clang.exe\"  @CMakeFiles/onnx.dir/includes_C.rsp  -g -ggdb -Wall -O3 -std=gnu99 -g -std=gnu99 -o CMakeFiles/onnx.dir/default/ReduceLogSumExp.c.obj -c D:/ProgramFiles/intelFPGA/18.1/hld/board/terasic/de1_soc/tests/DE1_libonnx/src/default/ReduceLogSumExp.c",
+  "file": "D:/ProgramFiles/intelFPGA/18.1/hld/board/terasic/de1_soc/tests/DE1_libonnx/src/default/ReduceLogSumExp.c"
+},
+{
+  "directory": "D:/ProgramFiles/intelFPGA/18.1/hld/board/terasic/de1_soc/tests/DE1_libonnx/build/src",
+  "command": "\"C:/Program Files (x86)/LLVM/bin/clang.exe\"  @CMakeFiles/onnx.dir/includes_C.rsp  -g -ggdb -Wall -O3 -std=gnu99 -g -std=gnu99 -o CMakeFiles/onnx.dir/default/ReduceMax.c.obj -c D:/ProgramFiles/intelFPGA/18.1/hld/board/terasic/de1_soc/tests/DE1_libonnx/src/default/ReduceMax.c",
+  "file": "D:/ProgramFiles/intelFPGA/18.1/hld/board/terasic/de1_soc/tests/DE1_libonnx/src/default/ReduceMax.c"
+},
+{
+  "directory": "D:/ProgramFiles/intelFPGA/18.1/hld/board/terasic/de1_soc/tests/DE1_libonnx/build/src",
+  "command": "\"C:/Program Files (x86)/LLVM/bin/clang.exe\"  @CMakeFiles/onnx.dir/includes_C.rsp  -g -ggdb -Wall -O3 -std=gnu99 -g -std=gnu99 -o CMakeFiles/onnx.dir/default/ReduceMean.c.obj -c D:/ProgramFiles/intelFPGA/18.1/hld/board/terasic/de1_soc/tests/DE1_libonnx/src/default/ReduceMean.c",
+  "file": "D:/ProgramFiles/intelFPGA/18.1/hld/board/terasic/de1_soc/tests/DE1_libonnx/src/default/ReduceMean.c"
+},
+{
+  "directory": "D:/ProgramFiles/intelFPGA/18.1/hld/board/terasic/de1_soc/tests/DE1_libonnx/build/src",
+  "command": "\"C:/Program Files (x86)/LLVM/bin/clang.exe\"  @CMakeFiles/onnx.dir/includes_C.rsp  -g -ggdb -Wall -O3 -std=gnu99 -g -std=gnu99 -o CMakeFiles/onnx.dir/default/ReduceMin.c.obj -c D:/ProgramFiles/intelFPGA/18.1/hld/board/terasic/de1_soc/tests/DE1_libonnx/src/default/ReduceMin.c",
+  "file": "D:/ProgramFiles/intelFPGA/18.1/hld/board/terasic/de1_soc/tests/DE1_libonnx/src/default/ReduceMin.c"
+},
+{
+  "directory": "D:/ProgramFiles/intelFPGA/18.1/hld/board/terasic/de1_soc/tests/DE1_libonnx/build/src",
+  "command": "\"C:/Program Files (x86)/LLVM/bin/clang.exe\"  @CMakeFiles/onnx.dir/includes_C.rsp  -g -ggdb -Wall -O3 -std=gnu99 -g -std=gnu99 -o CMakeFiles/onnx.dir/default/ReduceProd.c.obj -c D:/ProgramFiles/intelFPGA/18.1/hld/board/terasic/de1_soc/tests/DE1_libonnx/src/default/ReduceProd.c",
+  "file": "D:/ProgramFiles/intelFPGA/18.1/hld/board/terasic/de1_soc/tests/DE1_libonnx/src/default/ReduceProd.c"
+},
+{
+  "directory": "D:/ProgramFiles/intelFPGA/18.1/hld/board/terasic/de1_soc/tests/DE1_libonnx/build/src",
+  "command": "\"C:/Program Files (x86)/LLVM/bin/clang.exe\"  @CMakeFiles/onnx.dir/includes_C.rsp  -g -ggdb -Wall -O3 -std=gnu99 -g -std=gnu99 -o CMakeFiles/onnx.dir/default/ReduceSum.c.obj -c D:/ProgramFiles/intelFPGA/18.1/hld/board/terasic/de1_soc/tests/DE1_libonnx/src/default/ReduceSum.c",
+  "file": "D:/ProgramFiles/intelFPGA/18.1/hld/board/terasic/de1_soc/tests/DE1_libonnx/src/default/ReduceSum.c"
+},
+{
+  "directory": "D:/ProgramFiles/intelFPGA/18.1/hld/board/terasic/de1_soc/tests/DE1_libonnx/build/src",
+  "command": "\"C:/Program Files (x86)/LLVM/bin/clang.exe\"  @CMakeFiles/onnx.dir/includes_C.rsp  -g -ggdb -Wall -O3 -std=gnu99 -g -std=gnu99 -o CMakeFiles/onnx.dir/default/ReduceSumSquare.c.obj -c D:/ProgramFiles/intelFPGA/18.1/hld/board/terasic/de1_soc/tests/DE1_libonnx/src/default/ReduceSumSquare.c",
+  "file": "D:/ProgramFiles/intelFPGA/18.1/hld/board/terasic/de1_soc/tests/DE1_libonnx/src/default/ReduceSumSquare.c"
+},
+{
+  "directory": "D:/ProgramFiles/intelFPGA/18.1/hld/board/terasic/de1_soc/tests/DE1_libonnx/build/src",
+  "command": "\"C:/Program Files (x86)/LLVM/bin/clang.exe\"  @CMakeFiles/onnx.dir/includes_C.rsp  -g -ggdb -Wall -O3 -std=gnu99 -g -std=gnu99 -o CMakeFiles/onnx.dir/default/Relu.c.obj -c D:/ProgramFiles/intelFPGA/18.1/hld/board/terasic/de1_soc/tests/DE1_libonnx/src/default/Relu.c",
+  "file": "D:/ProgramFiles/intelFPGA/18.1/hld/board/terasic/de1_soc/tests/DE1_libonnx/src/default/Relu.c"
+},
+{
+  "directory": "D:/ProgramFiles/intelFPGA/18.1/hld/board/terasic/de1_soc/tests/DE1_libonnx/build/src",
+  "command": "\"C:/Program Files (x86)/LLVM/bin/clang.exe\"  @CMakeFiles/onnx.dir/includes_C.rsp  -g -ggdb -Wall -O3 -std=gnu99 -g -std=gnu99 -o CMakeFiles/onnx.dir/default/Reshape.c.obj -c D:/ProgramFiles/intelFPGA/18.1/hld/board/terasic/de1_soc/tests/DE1_libonnx/src/default/Reshape.c",
+  "file": "D:/ProgramFiles/intelFPGA/18.1/hld/board/terasic/de1_soc/tests/DE1_libonnx/src/default/Reshape.c"
+},
+{
+  "directory": "D:/ProgramFiles/intelFPGA/18.1/hld/board/terasic/de1_soc/tests/DE1_libonnx/build/src",
+  "command": "\"C:/Program Files (x86)/LLVM/bin/clang.exe\"  @CMakeFiles/onnx.dir/includes_C.rsp  -g -ggdb -Wall -O3 -std=gnu99 -g -std=gnu99 -o CMakeFiles/onnx.dir/default/Resize.c.obj -c D:/ProgramFiles/intelFPGA/18.1/hld/board/terasic/de1_soc/tests/DE1_libonnx/src/default/Resize.c",
+  "file": "D:/ProgramFiles/intelFPGA/18.1/hld/board/terasic/de1_soc/tests/DE1_libonnx/src/default/Resize.c"
+},
+{
+  "directory": "D:/ProgramFiles/intelFPGA/18.1/hld/board/terasic/de1_soc/tests/DE1_libonnx/build/src",
+  "command": "\"C:/Program Files (x86)/LLVM/bin/clang.exe\"  @CMakeFiles/onnx.dir/includes_C.rsp  -g -ggdb -Wall -O3 -std=gnu99 -g -std=gnu99 -o CMakeFiles/onnx.dir/default/ReverseSequence.c.obj -c D:/ProgramFiles/intelFPGA/18.1/hld/board/terasic/de1_soc/tests/DE1_libonnx/src/default/ReverseSequence.c",
+  "file": "D:/ProgramFiles/intelFPGA/18.1/hld/board/terasic/de1_soc/tests/DE1_libonnx/src/default/ReverseSequence.c"
+},
+{
+  "directory": "D:/ProgramFiles/intelFPGA/18.1/hld/board/terasic/de1_soc/tests/DE1_libonnx/build/src",
+  "command": "\"C:/Program Files (x86)/LLVM/bin/clang.exe\"  @CMakeFiles/onnx.dir/includes_C.rsp  -g -ggdb -Wall -O3 -std=gnu99 -g -std=gnu99 -o CMakeFiles/onnx.dir/default/RoiAlign.c.obj -c D:/ProgramFiles/intelFPGA/18.1/hld/board/terasic/de1_soc/tests/DE1_libonnx/src/default/RoiAlign.c",
+  "file": "D:/ProgramFiles/intelFPGA/18.1/hld/board/terasic/de1_soc/tests/DE1_libonnx/src/default/RoiAlign.c"
+},
+{
+  "directory": "D:/ProgramFiles/intelFPGA/18.1/hld/board/terasic/de1_soc/tests/DE1_libonnx/build/src",
+  "command": "\"C:/Program Files (x86)/LLVM/bin/clang.exe\"  @CMakeFiles/onnx.dir/includes_C.rsp  -g -ggdb -Wall -O3 -std=gnu99 -g -std=gnu99 -o CMakeFiles/onnx.dir/default/Round.c.obj -c D:/ProgramFiles/intelFPGA/18.1/hld/board/terasic/de1_soc/tests/DE1_libonnx/src/default/Round.c",
+  "file": "D:/ProgramFiles/intelFPGA/18.1/hld/board/terasic/de1_soc/tests/DE1_libonnx/src/default/Round.c"
+},
+{
+  "directory": "D:/ProgramFiles/intelFPGA/18.1/hld/board/terasic/de1_soc/tests/DE1_libonnx/build/src",
+  "command": "\"C:/Program Files (x86)/LLVM/bin/clang.exe\"  @CMakeFiles/onnx.dir/includes_C.rsp  -g -ggdb -Wall -O3 -std=gnu99 -g -std=gnu99 -o CMakeFiles/onnx.dir/default/Scan.c.obj -c D:/ProgramFiles/intelFPGA/18.1/hld/board/terasic/de1_soc/tests/DE1_libonnx/src/default/Scan.c",
+  "file": "D:/ProgramFiles/intelFPGA/18.1/hld/board/terasic/de1_soc/tests/DE1_libonnx/src/default/Scan.c"
+},
+{
+  "directory": "D:/ProgramFiles/intelFPGA/18.1/hld/board/terasic/de1_soc/tests/DE1_libonnx/build/src",
+  "command": "\"C:/Program Files (x86)/LLVM/bin/clang.exe\"  @CMakeFiles/onnx.dir/includes_C.rsp  -g -ggdb -Wall -O3 -std=gnu99 -g -std=gnu99 -o CMakeFiles/onnx.dir/default/Scatter.c.obj -c D:/ProgramFiles/intelFPGA/18.1/hld/board/terasic/de1_soc/tests/DE1_libonnx/src/default/Scatter.c",
+  "file": "D:/ProgramFiles/intelFPGA/18.1/hld/board/terasic/de1_soc/tests/DE1_libonnx/src/default/Scatter.c"
+},
+{
+  "directory": "D:/ProgramFiles/intelFPGA/18.1/hld/board/terasic/de1_soc/tests/DE1_libonnx/build/src",
+  "command": "\"C:/Program Files (x86)/LLVM/bin/clang.exe\"  @CMakeFiles/onnx.dir/includes_C.rsp  -g -ggdb -Wall -O3 -std=gnu99 -g -std=gnu99 -o CMakeFiles/onnx.dir/default/ScatterElements.c.obj -c D:/ProgramFiles/intelFPGA/18.1/hld/board/terasic/de1_soc/tests/DE1_libonnx/src/default/ScatterElements.c",
+  "file": "D:/ProgramFiles/intelFPGA/18.1/hld/board/terasic/de1_soc/tests/DE1_libonnx/src/default/ScatterElements.c"
+},
+{
+  "directory": "D:/ProgramFiles/intelFPGA/18.1/hld/board/terasic/de1_soc/tests/DE1_libonnx/build/src",
+  "command": "\"C:/Program Files (x86)/LLVM/bin/clang.exe\"  @CMakeFiles/onnx.dir/includes_C.rsp  -g -ggdb -Wall -O3 -std=gnu99 -g -std=gnu99 -o CMakeFiles/onnx.dir/default/ScatterND.c.obj -c D:/ProgramFiles/intelFPGA/18.1/hld/board/terasic/de1_soc/tests/DE1_libonnx/src/default/ScatterND.c",
+  "file": "D:/ProgramFiles/intelFPGA/18.1/hld/board/terasic/de1_soc/tests/DE1_libonnx/src/default/ScatterND.c"
+},
+{
+  "directory": "D:/ProgramFiles/intelFPGA/18.1/hld/board/terasic/de1_soc/tests/DE1_libonnx/build/src",
+  "command": "\"C:/Program Files (x86)/LLVM/bin/clang.exe\"  @CMakeFiles/onnx.dir/includes_C.rsp  -g -ggdb -Wall -O3 -std=gnu99 -g -std=gnu99 -o CMakeFiles/onnx.dir/default/Selu.c.obj -c D:/ProgramFiles/intelFPGA/18.1/hld/board/terasic/de1_soc/tests/DE1_libonnx/src/default/Selu.c",
+  "file": "D:/ProgramFiles/intelFPGA/18.1/hld/board/terasic/de1_soc/tests/DE1_libonnx/src/default/Selu.c"
+},
+{
+  "directory": "D:/ProgramFiles/intelFPGA/18.1/hld/board/terasic/de1_soc/tests/DE1_libonnx/build/src",
+  "command": "\"C:/Program Files (x86)/LLVM/bin/clang.exe\"  @CMakeFiles/onnx.dir/includes_C.rsp  -g -ggdb -Wall -O3 -std=gnu99 -g -std=gnu99 -o CMakeFiles/onnx.dir/default/SequenceAt.c.obj -c D:/ProgramFiles/intelFPGA/18.1/hld/board/terasic/de1_soc/tests/DE1_libonnx/src/default/SequenceAt.c",
+  "file": "D:/ProgramFiles/intelFPGA/18.1/hld/board/terasic/de1_soc/tests/DE1_libonnx/src/default/SequenceAt.c"
+},
+{
+  "directory": "D:/ProgramFiles/intelFPGA/18.1/hld/board/terasic/de1_soc/tests/DE1_libonnx/build/src",
+  "command": "\"C:/Program Files (x86)/LLVM/bin/clang.exe\"  @CMakeFiles/onnx.dir/includes_C.rsp  -g -ggdb -Wall -O3 -std=gnu99 -g -std=gnu99 -o CMakeFiles/onnx.dir/default/SequenceConstruct.c.obj -c D:/ProgramFiles/intelFPGA/18.1/hld/board/terasic/de1_soc/tests/DE1_libonnx/src/default/SequenceConstruct.c",
+  "file": "D:/ProgramFiles/intelFPGA/18.1/hld/board/terasic/de1_soc/tests/DE1_libonnx/src/default/SequenceConstruct.c"
+},
+{
+  "directory": "D:/ProgramFiles/intelFPGA/18.1/hld/board/terasic/de1_soc/tests/DE1_libonnx/build/src",
+  "command": "\"C:/Program Files (x86)/LLVM/bin/clang.exe\"  @CMakeFiles/onnx.dir/includes_C.rsp  -g -ggdb -Wall -O3 -std=gnu99 -g -std=gnu99 -o CMakeFiles/onnx.dir/default/SequenceEmpty.c.obj -c D:/ProgramFiles/intelFPGA/18.1/hld/board/terasic/de1_soc/tests/DE1_libonnx/src/default/SequenceEmpty.c",
+  "file": "D:/ProgramFiles/intelFPGA/18.1/hld/board/terasic/de1_soc/tests/DE1_libonnx/src/default/SequenceEmpty.c"
+},
+{
+  "directory": "D:/ProgramFiles/intelFPGA/18.1/hld/board/terasic/de1_soc/tests/DE1_libonnx/build/src",
+  "command": "\"C:/Program Files (x86)/LLVM/bin/clang.exe\"  @CMakeFiles/onnx.dir/includes_C.rsp  -g -ggdb -Wall -O3 -std=gnu99 -g -std=gnu99 -o CMakeFiles/onnx.dir/default/SequenceErase.c.obj -c D:/ProgramFiles/intelFPGA/18.1/hld/board/terasic/de1_soc/tests/DE1_libonnx/src/default/SequenceErase.c",
+  "file": "D:/ProgramFiles/intelFPGA/18.1/hld/board/terasic/de1_soc/tests/DE1_libonnx/src/default/SequenceErase.c"
+},
+{
+  "directory": "D:/ProgramFiles/intelFPGA/18.1/hld/board/terasic/de1_soc/tests/DE1_libonnx/build/src",
+  "command": "\"C:/Program Files (x86)/LLVM/bin/clang.exe\"  @CMakeFiles/onnx.dir/includes_C.rsp  -g -ggdb -Wall -O3 -std=gnu99 -g -std=gnu99 -o CMakeFiles/onnx.dir/default/SequenceInsert.c.obj -c D:/ProgramFiles/intelFPGA/18.1/hld/board/terasic/de1_soc/tests/DE1_libonnx/src/default/SequenceInsert.c",
+  "file": "D:/ProgramFiles/intelFPGA/18.1/hld/board/terasic/de1_soc/tests/DE1_libonnx/src/default/SequenceInsert.c"
+},
+{
+  "directory": "D:/ProgramFiles/intelFPGA/18.1/hld/board/terasic/de1_soc/tests/DE1_libonnx/build/src",
+  "command": "\"C:/Program Files (x86)/LLVM/bin/clang.exe\"  @CMakeFiles/onnx.dir/includes_C.rsp  -g -ggdb -Wall -O3 -std=gnu99 -g -std=gnu99 -o CMakeFiles/onnx.dir/default/SequenceLength.c.obj -c D:/ProgramFiles/intelFPGA/18.1/hld/board/terasic/de1_soc/tests/DE1_libonnx/src/default/SequenceLength.c",
+  "file": "D:/ProgramFiles/intelFPGA/18.1/hld/board/terasic/de1_soc/tests/DE1_libonnx/src/default/SequenceLength.c"
+},
+{
+  "directory": "D:/ProgramFiles/intelFPGA/18.1/hld/board/terasic/de1_soc/tests/DE1_libonnx/build/src",
+  "command": "\"C:/Program Files (x86)/LLVM/bin/clang.exe\"  @CMakeFiles/onnx.dir/includes_C.rsp  -g -ggdb -Wall -O3 -std=gnu99 -g -std=gnu99 -o CMakeFiles/onnx.dir/default/Shape.c.obj -c D:/ProgramFiles/intelFPGA/18.1/hld/board/terasic/de1_soc/tests/DE1_libonnx/src/default/Shape.c",
+  "file": "D:/ProgramFiles/intelFPGA/18.1/hld/board/terasic/de1_soc/tests/DE1_libonnx/src/default/Shape.c"
+},
+{
+  "directory": "D:/ProgramFiles/intelFPGA/18.1/hld/board/terasic/de1_soc/tests/DE1_libonnx/build/src",
+  "command": "\"C:/Program Files (x86)/LLVM/bin/clang.exe\"  @CMakeFiles/onnx.dir/includes_C.rsp  -g -ggdb -Wall -O3 -std=gnu99 -g -std=gnu99 -o CMakeFiles/onnx.dir/default/Shrink.c.obj -c D:/ProgramFiles/intelFPGA/18.1/hld/board/terasic/de1_soc/tests/DE1_libonnx/src/default/Shrink.c",
+  "file": "D:/ProgramFiles/intelFPGA/18.1/hld/board/terasic/de1_soc/tests/DE1_libonnx/src/default/Shrink.c"
+},
+{
+  "directory": "D:/ProgramFiles/intelFPGA/18.1/hld/board/terasic/de1_soc/tests/DE1_libonnx/build/src",
+  "command": "\"C:/Program Files (x86)/LLVM/bin/clang.exe\"  @CMakeFiles/onnx.dir/includes_C.rsp  -g -ggdb -Wall -O3 -std=gnu99 -g -std=gnu99 -o CMakeFiles/onnx.dir/default/Sigmoid.c.obj -c D:/ProgramFiles/intelFPGA/18.1/hld/board/terasic/de1_soc/tests/DE1_libonnx/src/default/Sigmoid.c",
+  "file": "D:/ProgramFiles/intelFPGA/18.1/hld/board/terasic/de1_soc/tests/DE1_libonnx/src/default/Sigmoid.c"
+},
+{
+  "directory": "D:/ProgramFiles/intelFPGA/18.1/hld/board/terasic/de1_soc/tests/DE1_libonnx/build/src",
+  "command": "\"C:/Program Files (x86)/LLVM/bin/clang.exe\"  @CMakeFiles/onnx.dir/includes_C.rsp  -g -ggdb -Wall -O3 -std=gnu99 -g -std=gnu99 -o CMakeFiles/onnx.dir/default/Sign.c.obj -c D:/ProgramFiles/intelFPGA/18.1/hld/board/terasic/de1_soc/tests/DE1_libonnx/src/default/Sign.c",
+  "file": "D:/ProgramFiles/intelFPGA/18.1/hld/board/terasic/de1_soc/tests/DE1_libonnx/src/default/Sign.c"
+},
+{
+  "directory": "D:/ProgramFiles/intelFPGA/18.1/hld/board/terasic/de1_soc/tests/DE1_libonnx/build/src",
+  "command": "\"C:/Program Files (x86)/LLVM/bin/clang.exe\"  @CMakeFiles/onnx.dir/includes_C.rsp  -g -ggdb -Wall -O3 -std=gnu99 -g -std=gnu99 -o CMakeFiles/onnx.dir/default/Sin.c.obj -c D:/ProgramFiles/intelFPGA/18.1/hld/board/terasic/de1_soc/tests/DE1_libonnx/src/default/Sin.c",
+  "file": "D:/ProgramFiles/intelFPGA/18.1/hld/board/terasic/de1_soc/tests/DE1_libonnx/src/default/Sin.c"
+},
+{
+  "directory": "D:/ProgramFiles/intelFPGA/18.1/hld/board/terasic/de1_soc/tests/DE1_libonnx/build/src",
+  "command": "\"C:/Program Files (x86)/LLVM/bin/clang.exe\"  @CMakeFiles/onnx.dir/includes_C.rsp  -g -ggdb -Wall -O3 -std=gnu99 -g -std=gnu99 -o CMakeFiles/onnx.dir/default/Sinh.c.obj -c D:/ProgramFiles/intelFPGA/18.1/hld/board/terasic/de1_soc/tests/DE1_libonnx/src/default/Sinh.c",
+  "file": "D:/ProgramFiles/intelFPGA/18.1/hld/board/terasic/de1_soc/tests/DE1_libonnx/src/default/Sinh.c"
+},
+{
+  "directory": "D:/ProgramFiles/intelFPGA/18.1/hld/board/terasic/de1_soc/tests/DE1_libonnx/build/src",
+  "command": "\"C:/Program Files (x86)/LLVM/bin/clang.exe\"  @CMakeFiles/onnx.dir/includes_C.rsp  -g -ggdb -Wall -O3 -std=gnu99 -g -std=gnu99 -o CMakeFiles/onnx.dir/default/Size.c.obj -c D:/ProgramFiles/intelFPGA/18.1/hld/board/terasic/de1_soc/tests/DE1_libonnx/src/default/Size.c",
+  "file": "D:/ProgramFiles/intelFPGA/18.1/hld/board/terasic/de1_soc/tests/DE1_libonnx/src/default/Size.c"
+},
+{
+  "directory": "D:/ProgramFiles/intelFPGA/18.1/hld/board/terasic/de1_soc/tests/DE1_libonnx/build/src",
+  "command": "\"C:/Program Files (x86)/LLVM/bin/clang.exe\"  @CMakeFiles/onnx.dir/includes_C.rsp  -g -ggdb -Wall -O3 -std=gnu99 -g -std=gnu99 -o CMakeFiles/onnx.dir/default/Slice.c.obj -c D:/ProgramFiles/intelFPGA/18.1/hld/board/terasic/de1_soc/tests/DE1_libonnx/src/default/Slice.c",
+  "file": "D:/ProgramFiles/intelFPGA/18.1/hld/board/terasic/de1_soc/tests/DE1_libonnx/src/default/Slice.c"
+},
+{
+  "directory": "D:/ProgramFiles/intelFPGA/18.1/hld/board/terasic/de1_soc/tests/DE1_libonnx/build/src",
+  "command": "\"C:/Program Files (x86)/LLVM/bin/clang.exe\"  @CMakeFiles/onnx.dir/includes_C.rsp  -g -ggdb -Wall -O3 -std=gnu99 -g -std=gnu99 -o CMakeFiles/onnx.dir/default/Softmax.c.obj -c D:/ProgramFiles/intelFPGA/18.1/hld/board/terasic/de1_soc/tests/DE1_libonnx/src/default/Softmax.c",
+  "file": "D:/ProgramFiles/intelFPGA/18.1/hld/board/terasic/de1_soc/tests/DE1_libonnx/src/default/Softmax.c"
+},
+{
+  "directory": "D:/ProgramFiles/intelFPGA/18.1/hld/board/terasic/de1_soc/tests/DE1_libonnx/build/src",
+  "command": "\"C:/Program Files (x86)/LLVM/bin/clang.exe\"  @CMakeFiles/onnx.dir/includes_C.rsp  -g -ggdb -Wall -O3 -std=gnu99 -g -std=gnu99 -o CMakeFiles/onnx.dir/default/SoftmaxCrossEntropyLoss.c.obj -c D:/ProgramFiles/intelFPGA/18.1/hld/board/terasic/de1_soc/tests/DE1_libonnx/src/default/SoftmaxCrossEntropyLoss.c",
+  "file": "D:/ProgramFiles/intelFPGA/18.1/hld/board/terasic/de1_soc/tests/DE1_libonnx/src/default/SoftmaxCrossEntropyLoss.c"
+},
+{
+  "directory": "D:/ProgramFiles/intelFPGA/18.1/hld/board/terasic/de1_soc/tests/DE1_libonnx/build/src",
+  "command": "\"C:/Program Files (x86)/LLVM/bin/clang.exe\"  @CMakeFiles/onnx.dir/includes_C.rsp  -g -ggdb -Wall -O3 -std=gnu99 -g -std=gnu99 -o CMakeFiles/onnx.dir/default/Softplus.c.obj -c D:/ProgramFiles/intelFPGA/18.1/hld/board/terasic/de1_soc/tests/DE1_libonnx/src/default/Softplus.c",
+  "file": "D:/ProgramFiles/intelFPGA/18.1/hld/board/terasic/de1_soc/tests/DE1_libonnx/src/default/Softplus.c"
+},
+{
+  "directory": "D:/ProgramFiles/intelFPGA/18.1/hld/board/terasic/de1_soc/tests/DE1_libonnx/build/src",
+  "command": "\"C:/Program Files (x86)/LLVM/bin/clang.exe\"  @CMakeFiles/onnx.dir/includes_C.rsp  -g -ggdb -Wall -O3 -std=gnu99 -g -std=gnu99 -o CMakeFiles/onnx.dir/default/Softsign.c.obj -c D:/ProgramFiles/intelFPGA/18.1/hld/board/terasic/de1_soc/tests/DE1_libonnx/src/default/Softsign.c",
+  "file": "D:/ProgramFiles/intelFPGA/18.1/hld/board/terasic/de1_soc/tests/DE1_libonnx/src/default/Softsign.c"
+},
+{
+  "directory": "D:/ProgramFiles/intelFPGA/18.1/hld/board/terasic/de1_soc/tests/DE1_libonnx/build/src",
+  "command": "\"C:/Program Files (x86)/LLVM/bin/clang.exe\"  @CMakeFiles/onnx.dir/includes_C.rsp  -g -ggdb -Wall -O3 -std=gnu99 -g -std=gnu99 -o CMakeFiles/onnx.dir/default/SpaceToDepth.c.obj -c D:/ProgramFiles/intelFPGA/18.1/hld/board/terasic/de1_soc/tests/DE1_libonnx/src/default/SpaceToDepth.c",
+  "file": "D:/ProgramFiles/intelFPGA/18.1/hld/board/terasic/de1_soc/tests/DE1_libonnx/src/default/SpaceToDepth.c"
+},
+{
+  "directory": "D:/ProgramFiles/intelFPGA/18.1/hld/board/terasic/de1_soc/tests/DE1_libonnx/build/src",
+  "command": "\"C:/Program Files (x86)/LLVM/bin/clang.exe\"  @CMakeFiles/onnx.dir/includes_C.rsp  -g -ggdb -Wall -O3 -std=gnu99 -g -std=gnu99 -o CMakeFiles/onnx.dir/default/Split.c.obj -c D:/ProgramFiles/intelFPGA/18.1/hld/board/terasic/de1_soc/tests/DE1_libonnx/src/default/Split.c",
+  "file": "D:/ProgramFiles/intelFPGA/18.1/hld/board/terasic/de1_soc/tests/DE1_libonnx/src/default/Split.c"
+},
+{
+  "directory": "D:/ProgramFiles/intelFPGA/18.1/hld/board/terasic/de1_soc/tests/DE1_libonnx/build/src",
+  "command": "\"C:/Program Files (x86)/LLVM/bin/clang.exe\"  @CMakeFiles/onnx.dir/includes_C.rsp  -g -ggdb -Wall -O3 -std=gnu99 -g -std=gnu99 -o CMakeFiles/onnx.dir/default/SplitToSequence.c.obj -c D:/ProgramFiles/intelFPGA/18.1/hld/board/terasic/de1_soc/tests/DE1_libonnx/src/default/SplitToSequence.c",
+  "file": "D:/ProgramFiles/intelFPGA/18.1/hld/board/terasic/de1_soc/tests/DE1_libonnx/src/default/SplitToSequence.c"
+},
+{
+  "directory": "D:/ProgramFiles/intelFPGA/18.1/hld/board/terasic/de1_soc/tests/DE1_libonnx/build/src",
+  "command": "\"C:/Program Files (x86)/LLVM/bin/clang.exe\"  @CMakeFiles/onnx.dir/includes_C.rsp  -g -ggdb -Wall -O3 -std=gnu99 -g -std=gnu99 -o CMakeFiles/onnx.dir/default/Sqrt.c.obj -c D:/ProgramFiles/intelFPGA/18.1/hld/board/terasic/de1_soc/tests/DE1_libonnx/src/default/Sqrt.c",
+  "file": "D:/ProgramFiles/intelFPGA/18.1/hld/board/terasic/de1_soc/tests/DE1_libonnx/src/default/Sqrt.c"
+},
+{
+  "directory": "D:/ProgramFiles/intelFPGA/18.1/hld/board/terasic/de1_soc/tests/DE1_libonnx/build/src",
+  "command": "\"C:/Program Files (x86)/LLVM/bin/clang.exe\"  @CMakeFiles/onnx.dir/includes_C.rsp  -g -ggdb -Wall -O3 -std=gnu99 -g -std=gnu99 -o CMakeFiles/onnx.dir/default/Squeeze.c.obj -c D:/ProgramFiles/intelFPGA/18.1/hld/board/terasic/de1_soc/tests/DE1_libonnx/src/default/Squeeze.c",
+  "file": "D:/ProgramFiles/intelFPGA/18.1/hld/board/terasic/de1_soc/tests/DE1_libonnx/src/default/Squeeze.c"
+},
+{
+  "directory": "D:/ProgramFiles/intelFPGA/18.1/hld/board/terasic/de1_soc/tests/DE1_libonnx/build/src",
+  "command": "\"C:/Program Files (x86)/LLVM/bin/clang.exe\"  @CMakeFiles/onnx.dir/includes_C.rsp  -g -ggdb -Wall -O3 -std=gnu99 -g -std=gnu99 -o CMakeFiles/onnx.dir/default/StringNormalizer.c.obj -c D:/ProgramFiles/intelFPGA/18.1/hld/board/terasic/de1_soc/tests/DE1_libonnx/src/default/StringNormalizer.c",
+  "file": "D:/ProgramFiles/intelFPGA/18.1/hld/board/terasic/de1_soc/tests/DE1_libonnx/src/default/StringNormalizer.c"
+},
+{
+  "directory": "D:/ProgramFiles/intelFPGA/18.1/hld/board/terasic/de1_soc/tests/DE1_libonnx/build/src",
+  "command": "\"C:/Program Files (x86)/LLVM/bin/clang.exe\"  @CMakeFiles/onnx.dir/includes_C.rsp  -g -ggdb -Wall -O3 -std=gnu99 -g -std=gnu99 -o CMakeFiles/onnx.dir/default/Sub.c.obj -c D:/ProgramFiles/intelFPGA/18.1/hld/board/terasic/de1_soc/tests/DE1_libonnx/src/default/Sub.c",
+  "file": "D:/ProgramFiles/intelFPGA/18.1/hld/board/terasic/de1_soc/tests/DE1_libonnx/src/default/Sub.c"
+},
+{
+  "directory": "D:/ProgramFiles/intelFPGA/18.1/hld/board/terasic/de1_soc/tests/DE1_libonnx/build/src",
+  "command": "\"C:/Program Files (x86)/LLVM/bin/clang.exe\"  @CMakeFiles/onnx.dir/includes_C.rsp  -g -ggdb -Wall -O3 -std=gnu99 -g -std=gnu99 -o CMakeFiles/onnx.dir/default/Sum.c.obj -c D:/ProgramFiles/intelFPGA/18.1/hld/board/terasic/de1_soc/tests/DE1_libonnx/src/default/Sum.c",
+  "file": "D:/ProgramFiles/intelFPGA/18.1/hld/board/terasic/de1_soc/tests/DE1_libonnx/src/default/Sum.c"
+},
+{
+  "directory": "D:/ProgramFiles/intelFPGA/18.1/hld/board/terasic/de1_soc/tests/DE1_libonnx/build/src",
+  "command": "\"C:/Program Files (x86)/LLVM/bin/clang.exe\"  @CMakeFiles/onnx.dir/includes_C.rsp  -g -ggdb -Wall -O3 -std=gnu99 -g -std=gnu99 -o CMakeFiles/onnx.dir/default/Tan.c.obj -c D:/ProgramFiles/intelFPGA/18.1/hld/board/terasic/de1_soc/tests/DE1_libonnx/src/default/Tan.c",
+  "file": "D:/ProgramFiles/intelFPGA/18.1/hld/board/terasic/de1_soc/tests/DE1_libonnx/src/default/Tan.c"
+},
+{
+  "directory": "D:/ProgramFiles/intelFPGA/18.1/hld/board/terasic/de1_soc/tests/DE1_libonnx/build/src",
+  "command": "\"C:/Program Files (x86)/LLVM/bin/clang.exe\"  @CMakeFiles/onnx.dir/includes_C.rsp  -g -ggdb -Wall -O3 -std=gnu99 -g -std=gnu99 -o CMakeFiles/onnx.dir/default/Tanh.c.obj -c D:/ProgramFiles/intelFPGA/18.1/hld/board/terasic/de1_soc/tests/DE1_libonnx/src/default/Tanh.c",
+  "file": "D:/ProgramFiles/intelFPGA/18.1/hld/board/terasic/de1_soc/tests/DE1_libonnx/src/default/Tanh.c"
+},
+{
+  "directory": "D:/ProgramFiles/intelFPGA/18.1/hld/board/terasic/de1_soc/tests/DE1_libonnx/build/src",
+  "command": "\"C:/Program Files (x86)/LLVM/bin/clang.exe\"  @CMakeFiles/onnx.dir/includes_C.rsp  -g -ggdb -Wall -O3 -std=gnu99 -g -std=gnu99 -o CMakeFiles/onnx.dir/default/TfIdfVectorizer.c.obj -c D:/ProgramFiles/intelFPGA/18.1/hld/board/terasic/de1_soc/tests/DE1_libonnx/src/default/TfIdfVectorizer.c",
+  "file": "D:/ProgramFiles/intelFPGA/18.1/hld/board/terasic/de1_soc/tests/DE1_libonnx/src/default/TfIdfVectorizer.c"
+},
+{
+  "directory": "D:/ProgramFiles/intelFPGA/18.1/hld/board/terasic/de1_soc/tests/DE1_libonnx/build/src",
+  "command": "\"C:/Program Files (x86)/LLVM/bin/clang.exe\"  @CMakeFiles/onnx.dir/includes_C.rsp  -g -ggdb -Wall -O3 -std=gnu99 -g -std=gnu99 -o CMakeFiles/onnx.dir/default/ThresholdedRelu.c.obj -c D:/ProgramFiles/intelFPGA/18.1/hld/board/terasic/de1_soc/tests/DE1_libonnx/src/default/ThresholdedRelu.c",
+  "file": "D:/ProgramFiles/intelFPGA/18.1/hld/board/terasic/de1_soc/tests/DE1_libonnx/src/default/ThresholdedRelu.c"
+},
+{
+  "directory": "D:/ProgramFiles/intelFPGA/18.1/hld/board/terasic/de1_soc/tests/DE1_libonnx/build/src",
+  "command": "\"C:/Program Files (x86)/LLVM/bin/clang.exe\"  @CMakeFiles/onnx.dir/includes_C.rsp  -g -ggdb -Wall -O3 -std=gnu99 -g -std=gnu99 -o CMakeFiles/onnx.dir/default/Tile.c.obj -c D:/ProgramFiles/intelFPGA/18.1/hld/board/terasic/de1_soc/tests/DE1_libonnx/src/default/Tile.c",
+  "file": "D:/ProgramFiles/intelFPGA/18.1/hld/board/terasic/de1_soc/tests/DE1_libonnx/src/default/Tile.c"
+},
+{
+  "directory": "D:/ProgramFiles/intelFPGA/18.1/hld/board/terasic/de1_soc/tests/DE1_libonnx/build/src",
+  "command": "\"C:/Program Files (x86)/LLVM/bin/clang.exe\"  @CMakeFiles/onnx.dir/includes_C.rsp  -g -ggdb -Wall -O3 -std=gnu99 -g -std=gnu99 -o CMakeFiles/onnx.dir/default/TopK.c.obj -c D:/ProgramFiles/intelFPGA/18.1/hld/board/terasic/de1_soc/tests/DE1_libonnx/src/default/TopK.c",
+  "file": "D:/ProgramFiles/intelFPGA/18.1/hld/board/terasic/de1_soc/tests/DE1_libonnx/src/default/TopK.c"
+},
+{
+  "directory": "D:/ProgramFiles/intelFPGA/18.1/hld/board/terasic/de1_soc/tests/DE1_libonnx/build/src",
+  "command": "\"C:/Program Files (x86)/LLVM/bin/clang.exe\"  @CMakeFiles/onnx.dir/includes_C.rsp  -g -ggdb -Wall -O3 -std=gnu99 -g -std=gnu99 -o CMakeFiles/onnx.dir/default/Transpose.c.obj -c D:/ProgramFiles/intelFPGA/18.1/hld/board/terasic/de1_soc/tests/DE1_libonnx/src/default/Transpose.c",
+  "file": "D:/ProgramFiles/intelFPGA/18.1/hld/board/terasic/de1_soc/tests/DE1_libonnx/src/default/Transpose.c"
+},
+{
+  "directory": "D:/ProgramFiles/intelFPGA/18.1/hld/board/terasic/de1_soc/tests/DE1_libonnx/build/src",
+  "command": "\"C:/Program Files (x86)/LLVM/bin/clang.exe\"  @CMakeFiles/onnx.dir/includes_C.rsp  -g -ggdb -Wall -O3 -std=gnu99 -g -std=gnu99 -o CMakeFiles/onnx.dir/default/Trilu.c.obj -c D:/ProgramFiles/intelFPGA/18.1/hld/board/terasic/de1_soc/tests/DE1_libonnx/src/default/Trilu.c",
+  "file": "D:/ProgramFiles/intelFPGA/18.1/hld/board/terasic/de1_soc/tests/DE1_libonnx/src/default/Trilu.c"
+},
+{
+  "directory": "D:/ProgramFiles/intelFPGA/18.1/hld/board/terasic/de1_soc/tests/DE1_libonnx/build/src",
+  "command": "\"C:/Program Files (x86)/LLVM/bin/clang.exe\"  @CMakeFiles/onnx.dir/includes_C.rsp  -g -ggdb -Wall -O3 -std=gnu99 -g -std=gnu99 -o CMakeFiles/onnx.dir/default/Unique.c.obj -c D:/ProgramFiles/intelFPGA/18.1/hld/board/terasic/de1_soc/tests/DE1_libonnx/src/default/Unique.c",
+  "file": "D:/ProgramFiles/intelFPGA/18.1/hld/board/terasic/de1_soc/tests/DE1_libonnx/src/default/Unique.c"
+},
+{
+  "directory": "D:/ProgramFiles/intelFPGA/18.1/hld/board/terasic/de1_soc/tests/DE1_libonnx/build/src",
+  "command": "\"C:/Program Files (x86)/LLVM/bin/clang.exe\"  @CMakeFiles/onnx.dir/includes_C.rsp  -g -ggdb -Wall -O3 -std=gnu99 -g -std=gnu99 -o CMakeFiles/onnx.dir/default/Unsqueeze.c.obj -c D:/ProgramFiles/intelFPGA/18.1/hld/board/terasic/de1_soc/tests/DE1_libonnx/src/default/Unsqueeze.c",
+  "file": "D:/ProgramFiles/intelFPGA/18.1/hld/board/terasic/de1_soc/tests/DE1_libonnx/src/default/Unsqueeze.c"
+},
+{
+  "directory": "D:/ProgramFiles/intelFPGA/18.1/hld/board/terasic/de1_soc/tests/DE1_libonnx/build/src",
+  "command": "\"C:/Program Files (x86)/LLVM/bin/clang.exe\"  @CMakeFiles/onnx.dir/includes_C.rsp  -g -ggdb -Wall -O3 -std=gnu99 -g -std=gnu99 -o CMakeFiles/onnx.dir/default/Upsample.c.obj -c D:/ProgramFiles/intelFPGA/18.1/hld/board/terasic/de1_soc/tests/DE1_libonnx/src/default/Upsample.c",
+  "file": "D:/ProgramFiles/intelFPGA/18.1/hld/board/terasic/de1_soc/tests/DE1_libonnx/src/default/Upsample.c"
+},
+{
+  "directory": "D:/ProgramFiles/intelFPGA/18.1/hld/board/terasic/de1_soc/tests/DE1_libonnx/build/src",
+  "command": "\"C:/Program Files (x86)/LLVM/bin/clang.exe\"  @CMakeFiles/onnx.dir/includes_C.rsp  -g -ggdb -Wall -O3 -std=gnu99 -g -std=gnu99 -o CMakeFiles/onnx.dir/default/Where.c.obj -c D:/ProgramFiles/intelFPGA/18.1/hld/board/terasic/de1_soc/tests/DE1_libonnx/src/default/Where.c",
+  "file": "D:/ProgramFiles/intelFPGA/18.1/hld/board/terasic/de1_soc/tests/DE1_libonnx/src/default/Where.c"
+},
+{
+  "directory": "D:/ProgramFiles/intelFPGA/18.1/hld/board/terasic/de1_soc/tests/DE1_libonnx/build/src",
+  "command": "\"C:/Program Files (x86)/LLVM/bin/clang.exe\"  @CMakeFiles/onnx.dir/includes_C.rsp  -g -ggdb -Wall -O3 -std=gnu99 -g -std=gnu99 -o CMakeFiles/onnx.dir/default/Xor.c.obj -c D:/ProgramFiles/intelFPGA/18.1/hld/board/terasic/de1_soc/tests/DE1_libonnx/src/default/Xor.c",
+  "file": "D:/ProgramFiles/intelFPGA/18.1/hld/board/terasic/de1_soc/tests/DE1_libonnx/src/default/Xor.c"
+},
+{
+  "directory": "D:/ProgramFiles/intelFPGA/18.1/hld/board/terasic/de1_soc/tests/DE1_libonnx/build/src",
+  "command": "\"C:/Program Files (x86)/LLVM/bin/clang.exe\"  @CMakeFiles/onnx.dir/includes_C.rsp  -g -ggdb -Wall -O3 -std=gnu99 -g -std=gnu99 -o CMakeFiles/onnx.dir/default/default.c.obj -c D:/ProgramFiles/intelFPGA/18.1/hld/board/terasic/de1_soc/tests/DE1_libonnx/src/default/default.c",
+  "file": "D:/ProgramFiles/intelFPGA/18.1/hld/board/terasic/de1_soc/tests/DE1_libonnx/src/default/default.c"
+},
+{
+  "directory": "D:/ProgramFiles/intelFPGA/18.1/hld/board/terasic/de1_soc/tests/DE1_libonnx/build/examples/hello",
+  "command": "\"C:/Program Files (x86)/LLVM/bin/clang.exe\"  @CMakeFiles/hello.dir/includes_C.rsp  -g -ggdb -Wall -O3 -std=gnu99 -g -std=gnu99 -o CMakeFiles/hello.dir/main.c.obj -c D:/ProgramFiles/intelFPGA/18.1/hld/board/terasic/de1_soc/tests/DE1_libonnx/examples/hello/main.c",
+  "file": "D:/ProgramFiles/intelFPGA/18.1/hld/board/terasic/de1_soc/tests/DE1_libonnx/examples/hello/main.c"
+},
+{
+  "directory": "D:/ProgramFiles/intelFPGA/18.1/hld/board/terasic/de1_soc/tests/DE1_libonnx/build/examples/mnist",
+  "command": "\"C:/Program Files (x86)/LLVM/bin/clang.exe\"  @CMakeFiles/mnist.dir/includes_C.rsp  -g -ggdb -Wall -O3 -std=gnu99 -g -std=gnu99 -o CMakeFiles/mnist.dir/SDL2_framerate.c.obj -c D:/ProgramFiles/intelFPGA/18.1/hld/board/terasic/de1_soc/tests/DE1_libonnx/examples/mnist/SDL2_framerate.c",
+  "file": "D:/ProgramFiles/intelFPGA/18.1/hld/board/terasic/de1_soc/tests/DE1_libonnx/examples/mnist/SDL2_framerate.c"
+},
+{
+  "directory": "D:/ProgramFiles/intelFPGA/18.1/hld/board/terasic/de1_soc/tests/DE1_libonnx/build/examples/mnist",
+  "command": "\"C:/Program Files (x86)/LLVM/bin/clang.exe\"  @CMakeFiles/mnist.dir/includes_C.rsp  -g -ggdb -Wall -O3 -std=gnu99 -g -std=gnu99 -o CMakeFiles/mnist.dir/SDL2_gfxPrimitives.c.obj -c D:/ProgramFiles/intelFPGA/18.1/hld/board/terasic/de1_soc/tests/DE1_libonnx/examples/mnist/SDL2_gfxPrimitives.c",
+  "file": "D:/ProgramFiles/intelFPGA/18.1/hld/board/terasic/de1_soc/tests/DE1_libonnx/examples/mnist/SDL2_gfxPrimitives.c"
+},
+{
+  "directory": "D:/ProgramFiles/intelFPGA/18.1/hld/board/terasic/de1_soc/tests/DE1_libonnx/build/examples/mnist",
+  "command": "\"C:/Program Files (x86)/LLVM/bin/clang.exe\"  @CMakeFiles/mnist.dir/includes_C.rsp  -g -ggdb -Wall -O3 -std=gnu99 -g -std=gnu99 -o CMakeFiles/mnist.dir/SDL2_imageFilter.c.obj -c D:/ProgramFiles/intelFPGA/18.1/hld/board/terasic/de1_soc/tests/DE1_libonnx/examples/mnist/SDL2_imageFilter.c",
+  "file": "D:/ProgramFiles/intelFPGA/18.1/hld/board/terasic/de1_soc/tests/DE1_libonnx/examples/mnist/SDL2_imageFilter.c"
+},
+{
+  "directory": "D:/ProgramFiles/intelFPGA/18.1/hld/board/terasic/de1_soc/tests/DE1_libonnx/build/examples/mnist",
+  "command": "\"C:/Program Files (x86)/LLVM/bin/clang.exe\"  @CMakeFiles/mnist.dir/includes_C.rsp  -g -ggdb -Wall -O3 -std=gnu99 -g -std=gnu99 -o CMakeFiles/mnist.dir/SDL2_rotozoom.c.obj -c D:/ProgramFiles/intelFPGA/18.1/hld/board/terasic/de1_soc/tests/DE1_libonnx/examples/mnist/SDL2_rotozoom.c",
+  "file": "D:/ProgramFiles/intelFPGA/18.1/hld/board/terasic/de1_soc/tests/DE1_libonnx/examples/mnist/SDL2_rotozoom.c"
+},
+{
+  "directory": "D:/ProgramFiles/intelFPGA/18.1/hld/board/terasic/de1_soc/tests/DE1_libonnx/build/examples/mnist",
+  "command": "\"C:/Program Files (x86)/LLVM/bin/clang.exe\"  @CMakeFiles/mnist.dir/includes_C.rsp  -g -ggdb -Wall -O3 -std=gnu99 -g -std=gnu99 -o CMakeFiles/mnist.dir/main.c.obj -c D:/ProgramFiles/intelFPGA/18.1/hld/board/terasic/de1_soc/tests/DE1_libonnx/examples/mnist/main.c",
+  "file": "D:/ProgramFiles/intelFPGA/18.1/hld/board/terasic/de1_soc/tests/DE1_libonnx/examples/mnist/main.c"
+},
+{
+  "directory": "D:/ProgramFiles/intelFPGA/18.1/hld/board/terasic/de1_soc/tests/DE1_libonnx/build/examples/benchmark",
+  "command": "\"C:/Program Files (x86)/LLVM/bin/clang.exe\"  @CMakeFiles/benchmark.dir/includes_C.rsp  -g -ggdb -Wall -O3 -std=gnu99 -g -std=gnu99 -o CMakeFiles/benchmark.dir/main.c.obj -c D:/ProgramFiles/intelFPGA/18.1/hld/board/terasic/de1_soc/tests/DE1_libonnx/examples/benchmark/main.c",
+  "file": "D:/ProgramFiles/intelFPGA/18.1/hld/board/terasic/de1_soc/tests/DE1_libonnx/examples/benchmark/main.c"
+}
+]

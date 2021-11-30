@@ -1,0 +1,2 @@
+"C:/Program Files (x86)/Dev-Cpp/MinGW64/bin/ar.exe" qc liblicvimgproc.a CMakeFiles/licvimgproc.dir/Imgproc/li_image_proc.c.obj
+"C:/Program Files (x86)/Dev-Cpp/MinGW64/bin/ranlib.exe" liblicvimgproc.a

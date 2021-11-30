@@ -1,0 +1,14 @@
+D:/ProgramFiles/intelFPGA/18.1/hld/board/terasic/de1_soc/tests/DE1_libonnx/LiteCV/build_gcc_win86/CMakeFiles/LICV.dir
+D:/ProgramFiles/intelFPGA/18.1/hld/board/terasic/de1_soc/tests/DE1_libonnx/LiteCV/build_gcc_win86/CMakeFiles/IO.dir
+D:/ProgramFiles/intelFPGA/18.1/hld/board/terasic/de1_soc/tests/DE1_libonnx/LiteCV/build_gcc_win86/CMakeFiles/edit_cache.dir
+D:/ProgramFiles/intelFPGA/18.1/hld/board/terasic/de1_soc/tests/DE1_libonnx/LiteCV/build_gcc_win86/CMakeFiles/canny.dir
+D:/ProgramFiles/intelFPGA/18.1/hld/board/terasic/de1_soc/tests/DE1_libonnx/LiteCV/build_gcc_win86/CMakeFiles/Painter.dir
+D:/ProgramFiles/intelFPGA/18.1/hld/board/terasic/de1_soc/tests/DE1_libonnx/LiteCV/build_gcc_win86/CMakeFiles/conv.dir
+D:/ProgramFiles/intelFPGA/18.1/hld/board/terasic/de1_soc/tests/DE1_libonnx/LiteCV/build_gcc_win86/CMakeFiles/Hist.dir
+D:/ProgramFiles/intelFPGA/18.1/hld/board/terasic/de1_soc/tests/DE1_libonnx/LiteCV/build_gcc_win86/CMakeFiles/QR.dir
+D:/ProgramFiles/intelFPGA/18.1/hld/board/terasic/de1_soc/tests/DE1_libonnx/LiteCV/build_gcc_win86/CMakeFiles/rebuild_cache.dir
+D:/ProgramFiles/intelFPGA/18.1/hld/board/terasic/de1_soc/tests/DE1_libonnx/LiteCV/build_gcc_win86/Litecv/CMakeFiles/edit_cache.dir
+D:/ProgramFiles/intelFPGA/18.1/hld/board/terasic/de1_soc/tests/DE1_libonnx/LiteCV/build_gcc_win86/Litecv/CMakeFiles/licvcore.dir
+D:/ProgramFiles/intelFPGA/18.1/hld/board/terasic/de1_soc/tests/DE1_libonnx/LiteCV/build_gcc_win86/Litecv/CMakeFiles/licvimgproc.dir
+D:/ProgramFiles/intelFPGA/18.1/hld/board/terasic/de1_soc/tests/DE1_libonnx/LiteCV/build_gcc_win86/Litecv/CMakeFiles/licvqr.dir
+D:/ProgramFiles/intelFPGA/18.1/hld/board/terasic/de1_soc/tests/DE1_libonnx/LiteCV/build_gcc_win86/Litecv/CMakeFiles/rebuild_cache.dir

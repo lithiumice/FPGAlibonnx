@@ -1,0 +1,15 @@
+{
+  "rootdir": "/mnt/d/ProgramFiles/intelFPGA/18.1/hld/board/terasic/de1_soc/tests/DE1_libonnx/OpenCV/opencv-4.5.3",
+  "modules": [
+    { "name": "core", "location": "modules/core" },
+    { "name": "imgproc", "location": "modules/imgproc" },
+    { "name": "photo", "location": "modules/photo" },
+    { "name": "video", "location": "modules/video" },
+    { "name": "features2d", "location": "modules/features2d" }
+  ],
+  "files_remap": [
+    { "src": "modules/java/generator/src/java/org/opencv/osgi/OpenCVNativeLoader.java.in", "target": "/mnt/d/ProgramFiles/intelFPGA/18.1/hld/board/terasic/de1_soc/tests/DE1_libonnx/OpenCV/opencv-4.5.3/build_gcc_win86/configured/modules/java/generator/src/java/org/opencv/osgi/OpenCVNativeLoader.java" },
+    { "src": "modules/java/generator/android/java/org/opencv/android/OpenCVLoader.java.in", "target": "/mnt/d/ProgramFiles/intelFPGA/18.1/hld/board/terasic/de1_soc/tests/DE1_libonnx/OpenCV/opencv-4.5.3/build_gcc_win86/configured/modules/java/generator/android/java/org/opencv/android/OpenCVLoader.java" },
+    { "src": "modules/core/misc/java/src/java/core+Core.jcode.in", "target": "/mnt/d/ProgramFiles/intelFPGA/18.1/hld/board/terasic/de1_soc/tests/DE1_libonnx/OpenCV/opencv-4.5.3/build_gcc_win86/configured/modules/core/misc/java/src/java/core+Core.jcode" }
+  ]
+}

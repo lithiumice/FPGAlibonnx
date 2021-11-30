@@ -1,0 +1,5 @@
+/mnt/d/ProgramFiles/intelFPGA/18.1/hld/board/terasic/de1_soc/tests/DE1_libonnx/build_gcc_wslubuntu/install/lib/libonnx.a
+/mnt/d/ProgramFiles/intelFPGA/18.1/hld/board/terasic/de1_soc/tests/DE1_libonnx/build_gcc_wslubuntu/install/lib/cmake/onnx/onnx.cmake
+/mnt/d/ProgramFiles/intelFPGA/18.1/hld/board/terasic/de1_soc/tests/DE1_libonnx/build_gcc_wslubuntu/install/lib/cmake/onnx/onnx-debug.cmake
+/mnt/d/ProgramFiles/intelFPGA/18.1/hld/board/terasic/de1_soc/tests/DE1_libonnx/build_gcc_wslubuntu/install/lib/cmake/onnx/onnxConfig.cmake
+/mnt/d/ProgramFiles/intelFPGA/18.1/hld/board/terasic/de1_soc/tests/DE1_libonnx/build_gcc_wslubuntu/install/lib/cmake/onnx/onnxConfigVersion.cmake

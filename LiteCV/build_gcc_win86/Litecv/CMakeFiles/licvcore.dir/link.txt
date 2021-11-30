@@ -1,0 +1,2 @@
+"C:/Program Files (x86)/Dev-Cpp/MinGW64/bin/ar.exe" qc liblicvcore.a CMakeFiles/licvcore.dir/Core/li_image.c.obj
+"C:/Program Files (x86)/Dev-Cpp/MinGW64/bin/ranlib.exe" liblicvcore.a
